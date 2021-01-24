@@ -2,7 +2,7 @@ The Section On Discerning Mental Phenomena (Nāma Kammaṭṭhāna)
 
 (English translation has not yet been edited.)
 
-**Three Ways Of Discerning Mental Phenomena**
+# Three Ways Of Discerning Mental Phenomena
 
 _Tividho hi arūpakammaṭṭhāne abhiniveso phassavasena vedanāvasena cittavasenāti_ (Majjhima Commentary-Vol.1-pg.180, Burmese script).
 
@@ -131,7 +131,9 @@ In wholesome states, it is striving for the arising of Alobha or Adosa or Amoha.
 
 = wanting to produce an object.
 
-(Notes:.........................................................................................................................................................................................................
+(Notes:
+
+---
 
 These 6 Cetasika do not arise simultaneously with all Citta but only with some Citta; therefore, they are called Pakiṇṇaka (miscellaneous) Cetasika.
 
