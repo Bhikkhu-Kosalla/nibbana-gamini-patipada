@@ -69,7 +69,7 @@ These Supramundane ***Dhammas*** which have been known and seen penetratively by
 
 These Noble ***Dhammas*** called Four Noble Truths are not worth concentrating by only initial  application  of  philosophers  with  reasoning  but  not  practice.  These  are  worth concentrating by right view experiential knowledge only. The Noble Eightfold Path called the right course leading to ***nibbāna*** (***sammāpaṭipadā***) is worth knowing and seeing by wise and righteous persons with practical knowledge. 
 
-These all beings are taking delight in two kinds of heartfelt desire i.e., heartfelt desire on five kinds of sensuality called ***kāmālaya*** and heartfelt desire to enjoy those five kinds of sensuality called ***taņhālaya***. 
+These all beings are taking delight in two kinds of heartfelt desire i.e., heartfelt desire on five kinds of sensuality called ***kāmālaya*** and heartfelt desire to enjoy those five kinds of sensuality called ***taṇhālaya***. 
 
 **PAGE-B** 
 
@@ -81,7 +81,7 @@ Similarly these all beings enjoy and take delight in the garden of suffering of 
 
 They live happily in cycle of rounds of rebirth without feeling bored any more. Those all  beings  are  very  difficult  to  see  this  principle  of  dependent-origination  with  incessant phenomena of arising and passing away of causal and resultant ***dhammas***. 
 
-The Supreme Noble ***dhamma*** called ***nibbāna***, which is absolute cessation of all kinds of conditioned things; which is void of four kinds of ***upadhi*** called ***kāmupahi*** (sensuality ground),  ***khandhupadhi***  (aggregate  ground),  ***kilesupadhi***  (defilement  ground),  ***abhi sańkhārupadhi*** (formation ground); which is finished of (108) varieties of craving; which is void of (1500) kinds of defilements; which is absolute cessation of all kinds of suffering is the most difficult ***dhammas*** to be understood really. 
+The Supreme Noble ***dhamma*** called ***nibbāna***, which is absolute cessation of all kinds of conditioned things; which is void of four kinds of ***upadhi*** called ***kāmupahi*** (sensuality ground),  ***khandhupadhi***  (aggregate  ground),  ***kilesupadhi***  (defilement  ground),  ***abhi saṅkhārupadhi*** (formation ground); which is finished of (108) varieties of craving; which is void of (1500) kinds of defilements; which is absolute cessation of all kinds of suffering is the most difficult ***dhammas*** to be understood really. 
 
 As if I preach those profound ***dhammas***, those heavenly beings, human beings and brahmas with immatured controlling faculties, who are not deserving to enlighten by my preaching, resulting in weariness for me really.” 
 
@@ -89,7 +89,7 @@ This way of reasoing arose in the continuum of the Supreme Buddha. Furthermore t
 
 ***kicchena  me  adhigatam,  halam  dāni  pakāsitum.  rāgadosaparetehi,  nāyam  dhammo susambudho.*** 
 
-***paṭisotagāmim nipuņam, gambhīram duddasam aņum.*** 
+***paṭisotagāmim nipuṇam, gambhīram duddasam aṇum.*** 
 
 ***rāgarattā na dakkhanti, tamokkhan dhena āvuṭā. (Vi-3-5,6; Dī-2-31)*** 
 
@@ -123,11 +123,11 @@ This way of reasoing arose in the continuum of the Supreme Buddha. Furthermore t
 
 ***paṭisota  gāmim***  =  Four  Noble  Truths  ***dhammas***  which  leads  to  ***nibbāna***  called  way  of upstream entering into rounds of rebirth, 
 
-***nipuņam*** = which is very subtle, 
+***nipuṇam*** = which is very subtle, 
 
 ***gambhīram*** = very profound 
 
-***aņum*** = very fine, 
+***aṇum*** = very fine, 
 
 ***duddasam*** = which is very difficult to be seen as mustard seed covered by Mount Meru. (***Vi- 3-5,6; Dī-2-31***) 
 
@@ -135,16 +135,16 @@ Four Noble Truths preached by the Supreme Buddha is very difficult and profound 
 
 As the Supreme Buddha preached that as if Four Noble Truths are not known and seen penetratively by right view knowledge of one self, suffering of rounds of rebirth can not be terminated, 
 
-in ***Kūṭāgāra Sutta, Sacca Samyutta,*** similarly, in ***Mahānidāna Sutta (Dī-2-47)***, the Buddha preached  that  as  if  the  principle  of  dependent-origination  is  not  known  and  seen  by ***anubodhañāņa*** (repeated practical knowledge) and ***paṭivedha ñāņa*** (realizable knowledge) of oneself, one can not escape from suffering of rounds of rebirth. 
+in ***Kūṭāgāra Sutta, Sacca Samyutta,*** similarly, in ***Mahānidāna Sutta (Dī-2-47)***, the Buddha preached  that  as  if  the  principle  of  dependent-origination  is  not  known  and  seen  by ***anubodhañāṇa*** (repeated practical knowledge) and ***paṭivedha ñāṇa*** (realizable knowledge) of oneself, one can not escape from suffering of rounds of rebirth. 
 
 Therefore  even  though  it  is  very  difficult  and  profound  to  be  understood  every righteous person who wants to emancipate rounds of rebirth has to endeavour in order to know and see penetratively on principle of dependent-origination. 
 
 During endeavouring in that way the righteous person has to follow respectfully on the way of practice called (7) kinds of cascade of purification. 
 
 1. ***Sīla visuddhi*** = Try to purify moral conducts thoroughly. 
-1. ***Cittavisuddhi*** = Try to purify consciousness through attaining any kind of concentration, access concentration  or full concentration which canremove impurities of hindrances (***nīvaraņa***) 
+1. ***Cittavisuddhi*** = Try to purify consciousness through attaining any kind of concentration, access concentration  or full concentration which canremove impurities of hindrances (***nīvaraṇa***) 
 1. ***Diṭṭhivisuddhi*** = Try to attain clear understanding on corporeality-mentality (= try to attain the knowledge of Analysing Mentality-Corporeality). 
-1. Afterwards  one  should  transfer  to  the  stage  of  Purification  by  Overcoming  Doubt (***kankhāvitaraņavisuddhi***). 
+1. Afterwards  one  should  transfer  to  the  stage  of  Purification  by  Overcoming  Doubt (***kankhāvitaraṇavisuddhi***). 
 
 Unless  three  kinds  of  cascades  of  purification  called  ***Sīlavisuddhi,  Cittavisuddhi, Diṭṭhivisuddhi*** are accomplished, one should not perform in order to attain the knowledge of Cause and Condition which is capable of keeping in mind causal ***dhmmas*** of three periods, past, future and present. It is very difficult to succeed because purification by overcoming doubt called the knowledge of cause and Condition can not be attained with skipping. 
 

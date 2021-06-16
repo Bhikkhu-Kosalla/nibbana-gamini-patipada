@@ -836,7 +836,7 @@ There is no discourse, directly using the term "the Heart-materiality in *Pali-*
 
 
 __" *Yam niparh nissaya mano-dhatu ca mariovi?ifi. ana dhatu ca vattanti, tam rupam mano-dh'atuya ca manovmhanadhatuy'a ca tarn sampayuttakanan*__*-ca __dhammanam nissaya-paccayena paceayo ".__*__  
-### ` `***(Patthana- 1-*5. )** 
+###  ***(Patthana- 1-*5. )** 
 Translation;---— Depending on a particular materiality; the Mind-element and the Mindconsciousness-element arise. That materiality is beneficial to these Mind-element. Mindconsciousness-element and associated Mental concomitants as Support-condition *(Nissaya paccaya. satti)* 
 
 The existence of the Heart-materiality *(Hadaya-vatthu)* on which the Mind-element and the Mind-consciousness-element depend should be known by two ways. One is recitation from memory *(Agama)* and another is rational thinking *(Yutti* ). The above *Pali* phrase shows the existence of Heart-materiality *(Hadaya vatthu)* in the way of " *Agama* = recitation from memory ). And based on this *Pdli-*phrase;-— There should be -——- 
@@ -878,7 +878,7 @@ The moving blood is circulating along the vessels and distributed throughout the
 From now; the explanations in terms of the Ultimate-truth World *(Paramattha* sacco) will be given:— 
 **
 
-### ` `***Pali Quotation (Vs-2-223)*** 
+###  ***Pali Quotation (Vs-2-223)*** 
 ** 
 
 Among the 24 parts of the Body, there are 44 types of materialities ' produced and. conditioned by 4 causes namely the Action, Consciousness, Temperature and Nutriment. *(Kamma; **Citta; Utu;** Ahdra)* in each part of the Body. (Visuddhi-**2**-**223. )** 
@@ -926,7 +926,7 @@ The Cardiac Surgeons of modern time use a machine which acts like the Heart to e
 ## **PAGE-83** 
 
 
-` `The so called air which is pushed by the mechine *=*  in the collection of the 
+ The so called air which is pushed by the mechine *=*  in the collection of the 
 
 Temperature-produced-nutritive -essence as 8th factor groups of matter, (ie: *-UtujaOjatthamaka rupa kalapa* ). When the Air -element in these matters take the pushing-function *(Samudirana kicca)* the Air known as *'Ahgdmahga nusdrino vdtd'* which is moving along the vessels becomes continuously powerful to push the Moving blood *(Samsarana lohitam )* in the circulation.  
 
@@ -1056,7 +1056,7 @@ All the description in the Preface of the *Patthana-* Commentary are, metaphoric
 
 
 
-` `**The Nutriment -Base-Matter and The Nutritive -Essence *(Vatthu and Oja).***  
+ **The Nutriment -Base-Matter and The Nutritive -Essence *(Vatthu and Oja).***  
 
 The Nutritive -essence matter *(=7iha. ra=0jdrupa) is* the core element of the Temperature -produccd-nutritive-essence-as-Sth unit group of materiality exists in the ingested or swallowed foods. That Nutritive-essence can not be taken up as such without the foods in which it contained. In other words; it can be taken up along with the Temperatrureproduced-nutritive-essence-as-8th unit group of matter which are collectively known as foods. So, the matter in which the Nutritive-essence exists in known as. the Nutriment -BaseMatter *(Vatthu).* Alternatively, the collection ofTemperature-produced-nutritive-essence-as8th unit group of matter in the foods (eg; cooked rice) with the exception of the Nutrimentessence is known as the Nutriment-Base-Matter. The living beings take up the Nutritiveessence along with the Nutriment-Base-Matter like foods. If so, there is a question as follow:—— **Question;** --- Between the Nutriment -Base-Matter and the Nutritive Essence; what is the function of Base-Matter *(Vatthu)* and what is the function of Essence *( Oja)?* 
 ## **PAGE-91** 
