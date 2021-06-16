@@ -1,10 +1,10 @@
 ﻿***"namo tassabhagavato arahato sammāsambuddhassa"*** 
 
-NIBBĀNA GĀMINIPAŢIPADĀ 
+NIBBĀNA GĀMINIPAṭIPADĀ 
 
 **SECTION OF DEPENDENT-ORIGINATION** 
 
-(***paţicca samuppāda***) **VOLUME III**  
+(***paṭicca samuppāda***) **VOLUME III**  
 
 **BY** 
 
@@ -16,7 +16,7 @@ NIBBĀNA GĀMINIPAŢIPADĀ
 
 **Edited By** 
 
-**Ashin Sajjana (*diviţaka dhara*)** 
+**Ashin Sajjana (*diviṭaka dhara*)** 
 Translated by - ***Aññatara Bhikkhu*** \*  PAGE5
 
 **First Edition** 
@@ -31,7 +31,7 @@ I would like to thank the Most Venerable Pa-Auk Tawya Sayadaw for writing origin
 
 Venerable Ashin Kesarinda, Abbot Pa-Auk Tawya (Branch) Mandalay 
 
-I  am  very  grateful  to  the  Most  Venerable  Sayadaw  Ashin  Sajjana (***dvipiţaka dhara***), U.S.A for revised editing the whole work. 
+I  am  very  grateful  to  the  Most  Venerable  Sayadaw  Ashin  Sajjana (***dvipiṭaka dhara***), U.S.A for revised editing the whole work. 
 
 I am grateful to my layman  devotees, namely Dr. Khin Maung Aye, Dr. Nyunt  Lwin,  U  Myint  Swe,  M.A  London  for  translating  some  parts  of remaining four volumes. 
 
@@ -49,7 +49,7 @@ Translator AÑÑATARA  BHIKKHU
 
 ***"namo tassabhagavato arahato sammāsambuddhassa"*** 
 
-**NIBBĀNA GĀMINIPAŢIPADĀ - VOLUME III** 
+**NIBBĀNA GĀMINIPAṭIPADĀ - VOLUME III** 
 
 **PAGE-A** 
 
@@ -67,7 +67,7 @@ Self-Enlightenment of myself are very profound as the mass of water under that l
 
 These Supramundane ***Dhammas*** which have been known and seen penetratively by myself are full of very peaceful and noble qualities. 
 
-These Noble ***Dhammas*** called Four Noble Truths are not worth concentrating by only initial  application  of  philosophers  with  reasoning  but  not  practice.  These  are  worth concentrating by right view experiential knowledge only. The Noble Eightfold Path called the right course leading to ***nibbāna*** (***sammāpaţipadā***) is worth knowing and seeing by wise and righteous persons with practical knowledge. 
+These Noble ***Dhammas*** called Four Noble Truths are not worth concentrating by only initial  application  of  philosophers  with  reasoning  but  not  practice.  These  are  worth concentrating by right view experiential knowledge only. The Noble Eightfold Path called the right course leading to ***nibbāna*** (***sammāpaṭipadā***) is worth knowing and seeing by wise and righteous persons with practical knowledge. 
 
 These all beings are taking delight in two kinds of heartfelt desire i.e., heartfelt desire on five kinds of sensuality called ***kāmālaya*** and heartfelt desire to enjoy those five kinds of sensuality called ***taņhālaya***. 
 
@@ -89,9 +89,9 @@ This way of reasoing arose in the continuum of the Supreme Buddha. Furthermore t
 
 ***kicchena  me  adhigatam,  halam  dāni  pakāsitum.  rāgadosaparetehi,  nāyam  dhammo susambudho.*** 
 
-***paţisotagāmim nipuņam, gambhīram duddasam aņum.*** 
+***paṭisotagāmim nipuņam, gambhīram duddasam aņum.*** 
 
-***rāgarattā na dakkhanti, tamokkhan dhena āvuţā. (Vi-3-5,6; Dī-2-31)*** 
+***rāgarattā na dakkhanti, tamokkhan dhena āvuṭā. (Vi-3-5,6; Dī-2-31)*** 
 
 **PAGE-C** 
 
@@ -117,11 +117,11 @@ This way of reasoing arose in the continuum of the Supreme Buddha. Furthermore t
 
 ***tamokhandhena*** = Due to cloud of darkness called ignorance 
 
-***āvuţā*** = conceals not to see by eye of wisdom, 
+***āvuṭā*** = conceals not to see by eye of wisdom, 
 
 ***rāgaratta*** = those beings with lustfulness on sensuality, existence, wrong view ***na dakkhanti*** = can not see 
 
-***paţisota  gāmim***  =  Four  Noble  Truths  ***dhammas***  which  leads  to  ***nibbāna***  called  way  of upstream entering into rounds of rebirth, 
+***paṭisota  gāmim***  =  Four  Noble  Truths  ***dhammas***  which  leads  to  ***nibbāna***  called  way  of upstream entering into rounds of rebirth, 
 
 ***nipuņam*** = which is very subtle, 
 
@@ -135,7 +135,7 @@ Four Noble Truths preached by the Supreme Buddha is very difficult and profound 
 
 As the Supreme Buddha preached that as if Four Noble Truths are not known and seen penetratively by right view knowledge of one self, suffering of rounds of rebirth can not be terminated, 
 
-in ***Kūţāgāra Sutta, Sacca Samyutta,*** similarly, in ***Mahānidāna Sutta (Dī-2-47)***, the Buddha preached  that  as  if  the  principle  of  dependent-origination  is  not  known  and  seen  by ***anubodhañāņa*** (repeated practical knowledge) and ***paţivedha ñāņa*** (realizable knowledge) of oneself, one can not escape from suffering of rounds of rebirth. 
+in ***Kūṭāgāra Sutta, Sacca Samyutta,*** similarly, in ***Mahānidāna Sutta (Dī-2-47)***, the Buddha preached  that  as  if  the  principle  of  dependent-origination  is  not  known  and  seen  by ***anubodhañāņa*** (repeated practical knowledge) and ***paṭivedha ñāņa*** (realizable knowledge) of oneself, one can not escape from suffering of rounds of rebirth. 
 
 Therefore  even  though  it  is  very  difficult  and  profound  to  be  understood  every righteous person who wants to emancipate rounds of rebirth has to endeavour in order to know and see penetratively on principle of dependent-origination. 
 
@@ -143,10 +143,10 @@ During endeavouring in that way the righteous person has to follow respectfully 
 
 1. ***Sīla visuddhi*** = Try to purify moral conducts thoroughly. 
 1. ***Cittavisuddhi*** = Try to purify consciousness through attaining any kind of concentration, access concentration  or full concentration which canremove impurities of hindrances (***nīvaraņa***) 
-1. ***Diţţhivisuddhi*** = Try to attain clear understanding on corporeality-mentality (= try to attain the knowledge of Analysing Mentality-Corporeality). 
+1. ***Diṭṭhivisuddhi*** = Try to attain clear understanding on corporeality-mentality (= try to attain the knowledge of Analysing Mentality-Corporeality). 
 1. Afterwards  one  should  transfer  to  the  stage  of  Purification  by  Overcoming  Doubt (***kankhāvitaraņavisuddhi***). 
 
-Unless  three  kinds  of  cascades  of  purification  called  ***Sīlavisuddhi,  Cittavisuddhi, Diţţhivisuddhi*** are accomplished, one should not perform in order to attain the knowledge of Cause and Condition which is capable of keeping in mind causal ***dhmmas*** of three periods, past, future and present. It is very difficult to succeed because purification by overcoming doubt called the knowledge of cause and Condition can not be attained with skipping. 
+Unless  three  kinds  of  cascades  of  purification  called  ***Sīlavisuddhi,  Cittavisuddhi, Diṭṭhivisuddhi*** are accomplished, one should not perform in order to attain the knowledge of Cause and Condition which is capable of keeping in mind causal ***dhmmas*** of three periods, past, future and present. It is very difficult to succeed because purification by overcoming doubt called the knowledge of cause and Condition can not be attained with skipping. 
 
 **PAGE-D** 
 

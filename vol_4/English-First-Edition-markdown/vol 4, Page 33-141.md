@@ -26,7 +26,7 @@
 
 
 
-NIBBĀNA GĀMINIPAŢIPADĀ 
+NIBBĀNA GĀMINIPAṭIPADĀ 
 
 
 
@@ -82,7 +82,7 @@ NIBBĀNA GĀMINIPAŢIPADĀ
 **
 
 
-**Venerable *Ashin Sajjana* (*dvipiţakadhara*)** 
+**Venerable *Ashin Sajjana* (*dvipiṭakadhara*)** 
 
 
 

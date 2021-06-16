@@ -26,7 +26,7 @@
 
 
 
-NIBBĀNA GĀMINIPAŢIPADĀ 
+NIBBĀNA GĀMINIPAṭIPADĀ 
 
 
 
@@ -74,7 +74,7 @@ BY
 **
 
 
-**Venerable *Ashin Sajjana* (*dvipiţakadhara*)** 
+**Venerable *Ashin Sajjana* (*dvipiṭakadhara*)** 
 
 
 
@@ -232,7 +232,7 @@ This book belongs to the Public Domain and may be reproduced without any further
 1. the contentment of acquired alms-food called ***piņdapāta santosa***, 
 1. the contentment of acquired shelter, i.e., the base of tree, called ***senāsanasantosa***,  
 1. the contentment of acquired sheet laid out for sitting or lying down, i.e., grass and foliage, called ***sayanāsanasantosa***, 
-1. the contentment of acquired medicine, i.e., eastern gooseberry (***Emblic myrobalan***) and chebulic myrobalan fruit which are soaked with cow’s urine, called ***besajjasantosa***, resulting in availability of both pleasantness in ***samatha***, ***vipassanā*** practices called ***bhāvanārāmatā ariyavamsa paţipadā*** and unconditioned element called ***nibbāna*** which is extinguishment of various heat of defilements. Then the Exalted One instructed him to continue to practice for coming ***vassa*** at this bamboo forest called ***pāciyavamsadāya*** and returned back to ***bhesakaļāvana*** monastery. When the Exalted One reached into monastery he preached again (8) kinds of initial applications of great gentlemen called ***mahāpurisa vitakkha*** to ***bhikkhus*** by means of both brief and detailed accounts. Here it will be presented on essence of those eight kinds of initial applications as follows.  
+1. the contentment of acquired medicine, i.e., eastern gooseberry (***Emblic myrobalan***) and chebulic myrobalan fruit which are soaked with cow’s urine, called ***besajjasantosa***, resulting in availability of both pleasantness in ***samatha***, ***vipassanā*** practices called ***bhāvanārāmatā ariyavamsa paṭipadā*** and unconditioned element called ***nibbāna*** which is extinguishment of various heat of defilements. Then the Exalted One instructed him to continue to practice for coming ***vassa*** at this bamboo forest called ***pāciyavamsadāya*** and returned back to ***bhesakaļāvana*** monastery. When the Exalted One reached into monastery he preached again (8) kinds of initial applications of great gentlemen called ***mahāpurisa vitakkha*** to ***bhikkhus*** by means of both brief and detailed accounts. Here it will be presented on essence of those eight kinds of initial applications as follows.  
 
 
 ## **PAGE- D** 
@@ -259,7 +259,7 @@ Even though he is a person with greedlessness, he never want to be known by othe
 ## **PAGE – E** 
 
 
-` `There are three kinds of seclusion ***dhammas***, i.e., physical seclusion (***kāyaviveka***), mental seclusion (***cittaviveka***), fruition seclusion (***upadhiviveka***). The solitary habitude in such manners, walking, standing, sitting, sleeping, eating with loneliness after abandoning companions is designated as ***kāya***viveka. Due to inability to fulfil nine kinds of the supramundane ***dhammas*** through mere physical seclusion, eight kinds of attainments called ***aţţhasamāpatti*** are brought forth by making preliminary signs of ***kasiņa***-objects. These eight kinds of attainments are designated as ***cittaviveka***. Due to inability to fulfil nine kinds of the Supramundane ***dhammas*** through mere mental seclusion, when one performs ***vipassanā*** practice by discerning on three general characters of conditioned things after making those absorptions and attainments as fundamental of ***vipassanā*** practice he reaches into the FruitKnowledge of Arahant with ***Paţisambhidañāņa*** (penetrative analytical knowledge or Discriminative Knowledge). This Noble Fruit-Knowledge of Arahant, ***nibbāna***, are designated as ***upadhiviveka*** in all aspects of nature. That ***nibbāna*** is void from both sensual pleasures, defilements, ***abhisańkhār***a ***dhammas*** which is capable of reforming new existence, and five aggregates. That ***nibbāna*** is, therefore, designated as ***upadhiviveka***. The person who is pleasing with three kinds of seclusion always endeavours only ***samatha*** and ***vipassanā*** practices by instructing surrounding people in order to have the mind which inclines, bends towards three kinds of seclusion. ***(Ang-3-66, Ang-A-3-26)*** 
+` `There are three kinds of seclusion ***dhammas***, i.e., physical seclusion (***kāyaviveka***), mental seclusion (***cittaviveka***), fruition seclusion (***upadhiviveka***). The solitary habitude in such manners, walking, standing, sitting, sleeping, eating with loneliness after abandoning companions is designated as ***kāya***viveka. Due to inability to fulfil nine kinds of the supramundane ***dhammas*** through mere physical seclusion, eight kinds of attainments called ***aṭṭhasamāpatti*** are brought forth by making preliminary signs of ***kasiņa***-objects. These eight kinds of attainments are designated as ***cittaviveka***. Due to inability to fulfil nine kinds of the Supramundane ***dhammas*** through mere mental seclusion, when one performs ***vipassanā*** practice by discerning on three general characters of conditioned things after making those absorptions and attainments as fundamental of ***vipassanā*** practice he reaches into the FruitKnowledge of Arahant with ***Paṭisambhidañāņa*** (penetrative analytical knowledge or Discriminative Knowledge). This Noble Fruit-Knowledge of Arahant, ***nibbāna***, are designated as ***upadhiviveka*** in all aspects of nature. That ***nibbāna*** is void from both sensual pleasures, defilements, ***abhisańkhār***a ***dhammas*** which is capable of reforming new existence, and five aggregates. That ***nibbāna*** is, therefore, designated as ***upadhiviveka***. The person who is pleasing with three kinds of seclusion always endeavours only ***samatha*** and ***vipassanā*** practices by instructing surrounding people in order to have the mind which inclines, bends towards three kinds of seclusion. ***(Ang-3-66, Ang-A-3-26)*** 
 
 
 
@@ -346,7 +346,7 @@ words, he must develop any kind of concentration of two kinds called access conc
 `	 	 `PAGE   \\* MERGEFORMAT 3
 Translated by - ***Aññatara Bhikkhu*** \*  PAGE   \\* MERGEFORMAT 3
 
-**NIBBĀNA GĀMINIPAŢIPADĀ** (Pa-Auk Tawya Sayadaw)** 
+**NIBBĀNA GĀMINIPAṭIPADĀ** (Pa-Auk Tawya Sayadaw)** 
 
 and the Noble Path-Knowledge. The term, ***nibbedhikāya***, means those ***vipassanā*** knowledge and Noble Path-Knowledge which are capable of breaking down bulk of defilements. It means one has got those ***nibbhdhikā paññā***. Among those ***vipassanā*** knowledge and Noble Path-Knowledge called ***nibbedhikā paññā***, the Noble Path-Knowledge is capable of breaking down bulk of greediness, bulk of hatred, bulk of delusion by means of absolute eradication, resulting in designation as ***nibbedhikā paññā***. 
 
@@ -356,13 +356,13 @@ and the Noble Path-Knowledge. The term, ***nibbedhikāya***, means those ***vipa
 
 ` `In this paper called ***nibbāna gāminipatipadā***, with heartfelt desire to attain ***vipassanā*** knowledge, the Noble Path-Knowledge which are capable of extinguishing sufferings of rounds of rebirth and defilements round –  
 
-\1. It has been presented on ways of discerning of corporeal ***dhammas*** called ***rūpakkhandhā*** which are inclusive in five clinging aggregates in order to know properly upto the field of ultimate nature in Section of ***rūpakammaţţhāna***. 
+\1. It has been presented on ways of discerning of corporeal ***dhammas*** called ***rūpakkhandhā*** which are inclusive in five clinging aggregates in order to know properly upto the field of ultimate nature in Section of ***rūpakammaṭṭhāna***. 
 
 
 ## **PAGE – J** 
 ** 
 
-2. It has been presented on ways of discerning of mental ***dhammas*** called ***vedanākkhandhā, saññākkhandhā, sańkhārakkhandhā, viññāņakkhandhā*** which are inclusive in five clinging aggregates in order to know properly upto the field of ultimate nature in Section of ***nāmakammaţţhāna***. 
+2. It has been presented on ways of discerning of mental ***dhammas*** called ***vedanākkhandhā, saññākkhandhā, sańkhārakkhandhā, viññāņakkhandhā*** which are inclusive in five clinging aggregates in order to know properly upto the field of ultimate nature in Section of ***nāmakammaṭṭhāna***. 
 2. Ways of discerning on causal ***dhammas*** of five clinging aggregates occurring in three periods, past, future, present and two continuums are presented in the section of ***paticcasamuppāda*** in order to keep in mind those ***dhammas*** as they really are. It is presented with especially referring to attain both the Knowledge of Cause and Condition and the Knowledge of Arising and Passing Away or ***vipassanā*** knowledge which are capable of discerning on how resultant ***dhammas*** arise apparently, due to obvious occurrence of causal ***dhammas***, and how resultant ***dhammas*** cease, due to absolute cessation of causal ***dhammas***, which are called ***paccayatoudaya*** ***bbaya dassana***; which are capable of discerning on phenomena of both arising and perishing away of conditioned things. 
 2. Ways of discerning on conditioned things called corporeality, mentality, cause and result through characteristic, function, manifestation, proximate cause are presented in the Section of ***lakkhaņadicatukka*** with intention for attainment of clearer and clearer knowledge on corporeal and mental ***dhammas*** together with causal ***dhammas***. 
 2. Now ways of alternate discerning as ***anicca***, ***dukkha***, ***anatta*** both by taking objects of phenomena of arising and perishing away of conditioned things together with causal ***dhammas*** and by taking object of pure phenomenon of perishing away of conditioned things together with causal ***dhammas*** are presented in this Section of ***Vipassanā*** with heartfelt desire to attain ***vipassanā*** knowledge and the Noble Path-Knowledge for virtuous readers. 
@@ -383,14 +383,14 @@ and the Noble Path-Knowledge. The term, ***nibbedhikāya***, means those ***vipa
 
 ` `Every ***dhamma*** which has been delivered by the Exalted One throughout (45) rains retreat from the day attaining the Knowledge of Omniscience until the day entering into the Eternal Peace after final death, is right. It never occur as another state of affair called wrong. Therefore\_\_\_\_\_  these noble preaching called ***Mahāpurisa vitakka*** (=Initial applications of Great Gentlemen), i.e., 
 
-` `“These nine kinds of Supra mundane ***dhammas*** can be fulfilled only in the continuum of the person with greedlessness but not in the continuum of person with greediness. It can be fulfilled only in the continuum of the person with contentments of four requisteness which are available, respectable and enough only, which are called ***santuţţhi*** ***dhammas*** but not in the continuum of person without ***santuţţhi*** ***dhammas***. It can be fulfilled only in the continuum of the person who is pleasing with three kinds of seclusion ***dhammas*** but not in the continuum of the person who is pleasing with associations of both friends and defilements. It can be fulfilled only in the continuum of the person who always endeavours both ***samatha*** and ***vipassanā*** practices but not in the continuum of the person who is full of laziness. It can be fulfilled only in the continuum of the person who has got outshining mindfulness which can keep in mind nature of ***anicca***, ***dukkha***, ***anatta*** of conditioned things called ***kāya***, ***vedanā, citta***, ***dhamma*** together with causal ***dhammas*** but not in the continuum of the person with forgetfulness. It can be fulfilled only in the continuum of the person who has got two kinds of concentration called access concentration and full concentration but not in the continuum of the person who is lacking in any kind of concentration. It can be fulfilled only in the continuum of the person who has got ***vipassanā*** knowledge, the Noble PathKnowledge but not in the continuum of the person who is lacking ***vipassanā*** knowledge, the Noble Path-Knowledge. It can be fulfilled only in the continuum of the person who is **NIBBĀNA GĀMINIPAŢIPADĀ** (Pa-Auk Tawya Sayadaw)** 
+` `“These nine kinds of Supra mundane ***dhammas*** can be fulfilled only in the continuum of the person with greedlessness but not in the continuum of person with greediness. It can be fulfilled only in the continuum of the person with contentments of four requisteness which are available, respectable and enough only, which are called ***santuṭṭhi*** ***dhammas*** but not in the continuum of person without ***santuṭṭhi*** ***dhammas***. It can be fulfilled only in the continuum of the person who is pleasing with three kinds of seclusion ***dhammas*** but not in the continuum of the person who is pleasing with associations of both friends and defilements. It can be fulfilled only in the continuum of the person who always endeavours both ***samatha*** and ***vipassanā*** practices but not in the continuum of the person who is full of laziness. It can be fulfilled only in the continuum of the person who has got outshining mindfulness which can keep in mind nature of ***anicca***, ***dukkha***, ***anatta*** of conditioned things called ***kāya***, ***vedanā, citta***, ***dhamma*** together with causal ***dhammas*** but not in the continuum of the person with forgetfulness. It can be fulfilled only in the continuum of the person who has got two kinds of concentration called access concentration and full concentration but not in the continuum of the person who is lacking in any kind of concentration. It can be fulfilled only in the continuum of the person who has got ***vipassanā*** knowledge, the Noble PathKnowledge but not in the continuum of the person who is lacking ***vipassanā*** knowledge, the Noble Path-Knowledge. It can be fulfilled only in the continuum of the person who is **NIBBĀNA GĀMINIPAṭIPADĀ** (Pa-Auk Tawya Sayadaw)** 
 
 pleasing with ***nibbāna*** which is void from three kinds of ***papañca*** ***dhamma*** but not in the continuum of the person who is pleasing with obsession on three kinds of ***papañca dhamma***”,  are right absolutely but never occur as another kind of state of affair called wrong.  Therefore if the righteous ***meditator*** has also heartfelt desire to attain (9) kinds of 
 
 Supramundane ***dhammas***, he has to perform the practice 
 
 1. “in order to fulfil improvement of” ***appiccha*** ***dhamma*** (greedlessness), 
-1. “in order to fulfil improvement of” ***santuţţhi dhamma*** (contentment), 
+1. “in order to fulfil improvement of” ***santuṭṭhi dhamma*** (contentment), 
 1. “in order to fulfil improvement of” three kinds of seclusion ***dhammas***, 
 1. “in order to fulfil improvement of” enthusiastic diligence in ***samatha*** and ***vipassanā*** practices, 
 1. “in order to fulfil improvement of” outshining mindfulness on ***kāya***, ***vedanā***, ***citta***, ***dhamma*** together with causal ***dhammas***, 

@@ -26,7 +26,7 @@
 
 
 
-NIBBĀNA GĀMINIPAŢIPADĀ 
+NIBBĀNA GĀMINIPAṭIPADĀ 
 
 
 
@@ -73,7 +73,7 @@ BY
 **EDITED BY** 
 **
 
-## **Venerable *Ashin Sajjana* (*dvipiţakadhara*)** 
+## **Venerable *Ashin Sajjana* (*dvipiṭakadhara*)** 
 
 
 
@@ -207,7 +207,7 @@ This book belongs to the Public Domain and may be reproduced without any further
 ` `The ***meditator*** who wants to fulfil that purification of the knowledge which knows the right Path and not-Path has to endeavour ***nayavipassanā*** called ***kalāpa sammasana*** (way of generalizing on the whole) previously. (***Vs-2-241***) 
 
 
-#### ***Pāli Quotation (Mahāţī-2-386)  	 	(M-1-297)(M-A-4-232 Channovāda Sutta)*** 
+#### ***Pāli Quotation (Mahāṭī-2-386)  	 	(M-1-297)(M-A-4-232 Channovāda Sutta)*** 
 
 
 ` `The way of discerning and generalizing through  three general characters called ***annica, dukkha, anatta*** on corporeal and mental ***dhammas***, which are occurring in (11) modes of situations, viz, past, future, present, internal, external, gross, subtle, infeirior, superior, far, near as a whole (***kalāpa***) is called ***kalāpa sammasana***. This term, ***kalāpa sammasana***, is the usage of noble ***Mahā Thera*** who dwell in ***jambhudīpa*** (= great island which is the home of the ***Eugenia jambolana Linn*** tree and lies south of Mount ***Meru***. 
@@ -216,17 +216,17 @@ This book belongs to the Public Domain and may be reproduced without any further
 ### **PAGE-2** 
 
 
-` `The way of discerning and generalizing on these all kinds of corporealities (feeling, perception, formation, consciousness) which are occurring in (11) modes of situations, past, future, present etc., as “This is not mine; this I am not; this is not my self-identity (= ***anicca, dukkha, anatta***)” is called ***naya vipassanā***. This term, ***naya vipassanā*** , is the usage of noble ***Mahā Theras*** who dwell in the island called Sri Lanka. (***Mahāţī-2-386***) 
+` `The way of discerning and generalizing on these all kinds of corporealities (feeling, perception, formation, consciousness) which are occurring in (11) modes of situations, past, future, present etc., as “This is not mine; this I am not; this is not my self-identity (= ***anicca, dukkha, anatta***)” is called ***naya vipassanā***. This term, ***naya vipassanā*** , is the usage of noble ***Mahā Theras*** who dwell in the island called Sri Lanka. (***Mahāṭī-2-386***) 
 
 
 
-` `This knowledge of generalizing on the whole is not inclusive in any kind of practice of purification. Some teachers explained inhabitancy of ***vipassanā*** knowledge (***vipassanācāra***) without pondering that ***kalāpa sammasana***. However the Supreme Buddha instructed in various ***Sutta*** (***Anatta lakkhaņa Sutta, Khandha Vagga, Samyutta*** etc.,) to ponder and discern that ***kalāpa sammasana*** through either partially or totally. In the ***Pāli*** Text of ***Paţisambhid***ā ***Magga, pp - 51***, it is preached as the beginning of ***vipassanā*** because the way of generalizing on the whole called ***kalāpa sammasana*** is very easy to take into heart for beginner. When powerful illumination called ***obhāsa*** etc., appears in the continuum of practising ***meditator*** ***vipassanā*** knowledge which is purified from imperfections (= knowledge of Arising & Passing Away) can also be arisen after distinguishing right Path & not-Path by ***maggāmagga***-***ñāņa***. The commentator Sayadaw scrutinized and presented the fact the ***meditator*** who wants to fulfil purification of the knowledge which knows the right Path and not-Path has to endeavour ***naya vipassanā*** called ***kalāpa sammasana*** (way of generalizing on the whole) previously, due to presence of these three kinds of reason. 
+` `This knowledge of generalizing on the whole is not inclusive in any kind of practice of purification. Some teachers explained inhabitancy of ***vipassanā*** knowledge (***vipassanācāra***) without pondering that ***kalāpa sammasana***. However the Supreme Buddha instructed in various ***Sutta*** (***Anatta lakkhaņa Sutta, Khandha Vagga, Samyutta*** etc.,) to ponder and discern that ***kalāpa sammasana*** through either partially or totally. In the ***Pāli*** Text of ***Paṭisambhid***ā ***Magga, pp - 51***, it is preached as the beginning of ***vipassanā*** because the way of generalizing on the whole called ***kalāpa sammasana*** is very easy to take into heart for beginner. When powerful illumination called ***obhāsa*** etc., appears in the continuum of practising ***meditator*** ***vipassanā*** knowledge which is purified from imperfections (= knowledge of Arising & Passing Away) can also be arisen after distinguishing right Path & not-Path by ***maggāmagga***-***ñāņa***. The commentator Sayadaw scrutinized and presented the fact the ***meditator*** who wants to fulfil purification of the knowledge which knows the right Path and not-Path has to endeavour ***naya vipassanā*** called ***kalāpa sammasana*** (way of generalizing on the whole) previously, due to presence of these three kinds of reason. 
 
 
-#### ***Pāli Quotation (Vs-2-244)(Mahāţī-2-391)*** 
+#### ***Pāli Quotation (Vs-2-244)(Mahāṭī-2-391)*** 
 
 
-` `With referring to ***Paţisambhidā Magga (pp 51, 52,55, 6-9)*** and ***Abhiñeyya Sutta, Samyutta Nikāya (Sam-2-258)*** etc., various ultimate elements which are discerned objects of ***vipassanā*** knowledge, Knowledge of Comprehension ***(sammasana ñāņa)*** etc., are explicit in various ways in the Stage of Knowledge of Comprehension, Commentary called ***Visuddhi Magga***, as follows: \_\_\_\_\_\_ 
+` `With referring to ***Paṭisambhidā Magga (pp 51, 52,55, 6-9)*** and ***Abhiñeyya Sutta, Samyutta Nikāya (Sam-2-258)*** etc., various ultimate elements which are discerned objects of ***vipassanā*** knowledge, Knowledge of Comprehension ***(sammasana ñāņa)*** etc., are explicit in various ways in the Stage of Knowledge of Comprehension, Commentary called ***Visuddhi Magga***, as follows: \_\_\_\_\_\_ 
 
 
 
@@ -249,7 +249,7 @@ This book belongs to the Public Domain and may be reproduced without any further
 5. Six kinds of initial application (***vitakka***), 
 5. Six kinds of sustained application (***vicāra***), 
 5. Six kinds of elements (earth-element, water-element, fire-element, air-element, spaceelement, consciousness-element), 15. (10) kinds of ***kasiņa-***objects, 
-16. (32) bodily parts (***koţţhāsa***), 
+16. (32) bodily parts (***koṭṭhāsa***), 
 16. (12) kinds of bases (***āyatana***), 
 16. (18) kinds of elements (***dhātu***), 
 16. (22) kinds of controlling faculties (***indriya***), 
@@ -258,17 +258,17 @@ This book belongs to the Public Domain and may be reproduced without any further
 16. Four kinds of absorption (***jhāna***) (=four kinds of absorption of fine-material sphere), 
 16. Four kinds of illimitableness (***appamaññā***) (= absorption of loving-kindness, absorption of compassion, absorption of appreciative joy, compassion, absorption of equanimity) 
 16. Four kinds of attainment (***samāpatti***) (= four kinds of absorption of immaterial sphere called absorption of boundless space, absorption of emptiness, absorption of boundless consciousness, absorption of neither-perception-nor-non-perception),  
-16. (12) factors of dependent-origination (***paţicca samuppāda***) are enumerated in this way. (***Vs-2-242, 243, 244***) 
+16. (12) factors of dependent-origination (***paṭicca samuppāda***) are enumerated in this way. (***Vs-2-242, 243, 244***) 
 
-` `The ***meditator***, who has reached to other bank of five kinds of discernment (***pariggaha***), who has finished to keep in mind conditioned things together with causal ***dhammas*** through ***lakkhaņa-rasa-paccuţţhāna-padaţţhā*** (= characteristic, function, manifestation, proximate cause ) can understand easily the fact those ***dhammas*** enumerated above are only ultimate ***dhammas*** called consciousness, mental concomitants, corporealities, which are occurring in three periods called past, future, present and two continuums called internal, external. He has also understood the fact those ***dhammas*** are only twofold corporeality-mentality, fivefold aggregates, twelvefold bases, eighteenfold elements, twelvefold factors of dependent-origination. However the reason why it is explained in dividing (25) kinds is explicit in ***Mahāţīkā*** a as follows:\_\_\_\_\_ 
+` `The ***meditator***, who has reached to other bank of five kinds of discernment (***pariggaha***), who has finished to keep in mind conditioned things together with causal ***dhammas*** through ***lakkhaņa-rasa-paccuṭṭhāna-padaṭṭhā*** (= characteristic, function, manifestation, proximate cause ) can understand easily the fact those ***dhammas*** enumerated above are only ultimate ***dhammas*** called consciousness, mental concomitants, corporealities, which are occurring in three periods called past, future, present and two continuums called internal, external. He has also understood the fact those ***dhammas*** are only twofold corporeality-mentality, fivefold aggregates, twelvefold bases, eighteenfold elements, twelvefold factors of dependent-origination. However the reason why it is explained in dividing (25) kinds is explicit in ***Mahāṭīkā*** a as follows:\_\_\_\_\_ 
 
 
 ### **PAGE-4** 
 
 
-` `In the ***Pāli*** Text of ***Paţisambhidā*** ***Magga*** way of discriminating on discerned objects of ***vipassanā*** knowledge must be recognized as the following method:\_\_\_\_\_ 
+` `In the ***Pāli*** Text of ***Paṭisambhidā*** ***Magga*** way of discriminating on discerned objects of ***vipassanā*** knowledge must be recognized as the following method:\_\_\_\_\_ 
 
-` `In this ***Pāli*** Text of ***Paţisambhidā Magga*** (5) kinds of clinging aggregates which are occurring in (ii) modes of situations, past, future, present, internal, external etc., are taken as discerned objects of ***vipassanā*** knowledge previously in order to understand easily for beginners of ***vipassanā*** practice. 
+` `In this ***Pāli*** Text of ***Paṭisambhidā Magga*** (5) kinds of clinging aggregates which are occurring in (ii) modes of situations, past, future, present, internal, external etc., are taken as discerned objects of ***vipassanā*** knowledge previously in order to understand easily for beginners of ***vipassanā*** practice. 
 
 ` `Those aggregates are available by means of ***dhammas*** occurring in door together with door and object. (Corporeal ***dhammas*** are doors ***dhammas*** and objects ***dhammas*** while mental ***dhammas*** are the mind-door ***dhammas***, ***dhammas*** which are occurring in (6) doors and objects ***dhammas***. Therefore, after those aggregates are shown, (10) kinds of hexads (= from ‘6’ doors to ‘6’sustained applications) are explained as discerned objects of ***vipassanā*** knowledge contiguously by means of door-hexad (***dvārachakka***) etc. 
 
@@ -276,9 +276,9 @@ This book belongs to the Public Domain and may be reproduced without any further
 
 ` `Heretics who has controversial opinions of this admonishment of the Supreme Buddha usually take into heart such ***kasiņa***-objects as ‘self’ (***atta***). The way of taking into heart on those ***kasiņa***-objects as ***atta*** occurs in the continuum of those heretics. Actually those ***kasiņa***-objects are only phenomenon of striking as objects of these absorptions (= Finematerial and Immaterial absorptions). Ten kinds of ***kasiņa***-objects are explained as objects of ***vipassanā*** knowledge in order to show clearly in this way. [Those kinds of concept (***paññatti***) called ***kasiņa***-objects are, actually, not objects of ***vipassanā*** knowledge. Only absorption ***dhammas*** which arise by taking the object of concepts of ***kasiņa***-objects are objects of ***vipassanā*** knowledge. It means concepts of ***kasiņa***-objects are explained as objects of ***vipassanā*** knowledge in order to eradicate the opinion of heretic in a way that those ***kasiņa***objects are taken into heart as ***atta*** (=self).] 
 
-` `Afterwards (32)kinds of bodily parts are explained as objects of ***vipassanā*** knowledge in order to take into heart by means of loathsome attention (***paţikūla*** ***manasikāra***) as a surrounding of ***dukkhānupassanā*** (contemplation on suffering). [In ***Girimānanda Sutta*** (***Ang-3-433***) the Supreme Buddha instructed that 32 bodily parts must be contemplated as unpleasingness perception (***asubha*** ***saññā***). In ***Meghiya Sutta*** the Buddha instructed that “***asubhābhāvetabbā rāgassa pahānāya (Udāna-120***) = practice of unpleasingness (***asubhabhāvanā***) must be developed to abandon lust in ***vipassanā*** stage”. In two kinds of unpleasingness, i.e., ***saviññāņaka*** ***asubha***                (unpleasingness on living body) and ***aviññāņaka asubha*** (unpleasingness on non-living body), it is ***saviññāņaka*** ***asubha***. In ***samatha*** stage that unpleasingness perception is designated as loath some attention                        
+` `Afterwards (32)kinds of bodily parts are explained as objects of ***vipassanā*** knowledge in order to take into heart by means of loathsome attention (***paṭikūla*** ***manasikāra***) as a surrounding of ***dukkhānupassanā*** (contemplation on suffering). [In ***Girimānanda Sutta*** (***Ang-3-433***) the Supreme Buddha instructed that 32 bodily parts must be contemplated as unpleasingness perception (***asubha*** ***saññā***). In ***Meghiya Sutta*** the Buddha instructed that “***asubhābhāvetabbā rāgassa pahānāya (Udāna-120***) = practice of unpleasingness (***asubhabhāvanā***) must be developed to abandon lust in ***vipassanā*** stage”. In two kinds of unpleasingness, i.e., ***saviññāņaka*** ***asubha***                (unpleasingness on living body) and ***aviññāņaka asubha*** (unpleasingness on non-living body), it is ***saviññāņaka*** ***asubha***. In ***samatha*** stage that unpleasingness perception is designated as loath some attention                        
 
-(***paţikūlamanasikāra***) and in ***vipassanā*** stage it is designated as unpleasingness perception which is surrounding of contemplation on suffering. In ***samatha*** stage the ***meditator*** must take into heart object of loathsomeness nature of (32) bodily parts upto the first absorption concentration. In ***vipassanā*** stage, it is a way of discerning in order to see danger of body through contemplation on danger as surrounding of contemplation con suffering.] 
+(***paṭikūlamanasikāra***) and in ***vipassanā*** stage it is designated as unpleasingness perception which is surrounding of contemplation on suffering. In ***samatha*** stage the ***meditator*** must take into heart object of loathsomeness nature of (32) bodily parts upto the first absorption concentration. In ***vipassanā*** stage, it is a way of discerning in order to see danger of body through contemplation on danger as surrounding of contemplation con suffering.] 
 
 
 ### **PAGE-5** 
@@ -294,15 +294,15 @@ This book belongs to the Public Domain and may be reproduced without any further
 
 ` `Furthermore (1)four kinds of absorption of Fine-material sphere (2) four kinds of absorption of ***brahma***’s deportment (***brahmavihāra***) (3) four kinds of absorption of Immaterial sphere are explained as objects of ***vipassanā*** knowledge in order to show the fact the practising ***meditator*** who is mastery in advancement of ***vipassanā*** practice which takes into heart ***abhiññeyya*** ***dhammas*** called ultimate ***dhammas*** which are worth knowing penetratively by ***vipassanā*** knowledge has to develop advancement of ***vipassanā*** practice on acquired lofty absorption ***dhammas***. 
 
-` `[**Notes:**\_\_\_\_\_ In olden days those persons with ***samatha*** vehicle usually transfers to ***vipassanā*** practice after developing both eight kinds of attainment (***samāpatti***) and four kinds of protective meditation called ***caturarakkha kammaţţhāna***. The commentator Sayadaw explained all four kinds of absorption of ***brahma***’s deportment (illimitable ***dhammas***) as discerned objects of ***vipassanā*** knowledge because those righteous persons who can develop absorption of loving kindness until infinite universe can enter absorption of compassion, appreciative joy, equanimity easily. 
+` `[**Notes:**\_\_\_\_\_ In olden days those persons with ***samatha*** vehicle usually transfers to ***vipassanā*** practice after developing both eight kinds of attainment (***samāpatti***) and four kinds of protective meditation called ***caturarakkha kammaṭṭhāna***. The commentator Sayadaw explained all four kinds of absorption of ***brahma***’s deportment (illimitable ***dhammas***) as discerned objects of ***vipassanā*** knowledge because those righteous persons who can develop absorption of loving kindness until infinite universe can enter absorption of compassion, appreciative joy, equanimity easily. 
 
 
 ### **PAGE-6** 
 
 
-` `However because in the subcommentary, ***Mahāţīkā*** it is explained that “***lābhino eva pana mahaggata cittāni supākaţāni honti*** = lofty absorption ***dhammas*** are obvious in only ***vipassanā*** knowledge of righteous persons who have got lofty absorptions (***Mahāţī***-***2-353***), it should be recognized the fact this explanation refers to only those righteous persons with ***samatha*** vehicle who ***atta***in those kinds of absorptions.] 
+` `However because in the subcommentary, ***Mahāṭīkā*** it is explained that “***lābhino eva pana mahaggata cittāni supākaṭāni honti*** = lofty absorption ***dhammas*** are obvious in only ***vipassanā*** knowledge of righteous persons who have got lofty absorptions (***Mahāṭī***-***2-353***), it should be recognized the fact this explanation refers to only those righteous persons with ***samatha*** vehicle who ***atta***in those kinds of absorptions.] 
 
-` `Because ten kinds of ***kasiņa*** - objects are explained in above the commentator Sayadaw has finished to explain absorptions of ***kasiņa*** also simultaneously. Therefore in these explanations, ***cattāri jhānāni, catasso appamaññā, catasso samāpattiyo (Vs-2-43)***, according to the word, c***attāri jhānāni***, it means absorptions of Fine material Sphere which have signs of concentration (***samatha*** ***nimitta***), ***ānāpāna paţibhāga*** ***nimitta*** (sign of full concentration of mindfulness of breathing)etc, other than absorptions with ***kasiņa***-objects etc.  Twelve factors of dependent-origination are explained as objects of ***vipassanā*** knowledge in order to show the fact every ultimate ***dhamma*** must be taken into heart through discriminating  causal and resultant ***dhammas***. It is right. The way of taking into heart by alternative generalizing on three general characters called ***anicca***, ***dukkha***, ***anatta***, after scrutinizing and discriminating on causal and resultant ***dhammas*** can clarify three general characters. Finally factors of dependent origination are, therefore, worth taking as objects of ***vipassanā*** knowledge. (***Mahāţī-2-389***) 
+` `Because ten kinds of ***kasiņa*** - objects are explained in above the commentator Sayadaw has finished to explain absorptions of ***kasiņa*** also simultaneously. Therefore in these explanations, ***cattāri jhānāni, catasso appamaññā, catasso samāpattiyo (Vs-2-43)***, according to the word, c***attāri jhānāni***, it means absorptions of Fine material Sphere which have signs of concentration (***samatha*** ***nimitta***), ***ānāpāna paṭibhāga*** ***nimitta*** (sign of full concentration of mindfulness of breathing)etc, other than absorptions with ***kasiņa***-objects etc.  Twelve factors of dependent-origination are explained as objects of ***vipassanā*** knowledge in order to show the fact every ultimate ***dhamma*** must be taken into heart through discriminating  causal and resultant ***dhammas***. It is right. The way of taking into heart by alternative generalizing on three general characters called ***anicca***, ***dukkha***, ***anatta***, after scrutinizing and discriminating on causal and resultant ***dhammas*** can clarify three general characters. Finally factors of dependent origination are, therefore, worth taking as objects of ***vipassanā*** knowledge. (***Mahāṭī-2-389***) 
 
 
 
@@ -318,19 +318,19 @@ This book belongs to the Public Domain and may be reproduced without any further
 ### **PAGE-7** 
 
 
-` `The commentator Sayadaw explained that among those corporeal and mental ***dhammas*** obvious and easy corporeal and mental ***dhammas*** must be begun as object of ***vipassanā*** knowledge with the intention that beginning of ***vipassanā*** practice should be performed from obvious objects. Actually after discerning on those obvious and easy corporeality-mentality all kinds of corporeal and mental ***dhammas*** with out remainder are worth discerning as three general characters through expedience by which obscure corporeal and mental ***dhammas*** should be discerned later. (***Mahāţī-2-391***) 
+` `The commentator Sayadaw explained that among those corporeal and mental ***dhammas*** obvious and easy corporeal and mental ***dhammas*** must be begun as object of ***vipassanā*** knowledge with the intention that beginning of ***vipassanā*** practice should be performed from obvious objects. Actually after discerning on those obvious and easy corporeality-mentality all kinds of corporeal and mental ***dhammas*** with out remainder are worth discerning as three general characters through expedience by which obscure corporeal and mental ***dhammas*** should be discerned later. (***Mahāṭī-2-391***) 
 
 
 ### **B. Noticeable facts\_\_\_\_** 
 
 
-` `Above explanations found in commentary and subcommentary must be recognized carefully. The instruction means ***vipassanā*** practice must be begun from obvious and easy corporeality-mentality only. It does not mean those obscure corporeality-mentality  are not essential to be discerned. Furthermore it refers to only those righteous persons who has fulfilled with knowledge of Analysing Mentality-Corporeality and knowledge of cause and condition. As mentioned in ***rūpakammaţţhāna***, volume I, this instruction does not refer to those persons who are unable to known and see penetratively ultimate nature of both corporeal and mental ***dhammas***, who are unable to see penetratively how present resultant ***dhammas*** arise, due to past causal ***dhammas*** and how future resultant ***dhammas*** arise, due to present causal ***dhammas***, who enter into the meditation hall by carrying numerous kinds of nescience on the shoulder, who can not differentiate between concept (***paññati***) and ultimate nature systematically. 
+` `Above explanations found in commentary and subcommentary must be recognized carefully. The instruction means ***vipassanā*** practice must be begun from obvious and easy corporeality-mentality only. It does not mean those obscure corporeality-mentality  are not essential to be discerned. Furthermore it refers to only those righteous persons who has fulfilled with knowledge of Analysing Mentality-Corporeality and knowledge of cause and condition. As mentioned in ***rūpakammaṭṭhāna***, volume I, this instruction does not refer to those persons who are unable to known and see penetratively ultimate nature of both corporeal and mental ***dhammas***, who are unable to see penetratively how present resultant ***dhammas*** arise, due to past causal ***dhammas*** and how future resultant ***dhammas*** arise, due to present causal ***dhammas***, who enter into the meditation hall by carrying numerous kinds of nescience on the shoulder, who can not differentiate between concept (***paññati***) and ultimate nature systematically. 
 
 
 #### **C. Expedience** 
 
 
-` `The instruction means the practising ***meditator*** has to perform ***vipassanā*** practice by discerning  on obvious and easy object at the beginning stage only. Because subcommentator Sayadaw instructed in ***Mahāţīkā-2-391***. That all kinds of corporeal and mental ***dhammas*** without remainder are worth discerning as three general characters through expedience by which obscure corporeal and mental ***dhammas*** should be discerned later, those kinds of expedience will be presented continuously as follows:\_\_\_\_\_ 
+` `The instruction means the practising ***meditator*** has to perform ***vipassanā*** practice by discerning  on obvious and easy object at the beginning stage only. Because subcommentator Sayadaw instructed in ***Mahāṭīkā-2-391***. That all kinds of corporeal and mental ***dhammas*** without remainder are worth discerning as three general characters through expedience by which obscure corporeal and mental ***dhammas*** should be discerned later, those kinds of expedience will be presented continuously as follows:\_\_\_\_\_ 
 
 
 ### **PAGE-8** 
@@ -349,7 +349,7 @@ This book belongs to the Public Domain and may be reproduced without any further
 #### ***ime cattāro mahābhūte pariggaņhantassa upādārūpam pākatam hoti.*** (***Abhi-A-2-241***) 
 
 
-\2. As mentioned in ***rūpakammaţţhāna*** during keeping in mind corporeal ***dhammas*** which are occurring in (6) doors, (42) bodily parts, if a ***meditator*** faces with difficulty to keep in mind derived corporealities, he must keep in mind four great elements within the same corporeal unit over and over. Derived corporealities within the same corporeal unit will be clarified gradually. This is also a kind of expedience. 
+\2. As mentioned in ***rūpakammaṭṭhāna*** during keeping in mind corporeal ***dhammas*** which are occurring in (6) doors, (42) bodily parts, if a ***meditator*** faces with difficulty to keep in mind derived corporealities, he must keep in mind four great elements within the same corporeal unit over and over. Derived corporealities within the same corporeal unit will be clarified gradually. This is also a kind of expedience. 
 
 
 #### ***Pāli Quotation (Vs-2-225)*** 
@@ -368,10 +368,10 @@ The advantages are\_\_\_\_\_ corporeal ***dhammas*** are very clarified thorough
 ` `Mental ***dhammas*** which have objects of those corporeal ***dhammas*** will be appeared as specific nature of themselves automatically through various states of affairs in the practising ***meditator***’s insight. ***(Vs-2-225)*** 
 
 
-#### ` 	`***rūpapariggaho arūpapariggahassa upāyo, upatthambho ca. (Mahāţī-2-355)*** 
+#### ` 	`***rūpapariggaho arūpapariggahassa upāyo, upatthambho ca. (Mahāṭī-2-355)*** 
 
 
-` `Distinguishing and keeping in mind corporeal ***dhamma*** is a kind of expedience and supporting factor for distinguishing and keeping in mind mental ***dhamma***. (***Mahāţī***-***2-355)***   Those righteous persons who have heartfelt desire to ***atta***in ***nibbāna*** must recognize definitely the fact all kinds of ultimate nature of corporeal and mental ***dhammas*** without remainder must be generalized and discerned as three general characters after obscure corporeal and mental ***dhammas*** must also be clarified by following these kinds of experiences as mentioned above. 
+` `Distinguishing and keeping in mind corporeal ***dhamma*** is a kind of expedience and supporting factor for distinguishing and keeping in mind mental ***dhamma***. (***Mahāṭī***-***2-355)***   Those righteous persons who have heartfelt desire to ***atta***in ***nibbāna*** must recognize definitely the fact all kinds of ultimate nature of corporeal and mental ***dhammas*** without remainder must be generalized and discerned as three general characters after obscure corporeal and mental ***dhammas*** must also be clarified by following these kinds of experiences as mentioned above. 
 
 
 ##### **1.2 Way of discerning through twofold-corporeality-mentality method** 
@@ -379,7 +379,7 @@ The advantages are\_\_\_\_\_ corporeal ***dhammas*** are very clarified thorough
 
 ` `According to above instructions, because present corporeal and mental ***dhammas*** are very obvious in the righteous ***meditator***’s insight, a way of discerning on each group of corporeal ***dhammas*** and mental ***dhammas*** which are occurring in present period will be presented as beginning. During performing ***vipassanā*** practice either internal or external objects can be discerned as he likes for beginning stage. In this work way of keeping in mind on corporeality-mentality is presented through internal corporeal ***dhamma*** as beginning and then in this ***vipassanā*** stage also the way of discerning on internal corporeal ***dhamma*** will be presented previously. 
 
-` `In this stage (10) kinds of non-real corporealities must be omitted from list of objects of ***vipassanā*** knowledge because those corporealities are not worth discerning as three general characters in ***viapassanā*** practice. Therefore only real corporealities occurring in (6) doors, (42) bodily parts must be discerned as priority, as mentioned in tables of ***rūpakammaţţhāna***, Volume I. 
+` `In this stage (10) kinds of non-real corporealities must be omitted from list of objects of ***vipassanā*** knowledge because those corporealities are not worth discerning as three general characters in ***viapassanā*** practice. Therefore only real corporealities occurring in (6) doors, (42) bodily parts must be discerned as priority, as mentioned in tables of ***rūpakammaṭṭhāna***, Volume I. 
 
 `	 	 `PAGE   \\* MERGEFORMAT 3
 Translated by - ***Aññatara Bhikkhu*** \*  PAGE   \\* MERGEFORMAT 3
@@ -495,7 +495,7 @@ The ***meditator*** must recognize the fact all three kinds of general character
 
 ` `The nature of arising and perishing away of those corporeal ***dhammas*** will be very swift. Although those phenomena are very swift the ***meditator*** must discern as ***anicca*** slowly. If he discerns as ***anicca*** so swiftly, he will be tired due to inability to follow the process of arising and perishing away. There is no disadvantage in slow discerning as ***anicca*** for enormous times of phenomena of arising and perishing away. If the ***meditator*** sees the slow phenomena of arising and perishing away, he must scrutinize to see very swift phenomena of arising and perishing away, as they really are. 
 
-When he has got success in internal continuum he must continue to discern external continuum by taking object of phenomena of arising and perishing away of (54) kinds of corporealities occurring in eye-door of external continuums on a whole because those are the same as external ones. He must discern swiftly on internal continuum sometimes, and on external continuums sometimes. During discerning on external continuums he must discern near persons on the whole previously  and then he must external to ten directions gradually later. He should like to try to see all kinds of corporeal ***dhammas*** occurring in (31) realms on the whole. When he satisfies to discern eye-door remaining doors, ear-door etc., must also be discerned by following example in the eye-door. For instance the must discern internal and external continuums alternately as “***anicca***” by seeing phenomena of arising and perishing away of corporeal ***dhammas*** occurring in either each door or each bodily part, such as\_\_\_\_\_ (54) kinds of corporealities of the ear-door, (44) kinds of corporealities of the body-door, (44) kinds of corporealities of hair etc., as shown in tables of ***rūpakammaţţhāna***. 
+When he has got success in internal continuum he must continue to discern external continuum by taking object of phenomena of arising and perishing away of (54) kinds of corporealities occurring in eye-door of external continuums on a whole because those are the same as external ones. He must discern swiftly on internal continuum sometimes, and on external continuums sometimes. During discerning on external continuums he must discern near persons on the whole previously  and then he must external to ten directions gradually later. He should like to try to see all kinds of corporeal ***dhammas*** occurring in (31) realms on the whole. When he satisfies to discern eye-door remaining doors, ear-door etc., must also be discerned by following example in the eye-door. For instance the must discern internal and external continuums alternately as “***anicca***” by seeing phenomena of arising and perishing away of corporeal ***dhammas*** occurring in either each door or each bodily part, such as\_\_\_\_\_ (54) kinds of corporealities of the ear-door, (44) kinds of corporealities of the body-door, (44) kinds of corporealities of hair etc., as shown in tables of ***rūpakammaṭṭhāna***. 
 
 
 #### **C. Noticeable fact** 
@@ -545,7 +545,7 @@ Corporeal unit is, actually, a smallest system of corporeality, compactness of c
 
 4. ***sayamvasī atta*** , the ‘self’ which can create as indulgence of itself,  
 4. ***sāmiatta***, the ‘self’ which possesses the body, 
-4. ***adhiţţhāyaka atta***, the ‘self’ which can organize and manage every work which is deserving to do, in those corporealities with the nature of impermanence and suffering. As explained in the character of impermanence, the righteous ***meditator*** must discern both internal and external continuums and both living and non-living worlds by spreading knowledge upto infinite universes. 
+4. ***adhiṭṭhāyaka atta***, the ‘self’ which can organize and manage every work which is deserving to do, in those corporealities with the nature of impermanence and suffering. As explained in the character of impermanence, the righteous ***meditator*** must discern both internal and external continuums and both living and non-living worlds by spreading knowledge upto infinite universes. 
 
 
 
@@ -553,11 +553,11 @@ Corporeal unit is, actually, a smallest system of corporeality, compactness of c
 
 ` `Because the perception of non-self can arise in the continuum of ***meditator*** with perception of impermanence in this way, the Supreme Buddha preached that ...  
 
-“***aniccasaññino hi meghiya anattasaññā saņţhāti = Meghiya*** ... the perception of non-self exists well in the continuum of ***meditator*** with perception of impermanence. (***Udāna-120***) 
+“***aniccasaññino hi meghiya anattasaññā saņṭhāti = Meghiya*** ... the perception of non-self exists well in the continuum of ***meditator*** with perception of impermanence. (***Udāna-120***) 
 
 
 
-` `***aniccalakkhaņam hi diţţhe anattalakkhaņam diţţhameva hoti. tesu hi lakkhaņesu ekasamim diţţhe itaradvayam diţţhameva hoti. (Udāna-A-214).*** 
+` `***aniccalakkhaņam hi diṭṭhe anattalakkhaņam diṭṭhameva hoti. tesu hi lakkhaņesu ekasamim diṭṭhe itaradvayam diṭṭhameva hoti. (Udāna-A-214).*** 
 
 ` `When the character of impermanence is seen well the character of non-self can also be seen well. It is right.\_\_\_\_\_ When any kind of three general characters is seen remaining two characters can be seen well. 
 
@@ -579,7 +579,7 @@ In this case the ***meditator*** should not misunderstand the meaning. It does n
 
 ` `Because during keeping in mind mental ***dhammas*** those ***dhammas*** can be kept in mind through accordant base-door, it will be presented on ***vipassanā*** discerning on mental ***dhammas*** through base-door for beginners of ***vipssanā*** practice. 
 
-` `When the nature of impermanence, suffering, non-self of corporeal ***dhammas*** of both internal and external continuums is discerned satisfactorily mental ***dhammas*** can be changed as the object of ***vipassanā*** practice. Previously, as mentioned in tables of ***nāmakammaţţhāna***, Volume II, the righteous ***meditator*** must keep in mind mental ***dhammas*** through accordant basic door in which any kind of three mental ***dhammas***, 
+` `When the nature of impermanence, suffering, non-self of corporeal ***dhammas*** of both internal and external continuums is discerned satisfactorily mental ***dhammas*** can be changed as the object of ***vipassanā*** practice. Previously, as mentioned in tables of ***nāmakammaṭṭhāna***, Volume II, the righteous ***meditator*** must keep in mind mental ***dhammas*** through accordant basic door in which any kind of three mental ***dhammas***, 
 
 \1. 	consciousness, 2. 	contact, 
 
@@ -587,7 +587,7 @@ In this case the ***meditator*** should not misunderstand the meaning. It does n
 
 ` `If the righteous ***meditator*** has got absorption ***dhammas*** upto the fourth absorption of mindfulness of breathing, he can begin from those mental ***dhammas*** previously. During keeping in mind in that way mental ***dhammas*** must be kept in mind on the whole in accordance with tables of cognitive processes of absorption. After keeping in mind mental ***dhammas*** he must generalize as ***anicca***, ***anicca*** by seeing the phenomenon of perishing away just after arising of those mental ***dhammas***. During discerning in that way what rate of phenomena of arising and perishing away may be but discerning as ***anicca*** must be slowly. Mental ***dhammas*** occurring in each cognitive process of absorption from the first absorption to the fourth absorption must be discerned as ***anicca*** one after another over and over again. If the righteous ***meditator*** has got mental ***dhammas*** of both (10) kinds of ***kasiņa***-objects upto (8) kinds of attainment and four protective meditation subject, he must discern on those mental ***dhammas*** in similar way. When he satisfies to discern on those absorption mental ***dhammas*** he must continue to discern remaining kinds of mental ***dhammas***. 
 
-` `Generally the way of discerning on mental ***dhammas*** through accordant base-door can be clarified in ***meditator***’s insight in ***vipassanā*** stage because mental ***dhammas*** were kept in mind through accordant base-door in ***nāmakammaţţhāna***. Furthermore both mental ***dhammas*** which had been discerned and mental ***dhammas*** which had not been discerned can be understood easily. Therefore the righteous ***meditator*** must discern mental ***dhammas*** shown in tables of ***nāmakammaţţhāna*** through one row after another. During discerning in that way ***vipassanā*** practice must be performed by seeing occurrence of numerous minddoor-cognitive processess which take object of fivefold-objects (***pañcārammaņa***), visible - object etc, after each one time of five-doors-cognitive processes, 
+` `Generally the way of discerning on mental ***dhammas*** through accordant base-door can be clarified in ***meditator***’s insight in ***vipassanā*** stage because mental ***dhammas*** were kept in mind through accordant base-door in ***nāmakammaṭṭhāna***. Furthermore both mental ***dhammas*** which had been discerned and mental ***dhammas*** which had not been discerned can be understood easily. Therefore the righteous ***meditator*** must discern mental ***dhammas*** shown in tables of ***nāmakammaṭṭhāna*** through one row after another. During discerning in that way ***vipassanā*** practice must be performed by seeing occurrence of numerous minddoor-cognitive processess which take object of fivefold-objects (***pañcārammaņa***), visible - object etc, after each one time of five-doors-cognitive processes, 
 
 
 ### **PAGE-18** 
@@ -595,7 +595,7 @@ In this case the ***meditator*** should not misunderstand the meaning. It does n
 
 eye-door-cognitive process etc., by separating many times of life-continuums between each cognitive process. It can be sufficient to discern for one time of generalizing as ***anicca*** by seeing numerous cognitive processes on the whole. It should be understood similarly on twofold corporeality-method. The Knowledge of Arising and Passing Away etc., must also be recognized in similar way. 
 
-` `When the righteous ***meditator*** who is mastery to keep in mind mental ***dhammas*** of all (6) lines called visible-object line, audible-object line, olfactory-object line, sapid-object line, tactile-object line, ideational-object line, can perform ***vipassanā*** practice on mental ***dhammas*** of cognitive processes of absorption in this way he must keep in mind mental ***dhammas*** of both wholesome group and unwholesome group of all (6) lines and then he must discern as ***anicca***, ***anicca*** after seeing incessant phenomena of arising and perishing away of those mental ***dhammas***, over and over again. Alternate discerning on internal and external continuums must be performed. For external continuum he must perform ***vipassanā*** practice by stretching knowledge out towards (31) realms on the whole. Mental ***dhammas*** shown in each row of tables of ***nāmakammaţţhāna*** must be discerned one after another systematically. 
+` `When the righteous ***meditator*** who is mastery to keep in mind mental ***dhammas*** of all (6) lines called visible-object line, audible-object line, olfactory-object line, sapid-object line, tactile-object line, ideational-object line, can perform ***vipassanā*** practice on mental ***dhammas*** of cognitive processes of absorption in this way he must keep in mind mental ***dhammas*** of both wholesome group and unwholesome group of all (6) lines and then he must discern as ***anicca***, ***anicca*** after seeing incessant phenomena of arising and perishing away of those mental ***dhammas***, over and over again. Alternate discerning on internal and external continuums must be performed. For external continuum he must perform ***vipassanā*** practice by stretching knowledge out towards (31) realms on the whole. Mental ***dhammas*** shown in each row of tables of ***nāmakammaṭṭhāna*** must be discerned one after another systematically. 
 
 
 
@@ -613,11 +613,11 @@ eye-door-cognitive process etc., by separating many times of life-continuums bet
 
 
 
-***Pāli Quotation ( M-ţī-3-274,275)*** 
+***Pāli Quotation ( M-ṭī-3-274,275)*** 
 ### **PAGE-19** 
 
 
-` `The way of discerning as ***vipassanā*** practice by generalizing three characters on all kinds of corporeal ***dhammas*** and mental ***dhammas*** occurring in both internal continuum of himself and other’s continuum in which all kinds of corporeal and mental ***dhammas*** are discerned on the whole without differentiating as man, woman, person, being etc., due to similarity as external ones, is the field of ***sammasanacāra*** (way of discerning on the whole) of disciples. (***M-ţī***-***3-247, 275***) 
+` `The way of discerning as ***vipassanā*** practice by generalizing three characters on all kinds of corporeal ***dhammas*** and mental ***dhammas*** occurring in both internal continuum of himself and other’s continuum in which all kinds of corporeal and mental ***dhammas*** are discerned on the whole without differentiating as man, woman, person, being etc., due to similarity as external ones, is the field of ***sammasanacāra*** (way of discerning on the whole) of disciples. (***M-ṭī***-***3-247, 275***) 
 
 ` `In accordance with above annotation of ***Anupāda*** ***Sutta***, during discerning external continuums it must be carried out without differentiating man, woman etc., but by generalizing on the whole as the same objects of external ones only. When the righteous ***meditator*** can discern as ***anicca*** from near surroundings upto infinite universes by stretching knowledge out gradually he must change to discern as ***dukkha***. 
 
@@ -627,7 +627,7 @@ eye-door-cognitive process etc., by separating many times of life-continuums bet
 
 
 
-**Character of non-self**\_\_\_\_\_ When the righteous ***meditator*** clarifies on the character of suffering he must continue to discern the nature of non-self. As mentioned above, he must discern as ***anatta***, ***anatta*** by seeing the nature of absence of self called ***sāmī, nivāsī, kāraka, vedaka, adiţţhāyaka*** which are indestructible essence of self as durable one within those mental ***dhammas***. In all (6) lines both wholesome and unwholesome groups of mental ***dhammas*** must be discerned thoroughly. 
+**Character of non-self**\_\_\_\_\_ When the righteous ***meditator*** clarifies on the character of suffering he must continue to discern the nature of non-self. As mentioned above, he must discern as ***anatta***, ***anatta*** by seeing the nature of absence of self called ***sāmī, nivāsī, kāraka, vedaka, adiṭṭhāyaka*** which are indestructible essence of self as durable one within those mental ***dhammas***. In all (6) lines both wholesome and unwholesome groups of mental ***dhammas*** must be discerned thoroughly. 
 
 
 ### **H. Sometimes internal, sometimes external, sometimes corporeal *dhamma*, sometimes mental *dhamma*** 
@@ -689,34 +689,34 @@ eye-door-cognitive process etc., by separating many times of life-continuums bet
 sound nonad corporealities must be discerned as priority because ***vipassanā*** practice must be performed by discerning on real corporealities only. Similarly during discerning on visible - object the righteous ***meditator*** must be careful to discern upto the field of ultimate nature of various corporealities, such as, (8) kinds of corporealities, if visible object is included within pure octad (9) kinds of corporealities, if visible-object is included witin vital nonad; (10)kinds of corporealities, if visible - object is included within decads, body-decad etc., by breaking down each compactness of corporeality. It should be understood similarly on olfactoryobject, sapid-object, tactile-object etc. 
 
 
-##### **I. How it is inclusive in four kinds of mindfulness foundation (*satipaţţhāna*)** 
+##### **I. How it is inclusive in four kinds of mindfulness foundation (*satipaṭṭhāna*)** 
 
 
 ` 	`During discerning on corporeal and mental ***dhammas*** as ***vipassanā*** practice in that way\_\_\_\_\_ 
 
 
 
-1. if ***vipassanā*** practice is carried out by discerning three general characters after keeping in mind corporeality-mentality through corporeal ***dhammas*** as priority, it falls in ***kāyānupassanā*** ***satipaţţhāna*** (contemplation on bodily constituents as mindfulness foundation); while\_\_\_\_\_ 
+1. if ***vipassanā*** practice is carried out by discerning three general characters after keeping in mind corporeality-mentality through corporeal ***dhammas*** as priority, it falls in ***kāyānupassanā*** ***satipaṭṭhāna*** (contemplation on bodily constituents as mindfulness foundation); while\_\_\_\_\_ 
 
 
 
-1. if ***vipassanā*** practice is carried out by discerning three general characters after keeping in mind corporeality-mentality through feeling as priority, it falls in ***vedanānupassanā*** ***satipaţţhāna*** (contemplation on feeling as mindfulness foundation); 
+1. if ***vipassanā*** practice is carried out by discerning three general characters after keeping in mind corporeality-mentality through feeling as priority, it falls in ***vedanānupassanā*** ***satipaṭṭhāna*** (contemplation on feeling as mindfulness foundation); 
 
 
 
-1. if ***vipassanā*** practice is carried out by discerning three general characters  after keeping in mind corporeality mentality through consciousness as priority, it falls in ***cittāanupassanā*** ***satipaţţhāna*** (contemplation on consciousness as mindfulness foundation); 
+1. if ***vipassanā*** practice is carried out by discerning three general characters  after keeping in mind corporeality mentality through consciousness as priority, it falls in ***cittāanupassanā*** ***satipaṭṭhāna*** (contemplation on consciousness as mindfulness foundation); 
 
 
 ### **PAGE-22** 
 
 
-\4. if ***vipassanā*** practice is carried out by discerning three general characters  after keeping in mind corporeality mentality through contact (***phassa***) as priority, it falls in ***dhammānupassanā*** ***satipaţţhāna*** (contemplation on consciousness as mindfulness foundation). 
+\4. if ***vipassanā*** practice is carried out by discerning three general characters  after keeping in mind corporeality mentality through contact (***phassa***) as priority, it falls in ***dhammānupassanā*** ***satipaṭṭhāna*** (contemplation on consciousness as mindfulness foundation). 
 
 
 ### **J. Significant fact to be noticed** 
 
 
-` `During discerning on feeling as priority, the righteous ***meditator*** must distinguish each kind of feeling consisting in every mind moment, such as bodily agreeable feeling, mentally agreeable feeling, mentally disagreeable feeling, neutrality feeling etc. (Please see tables of ***nāmakammaţţhāna***.) 
+` `During discerning on feeling as priority, the righteous ***meditator*** must distinguish each kind of feeling consisting in every mind moment, such as bodily agreeable feeling, mentally agreeable feeling, mentally disagreeable feeling, neutrality feeling etc. (Please see tables of ***nāmakammaṭṭhāna***.) 
 
 
 
@@ -728,7 +728,7 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 ` `Because bodily disagreeable feeling called ***dukkha*** ***dukkha*** and bodily agreeable feeling called ***vipariņāma dukkha*** are being oppressed by incessant phenomena of arising and perishing away they are also inclusive in ***sańkhāra dukkha*** (= suffering of phenomena of arising and perishing away). 
 
 
-#### K. ***dhammānupassanā*** ***satipaţţhāna*** 
+#### K. ***dhammānupassanā*** ***satipaṭṭhāna*** 
 
 
 ` `It can be said in the next method, if those ultimate elements of corporeal and mental ***dhammas*** are discerned through  
@@ -736,7 +736,7 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 1. fivefold aggregates method by dividing (5) groups, 
 1. twelvefold bases method by dividing (12) groups, 
 1. eighteenfold elements method by dividing (18) groups, 
-1. twofold preaching methodology of Noble Truths, ***dukkha sacca***, ***samudaya sacca***, by dividing (2) groups, respectively, it falls into ***dhammānupassanā saţipaţţhāna***. 
+1. twofold preaching methodology of Noble Truths, ***dukkha sacca***, ***samudaya sacca***, by dividing (2) groups, respectively, it falls into ***dhammānupassanā saṭipaṭṭhāna***. 
 
 
 
@@ -760,7 +760,7 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 1. external continuums, 
 1. only corporeal ***dhammas***, 4. 	only mental ***dhammas***, 
 
-\5. corporeality-mentality, in the stage of Knowledge of Discerning Cause and Condition. Now ***vipassanā*** practice must be carried out as way of keeping in mind in that stage similarly.  Pure corporeal ***dhammas*** which are existing in three periods from successive past lives to present life, from present life to the end of successive future lives, must be discerned as ***anicca***, ***anicca*** straight through three periods by seeing the nature of arising phase-static phase-perishing phase (***uppāda-ţhiti-bhanga***), in other words, by seeing the phenomena of arising and perishing away of corporeal ***dhammas*** of various previous successive lives (tenth past life or ninth past life etc.,). After internal corporeal ***dhammas*** within three periods were discerned over and over external corporeal ***dhammas*** within three periods must be discerned as ***anicca***, ***anicca*** in similar way. The ***meditator*** must discern by breaking down each compactness of corporeality in order to reaching into the field of ultimate nature of every corporeal ***dhammas***. When the knowledge of Contemplation on Impermanence is clarified in the insight he must continue to perform ***vipassanā*** practice in order to clarify knowledge of Contemplation on suffering called ***dukkhānupassanā ñāņa*** and Knowledge of Contemplation on Non-self called ***anattānupassanā ñāņa*** in similar way. 
+\5. corporeality-mentality, in the stage of Knowledge of Discerning Cause and Condition. Now ***vipassanā*** practice must be carried out as way of keeping in mind in that stage similarly.  Pure corporeal ***dhammas*** which are existing in three periods from successive past lives to present life, from present life to the end of successive future lives, must be discerned as ***anicca***, ***anicca*** straight through three periods by seeing the nature of arising phase-static phase-perishing phase (***uppāda-ṭhiti-bhanga***), in other words, by seeing the phenomena of arising and perishing away of corporeal ***dhammas*** of various previous successive lives (tenth past life or ninth past life etc.,). After internal corporeal ***dhammas*** within three periods were discerned over and over external corporeal ***dhammas*** within three periods must be discerned as ***anicca***, ***anicca*** in similar way. The ***meditator*** must discern by breaking down each compactness of corporeality in order to reaching into the field of ultimate nature of every corporeal ***dhammas***. When the knowledge of Contemplation on Impermanence is clarified in the insight he must continue to perform ***vipassanā*** practice in order to clarify knowledge of Contemplation on suffering called ***dukkhānupassanā ñāņa*** and Knowledge of Contemplation on Non-self called ***anattānupassanā ñāņa*** in similar way. 
 
 ` `When the righteous ***meditator*** satisfies to discern corporeal ***dhammas*** which are existing in three periods and two continuums by stretching knowledge out towards both (31) realms and infinite universes gradually he must continue to discern mental ***dhammas*** which are existing in three periods and two continuums similarly. 
 
@@ -772,20 +772,20 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 
 ` `During performing ***vipassanā*** practice in that way any disciple is unable to discern every corporeal or mental ***dhammas*** occurring throughout life. It is very difficult to discern at least every corporeality mentality occurring within one hour. However he must discern corporeality-mentality which occur at close intervals as possible as he can. This field of object of ***vipassanā*** practice has been explained in opinion of partiality (***ekadesa***) in Volume I. Partial field of object of ***vipassanā*** practice depends upon efficiency of knowledge which had been cultivated through perfection (***pāramita***) of previous lives and efficiency of concentration developed in present life. 
 
-` `During discerning external objects, it is explained in commentary of ***Majjhima Nikāya*** that\_\_\_\_ ***yaţţhikoţiya uppīļento viya ekadesameva sammasanto ... (M-A-4-58)*** as walking stick touches the ground while one is walking, external ***dhammas*** which can be discerned by ***vipassanā*** knowledge are similar to touched ground while those external ***dhammas*** which can not be discerned by ***vipassanā*** knowledge are similar to untouch ground for disciples, such as the Most Venerable ***Moggallāna***. It should be recognized similarly on internal ***dhammas***. However the righteous ***meditator*** must discern all qualitative kinds of ultimate ***dhammas*** without any remain thoroughly. 
+` `During discerning external objects, it is explained in commentary of ***Majjhima Nikāya*** that\_\_\_\_ ***yaṭṭhikoṭiya uppīļento viya ekadesameva sammasanto ... (M-A-4-58)*** as walking stick touches the ground while one is walking, external ***dhammas*** which can be discerned by ***vipassanā*** knowledge are similar to touched ground while those external ***dhammas*** which can not be discerned by ***vipassanā*** knowledge are similar to untouch ground for disciples, such as the Most Venerable ***Moggallāna***. It should be recognized similarly on internal ***dhammas***. However the righteous ***meditator*** must discern all qualitative kinds of ultimate ***dhammas*** without any remain thoroughly. 
 
-` `Especially in the aspect of range of efficiency of disciple’s knowledge during discerning external continuum, if ***vipassanā*** practice is performed by discerning corporealitymentality on the whole without differentiating man, woman, person, being etc., the Noble Path and Fruit, ***nibbāna*** can be reached. (See explanation found in subcommentary of ***Anupada*** ***Sutta***, ***M-ţī***-***3-274,275***) 
-
-
-#### ` `***thero pana bahiddhā dhammepi santāna vibhāgena keci keci uddharitvā sammasi, tañca kho ñāņenaphuţţhamattam katvā.*** (***M-ţī-3-275***) 
+` `Especially in the aspect of range of efficiency of disciple’s knowledge during discerning external continuum, if ***vipassanā*** practice is performed by discerning corporealitymentality on the whole without differentiating man, woman, person, being etc., the Noble Path and Fruit, ***nibbāna*** can be reached. (See explanation found in subcommentary of ***Anupada*** ***Sutta***, ***M-ṭī***-***3-274,275***) 
 
 
-` `The Most Venerable ***Moggallāna***, however, performed ***vipassanā*** practice by selecting some specific external ***dhammas*** after differentiating continuums. He merely touched those specific external ***dhammas*** for ***vipassanā*** practice. (***M-ţī-3-275***) 
+#### ` `***thero pana bahiddhā dhammepi santāna vibhāgena keci keci uddharitvā sammasi, tañca kho ñāņenaphuṭṭhamattam katvā.*** (***M-ṭī-3-275***) 
+
+
+` `The Most Venerable ***Moggallāna***, however, performed ***vipassanā*** practice by selecting some specific external ***dhammas*** after differentiating continuums. He merely touched those specific external ***dhammas*** for ***vipassanā*** practice. (***M-ṭī-3-275***) 
 
 ` `According to explanations of above scripture, during discerning external ***dhammas*** the righteous ***meditator*** can perform ***vipassanā*** practice by selecting some specific corporeality-mentality of external beings which are touched merely by ***vipassanā*** knowledge. However the way of discerning by selecting some specific corporeality-mentality of external continuums may be more convenient for only those righteous persons with Super-psychic Knowledge, such as the Most Venerable ***Moggallāna***. 
 \***
 
-#### ***\* Translator’s Notes [Pāli Quotation (M-ţī-3-274, 275)*** 
+#### ***\* Translator’s Notes [Pāli Quotation (M-ṭī-3-274, 275)*** 
 ` `This ***Pāli*** Quotation and translation are repeated again because it has been shown in page 18 last paragraph & page 19 first paragraph.] 
 
 
@@ -807,7 +807,7 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 #### **1.3 Fivefold aggregates method discerning** 
 
 
-` `Now discerning by five aggregates method which is inclusive in ***dhammānupassanā satipaţţhāna*** will be presented continuously. 
+` `Now discerning by five aggregates method which is inclusive in ***dhammānupassanā satipaṭṭhāna*** will be presented continuously. 
 
 
 ### **PAGE-26** 
@@ -819,7 +819,7 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 1. the feeling within each mind moment is one group; 
 1. the perception within each mind moment is one group; 
 1. remaining mental concomitants, excluding feeling and perception, within each mind moment are one group; 
-1. the consciousness within each mind moment is one group; are divided and discerned as objects of ***vipassanā*** practice. This way of discerning is very convenient for sharp wisdom persons called ***tikkhapaññavā*** who are well clarified in corporeal ***dhammas*** but not in mental ***dhammas***. This way of discerning is convenient for those persons who prefer brief method of ***vipassanā*** practice called ***sańkhittaruci puggala***.  The way of discerning on conditioned things shown in the table must be performed row by row. Please see again tables of ***nāmakammaţţhāna***. The first row of table which shows eye-door-cognitive process and mind-door-cognitive process, which associate with both knowledge and pleasurable interest, which arise by taking visible object as object, must be kept in mind again. The righteous ***meditator*** must discern in order to understand the fact numerous succeeding mind-door cognitive processes can arise by following preceding one eye-door cognitive process which are separated by life-continuums. Depended base corporeality and object corporeality must also be discerned. 
+1. the consciousness within each mind moment is one group; are divided and discerned as objects of ***vipassanā*** practice. This way of discerning is very convenient for sharp wisdom persons called ***tikkhapaññavā*** who are well clarified in corporeal ***dhammas*** but not in mental ***dhammas***. This way of discerning is convenient for those persons who prefer brief method of ***vipassanā*** practice called ***sańkhittaruci puggala***.  The way of discerning on conditioned things shown in the table must be performed row by row. Please see again tables of ***nāmakammaṭṭhāna***. The first row of table which shows eye-door-cognitive process and mind-door-cognitive process, which associate with both knowledge and pleasurable interest, which arise by taking visible object as object, must be kept in mind again. The righteous ***meditator*** must discern in order to understand the fact numerous succeeding mind-door cognitive processes can arise by following preceding one eye-door cognitive process which are separated by life-continuums. Depended base corporeality and object corporeality must also be discerned. 
    1. All mind moments occurring straight through the row must be discerned by taking object depended base corporealities and object corporeality of every mind moment, as object. 
    1. All mind moments occurring straight through the row must be discerned by taking object of feeling of every mind moment, as object. 
    1. All mind moments occurring straight through the row must be discerned by taking object of perception of every mind moment, as object. 
@@ -830,7 +830,7 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 
 ` `Afterwards the second row must also be discerned in similar way. Remaining rows, the third row etc., can be understood easily. All (6) lines must be discerned thoroughly for both internal and external continuums. If the ***meditator*** can generalize one character for numerous cognitive processes on the whole, it will be sufficient for ***vipassanā*** practice. 
 
-` `In the stage of ***nāmakammaţţhāna***, the righteous ***meditator*** has experienced to discern each row through various methods, such as,  
+` `In the stage of ***nāmakammaṭṭhāna***, the righteous ***meditator*** has experienced to discern each row through various methods, such as,  
 
 
 ### **PAGE-27** 
@@ -852,10 +852,10 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 1. pure consciousness, which are existing in three periods, from successive past lives to present, from present life to the end of future life on the whole. Both internal and external conditioned things must be discerned in similar way. The following preachings instruct to discern in that way. 
 
 
-#### ***Pāli Quotation (Vs -2-244) (Paţisam-51, Vs-2-245) (Vs-2-245)*** 
+#### ***Pāli Quotation (Vs -2-244) (Paṭisam-51, Vs-2-245) (Vs-2-245)*** 
 
 
-` `According to instructions found in ***Pāli*** Text called ***Paţisambhidā*** ***Magga*** and commentary called ***Visuddhi*** ***Magga***, the righteous ***meditator*** can perform ***vipassanā*** practice through discerning on each aggregate after dividing five groups of corporeal and mental ***dhammas*** occurring in three periods and two continuums. Previously way of discerning on internal five aggregates will be presented as follows:\_\_\_\_\_ 
+` `According to instructions found in ***Pāli*** Text called ***Paṭisambhidā*** ***Magga*** and commentary called ***Visuddhi*** ***Magga***, the righteous ***meditator*** can perform ***vipassanā*** practice through discerning on each aggregate after dividing five groups of corporeal and mental ***dhammas*** occurring in three periods and two continuums. Previously way of discerning on internal five aggregates will be presented as follows:\_\_\_\_\_ 
 
 
 ### **PAGE-28** 
@@ -867,11 +867,11 @@ sound nonad corporealities must be discerned as priority because ***vipassanā**
 #### **2. 	Feeling aggregate\_\_\_\_\_** 
 
 
-` `Various kinds of feeling which are consisting in various mind moments which are occurring in three periods, from successive past lives to the end of future life of continuum of the ***meditator*** must be selected and discerned as ***anicca***, ***anicca*** repeatedly and continuously. Even though every feeling consisting in various mind moments within various lives are unable to be discerned, he must try to discern various kinds of feeling as possible as his efficiency of ***vipassanā*** knowledge. During discerning in that way specific kinds of feeling within each mind moment, i.e., bodily agreeable feeling, bodily disagreeable feeling, mentally agreeable feeling, mentally disagreeable feeling, neutral feeling, must be distinguished by insight knowledge. (The ***meditator*** can understand which kind of feeling associates in which kind of mind moment as mentioned in ***nāmakammaţţhāna***, Volume II)  When the ***meditator*** satisfies to develop the Knowledge of Contemplation of Impermanence he must continue to develop remaining two kinds of knowledge, i.e., the knowledge of contemplation of suffering and the knowledge of contemplation of Non-self in similar way. Alternate discerning on internal continuum and external continuums must be carried out over and over. 
+` `Various kinds of feeling which are consisting in various mind moments which are occurring in three periods, from successive past lives to the end of future life of continuum of the ***meditator*** must be selected and discerned as ***anicca***, ***anicca*** repeatedly and continuously. Even though every feeling consisting in various mind moments within various lives are unable to be discerned, he must try to discern various kinds of feeling as possible as his efficiency of ***vipassanā*** knowledge. During discerning in that way specific kinds of feeling within each mind moment, i.e., bodily agreeable feeling, bodily disagreeable feeling, mentally agreeable feeling, mentally disagreeable feeling, neutral feeling, must be distinguished by insight knowledge. (The ***meditator*** can understand which kind of feeling associates in which kind of mind moment as mentioned in ***nāmakammaṭṭhāna***, Volume II)  When the ***meditator*** satisfies to develop the Knowledge of Contemplation of Impermanence he must continue to develop remaining two kinds of knowledge, i.e., the knowledge of contemplation of suffering and the knowledge of contemplation of Non-self in similar way. Alternate discerning on internal continuum and external continuums must be carried out over and over. 
 
 
 
-3. **Perception aggregate\_\_\_\_\_** As mentioned in feeling aggregate, various kinds of perception which are consisting in various mind moments which are occurring in three periods must be selected and discerned as ***anicca***, ***anicca***, over and over again. Remaining two characters, character of suffering and character of non-self must also be discerned similarly. Both kinds of continuums, i.e., internal and external continuums must be discerned alternately. During discerning in that way (6) kinds of perceptions, i.e., visual perception, sound perception, olfaction perception, sapid perception, tactile perception, ***dhamma*** perception, must be distinguished and discerned as ***anicca***, ***dukkha***, ***anatta*** alternately. If ***vipassanā*** practice can be performed by discerning on all kinds of cognitive processes, i.e., (6) kinds of cognitive processes, eye-door-cognitive process etc., and those consciousness which are free from cognitive process, i.e., ***paţisandhi***, life-continuum, death consciousness, which are occurring throughout various lives, (6) kinds of perception will also be inclusive completely. Those mental ***dhammas***, i.e., feeling, formations, consciousness, which are occurring associating with perception within the same mind moment will also be inclusive completely. 
+3. **Perception aggregate\_\_\_\_\_** As mentioned in feeling aggregate, various kinds of perception which are consisting in various mind moments which are occurring in three periods must be selected and discerned as ***anicca***, ***anicca***, over and over again. Remaining two characters, character of suffering and character of non-self must also be discerned similarly. Both kinds of continuums, i.e., internal and external continuums must be discerned alternately. During discerning in that way (6) kinds of perceptions, i.e., visual perception, sound perception, olfaction perception, sapid perception, tactile perception, ***dhamma*** perception, must be distinguished and discerned as ***anicca***, ***dukkha***, ***anatta*** alternately. If ***vipassanā*** practice can be performed by discerning on all kinds of cognitive processes, i.e., (6) kinds of cognitive processes, eye-door-cognitive process etc., and those consciousness which are free from cognitive process, i.e., ***paṭisandhi***, life-continuum, death consciousness, which are occurring throughout various lives, (6) kinds of perception will also be inclusive completely. Those mental ***dhammas***, i.e., feeling, formations, consciousness, which are occurring associating with perception within the same mind moment will also be inclusive completely. 
 
 
 
@@ -935,7 +935,7 @@ Five transparent corporealities are ***visayīrūpa*** while seven object corpor
 
 
 
-Corporealities of ***sudassī*** ***brahma*** are more inferior than those of ***akaniţţha*** ***brahma***; but corporealities of the former are more superior than those of ***sudassā*** ***brahma***. It should be recognized successive inferiority and superiority until denizen of hell through periphrasis method. 
+Corporealities of ***sudassī*** ***brahma*** are more inferior than those of ***akaniṭṭha*** ***brahma***; but corporealities of the former are more superior than those of ***sudassā*** ***brahma***. It should be recognized successive inferiority and superiority until denizen of hell through periphrasis method. 
 
 
 
@@ -948,7 +948,7 @@ Corporealities of ***sudassī*** ***brahma*** are more inferior than those of **
 
 ### **PAGE-31** 
 
-#### ***Pāli Quotation ( Mahāţī-2-156,157, Abhi-A-2-8 )*** 
+#### ***Pāli Quotation ( Mahāṭī-2-156,157, Abhi-A-2-8 )*** 
 
 
 ` 	`It will be explicit as follows:\_\_\_\_\_ 
@@ -973,7 +973,7 @@ Corporealities of ***sudassī*** ***brahma*** are more inferior than those of **
 
 ` `In those two kinds of spatial dimensions of near and far, if the subtle corporeality lies outside range of (12) cubits, it can be designated as far corporeality through both characteristic and spatial dimension. If it lies within range of (12) cubits, it can be designated as near corporeality through spatial dimension only but not characteristic. 
 
-` `If the gross corporeality lies within range of (12) cubits, it can be designated as near corporeality through both characteristic and spatial dimension. If it lies outside range of (12) cubits, it can be designated as far corporeality through spatial dimension only but not characteristic.(***Mahāţī-2-158***) 
+` `If the gross corporeality lies within range of (12) cubits, it can be designated as near corporeality through both characteristic and spatial dimension. If it lies outside range of (12) cubits, it can be designated as far corporeality through spatial dimension only but not characteristic.(***Mahāṭī-2-158***) 
 
 ` `Furthermore because the commentator Sayadaw explained how corporeal ***dhamma*** can be designated as far or near through spatial dimension by taking consideration successively (***upādāyupādāya***), the corporeality of oneself is called near corporeality while other’s corporeality is called far corporeality even though it lies inside body of oneself (fetus or parasitic worm etc.,) 
 
@@ -987,7 +987,7 @@ Corporealities of ***sudassī*** ***brahma*** are more inferior than those of **
 1. a division or state 
 1. a country, 
 1. ocean, 
-1. universe. (***Mahāţī-2-158***) 
+1. universe. (***Mahāṭī-2-158***) 
 
 
 
@@ -1020,7 +1020,7 @@ Corporealities of ***sudassī*** ***brahma*** are more inferior than those of **
 
 ` `In the commentary called ***Visuddhi Magga, 2, page (245)*** it is also instructed to discern gross corporeality, subtle corporeality, inferior corporeality, superior corporeality, far corporeality, near corporeality separately. According to that instruction, the righteous ***meditator*** can discern separately as he likes. 
 
-` `If the righteous ***meditator*** can discern all kinds of corporeal ***dhammas*** which are existing in three periods called past, future, present and two continuums called internal and external ones indiscriminately, gross corporealities, subtle corporealities, inferior corporealities, superior corporealities, far corporelities, near corporealities are also inclusive within those corporeal ***dhammas***. Those corporeal ***dhammas*** must, therefore, be discerned either separately or on the whole as he likes. Mental aggregates, feeling aggregate etc., must also be recognized similarly in that way. (***See Paţisam-A-1-233***) 
+` `If the righteous ***meditator*** can discern all kinds of corporeal ***dhammas*** which are existing in three periods called past, future, present and two continuums called internal and external ones indiscriminately, gross corporealities, subtle corporealities, inferior corporealities, superior corporealities, far corporelities, near corporealities are also inclusive within those corporeal ***dhammas***. Those corporeal ***dhammas*** must, therefore, be discerned either separately or on the whole as he likes. Mental aggregates, feeling aggregate etc., must also be recognized similarly in that way. (***See Paṭisam-A-1-233***) 
 **
 
 ### **PAGE-34** 
@@ -1051,15 +1051,15 @@ Corporealities of ***sudassī*** ***brahma*** are more inferior than those of **
 
 ` `Unwholesome feeling is grosser than mere functioning indeterminate feeling (***kiriya*** ***avyākatavedanā***) because of both occurrence of presence of efficiency of ***kamma*** by means of capability to produce consequence; occurrence of presence of worry with fire of defilement; occurrence of presence of suffering of defilement (***kilesa*** ***dukkha***); and occurrence of blameful ***dhamma*** with faults, lust, anger, delusion etc.(***Vs-2-104***) 
 
-` `Wholesome feeling and indeterminate feeling have the origin with tranquility because of occurrence of both absence of fault; absence of worry called defilement; and absence of suffering called defilement. In this way it should be understood reversely from unwholesome feeling and how wholesome feeling and indeterminate feeling are subtler than unwholesome feeling (***Vs-2-104; Mahāţī-2-159***) 
+` `Wholesome feeling and indeterminate feeling have the origin with tranquility because of occurrence of both absence of fault; absence of worry called defilement; and absence of suffering called defilement. In this way it should be understood reversely from unwholesome feeling and how wholesome feeling and indeterminate feeling are subtler than unwholesome feeling (***Vs-2-104; Mahāṭī-2-159***) 
 
 ` `Both kinds of wholesome and unwholesome feeling are also grosser than two kinds of indeterminate feeling called consequence and mere functioning indeterminate feeling because of both occurrence of apparent presence of endeavour, bodily action etc; occurrence of presence of perseverance called impulsion (***javana*** ); and occurrence of presence of efficiency of ***kamma*** by means of capability to produce consequence appropriately. (***Vs-2104***) 
 
 
 
-` `Both kinds of wholesome and unwholesome feeling are grosser than consequence indeterminate feeling because of presence of above reasons. Those are grosser than mere functioning indeterminate feeling because of occurrence of presence of efficiency of ***kamma*** by means of capability to produce consequence. In the next method, those are grosser than mere functioning indeterminate feeling because of occurrence of presence of significant endeavour and perseverance through occurring with consequence ***dhamma*** (***savipāka dhamma***) which possesses efficiency of ***kamma***, which can produce consequence. It should be understood in this way. ( ***Mahāţī***-***2-159***) 
+` `Both kinds of wholesome and unwholesome feeling are grosser than consequence indeterminate feeling because of presence of above reasons. Those are grosser than mere functioning indeterminate feeling because of occurrence of presence of efficiency of ***kamma*** by means of capability to produce consequence. In the next method, those are grosser than mere functioning indeterminate feeling because of occurrence of presence of significant endeavour and perseverance through occurring with consequence ***dhamma*** (***savipāka dhamma***) which possesses efficiency of ***kamma***, which can produce consequence. It should be understood in this way. ( ***Mahāṭī***-***2-159***) 
 
-` `Consequence indeterminate feeling is subtler than wholesome and unwholesome feeling because of occurrence of both absence of endeavour, bodily action etc., absence of perseverance called impulsion (***javana***); and absence of efficiency of ***kamma*** by means of incapability to produce consequence. (***Vs-2-105, Mahāţī-2-160***) 
+` `Consequence indeterminate feeling is subtler than wholesome and unwholesome feeling because of occurrence of both absence of endeavour, bodily action etc., absence of perseverance called impulsion (***javana***); and absence of efficiency of ***kamma*** by means of incapability to produce consequence. (***Vs-2-105, Mahāṭī-2-160***) 
 
 ` `Mere functioning indeterminate feeling, however, is subtler than whole some and unwholesome feeling because of occurrence of absence of efficiency of ***kamma*** by means of incapability of produce consequence, in the next method, because of occurrence of presence of significant endeavour bodily action etc., and perseverance called impulsion through occurring without consequence ***dhamma*** (***avipāka*** ***dhamma***) which lacks efficiency of ***kamma*** which can produce consequence. In this way it should be understood reversely from wholesome and unwholesome feeling and how consequence and mere functioning indeterminate feeling are subtler than wholesome and unwholesome ones. 
 
@@ -1071,13 +1071,13 @@ Corporealities of ***sudassī*** ***brahma*** are more inferior than those of **
 
 ` `[***Arahants*** also perform bodily action; verbally action called morality, verbally action called preaching ***dhamma***, and mentally action called ***samatha*** ***vipassanā*** practices. During performing those functions impulsions fall successively. Those impulsions are only mere functioning ones (***kiriya*** ***javana*** ) because ***arahants*** have abandoned both whole some and unwholesome deeds. Mere functioning impulsions also lack efficiency of ***kamma*** which can produce consequence. It should be recognized above explanations refer to this principle.] 
 
-**It is right.**\_\_\_\_\_ Wholesome feeling and unwholesome feeling with the nature of ability to produce consequence are gross because they arise through bearing pregnancy called consequence. (***Vs-2-105, Mahāţī-2-160***) ***akusalā*** ***vedanā*** ***oļārikā***, ***kusalā*** ***vyākatā*** ***vedanā*** ***sukhumā***. ***kusalākusalā*** ***vedanā*** ***oļārikā***, ***avyākatā*** ***vedanā*** ***sukhumā***. (***Abhi-2-4***) 
+**It is right.**\_\_\_\_\_ Wholesome feeling and unwholesome feeling with the nature of ability to produce consequence are gross because they arise through bearing pregnancy called consequence. (***Vs-2-105, Mahāṭī-2-160***) ***akusalā*** ***vedanā*** ***oļārikā***, ***kusalā*** ***vyākatā*** ***vedanā*** ***sukhumā***. ***kusalākusalā*** ***vedanā*** ***oļārikā***, ***avyākatā*** ***vedanā*** ***sukhumā***. (***Abhi-2-4***) 
 
 ` `Those kinds of unwholesome feeling are gross because of occurrence of both arising together with worry of defilement and presence of undesirable bad consequence. (***Abhi-A-213)*** 
 
 ` `Those kinds of wholesome feeling are subtle because of occurrence of both absence of worry of defilement and presence of desirable good consequence. ***(Abhi-A-2-13)*** 
 
-` `Those kinds of indeterminate feeling are subtle because of occurrence of both absence of perseverance and absence of efficiency of ***kamma*** which can produce consequence. (The word, ***nirussahatthena*** (=because of occurrence of absence of perseverance), shows consequence indeterminate feeling while the word, a***vipākaţţhena*** (= because of occurrence of absence of efficiency of ***kamma*** which can produce consequence ), shows mere functioning indeterminate feeling respectively.) (***Abhi-A-2-13***) 
+` `Those kinds of indeterminate feeling are subtle because of occurrence of both absence of perseverance and absence of efficiency of ***kamma*** which can produce consequence. (The word, ***nirussahatthena*** (=because of occurrence of absence of perseverance), shows consequence indeterminate feeling while the word, a***vipākaṭṭhena*** (= because of occurrence of absence of efficiency of ***kamma*** which can produce consequence ), shows mere functioning indeterminate feeling respectively.) (***Abhi-A-2-13***) 
 
 ` `Those kinds of wholesome and unwholesome feeling are gross be cause of occurrence of both arising together with perseverance called impulsions and arising together with efficiency of ***kamma*** which can produce consequence. (***Abhi-A-2-13***) 
 
@@ -1097,7 +1097,7 @@ Thus classification of gross and subtle ones must be recognized by means of whol
 #### ` `***dukkhā*** ***vedanā*** ***oļārikā***, ***sukhā*** ***ca adukkha masukhā ca vedanā sukhumā. Sukha dukkhā vedanā oļārikā, adukkhamasukhā vedanā sukhumā. (Abhi-2-4)*** 
 ` `Disagreeable feeling is grosser than agreeable feeling and neutrality feeling by means of specific nature because of occurrence of both absence of pleasant nature; presence of trembling nature; capability to agitation; presence of dreadfulness; and capability to suppressing. (***Vs-2-105***) 
 
-` `Agreeable feeling and neutrality feeling are subtler than disagreeable feeling accordingly because of occurrence of both pleasant nature; calm nature; superior nature; capability to proliferation of mind; and capability to neutrality. (***Vs-2-105***) The nature of naturality towards object (***majjattatā***) is absent in agreeable feeling while the nature of pleasantness (***sāta***) is absent in neutrality feeling. The nature of calmness (***santatā***) is available in both agreeable feeling and neutrality feeling. Therefore the commentator said the word, ***yathāyogam*** = accordingly. ( ***Mahāţīkā***-***2-160***) 
+` `Agreeable feeling and neutrality feeling are subtler than disagreeable feeling accordingly because of occurrence of both pleasant nature; calm nature; superior nature; capability to proliferation of mind; and capability to neutrality. (***Vs-2-105***) The nature of naturality towards object (***majjattatā***) is absent in agreeable feeling while the nature of pleasantness (***sāta***) is absent in neutrality feeling. The nature of calmness (***santatā***) is available in both agreeable feeling and neutrality feeling. Therefore the commentator said the word, ***yathāyogam*** = accordingly. ( ***Mahāṭīkā***-***2-160***) 
 
 ` `Furthermore both kinds of agreeable feeling and disagreeable feeling are grosser than neutral felling called ***adukkhamasukha*** (= neither disagreeable nor agreeable feeling ) because of occurrence of both presence of trembling nature; capability to agitation; and obvious nature. That neutrality feeling in turn is subtler than those agreeable feeling and disagreeable feeling. Classification of gross and subtle ones by means of specific nature must be recognized in this way. (***Vs-2-105***) 
 
@@ -1115,9 +1115,9 @@ Thus classification of gross and subtle ones must be recognized by means of whol
 ### **Trembling-agitation** 
 
 
-` `Bodily agreeable feeling which is associated with rootless wholesome consequence joyful body-consciousness, in other words, that joyful body-consciousness together with agreeable feeling can not produce corporeality called ***cittajarūpa***. However\_\_\_\_\_ it is explained in ***Mūlaţīkā*** that***\_\_\_\_\_ upabyūhitānam dhātūnam paccayabhāvena sukhā khobeti vibādhitānam paccayabhāvena dukkhā ca. ( Mūlaţī-2-13)*** 
+` `Bodily agreeable feeling which is associated with rootless wholesome consequence joyful body-consciousness, in other words, that joyful body-consciousness together with agreeable feeling can not produce corporeality called ***cittajarūpa***. However\_\_\_\_\_ it is explained in ***Mūlaṭīkā*** that***\_\_\_\_\_ upabyūhitānam dhātūnam paccayabhāvena sukhā khobeti vibādhitānam paccayabhāvena dukkhā ca. ( Mūlaṭī-2-13)*** 
 
-` `When bodily agreeable feeling arises succeeding mind can proliferate four great elements. Agreeable feeling is, therefore, source of proliferation of four greatelements, resulting in trembling of corporealities within body. For instance\_\_\_\_ it is similar to the fact when audience becomes over crowd it is not quiet. When one suffers resulting from bodily disagreeable feeling corporealities produced by mind are not quiet similarly. (***Mūlaţī-2-13***) 
+` `When bodily agreeable feeling arises succeeding mind can proliferate four great elements. Agreeable feeling is, therefore, source of proliferation of four greatelements, resulting in trembling of corporealities within body. For instance\_\_\_\_ it is similar to the fact when audience becomes over crowd it is not quiet. When one suffers resulting from bodily disagreeable feeling corporealities produced by mind are not quiet similarly. (***Mūlaṭī-2-13***) 
 
 
 #### **3. Classification of gross and subtle ones by means of person** 
@@ -1151,7 +1151,7 @@ Thus classification of gross and subtle ones must be recognized by means of whol
 
 ` 	`Thus these kinds of preaching were preached by the Supreme Buddha.  
 
-` `Furthermore although disagreeable feeling is subtle by means of origin, i.e., occurrence of consequence indeterminate origin it is gross by means of specific nature etc. Similarly, unwholesome agreeable feeling (joyful feeling) is gross by means of origin, i.e., occurrence of unwholesome origin but it is subtle by means of specific nature. Agreeable feeling which associates with wholesome absorption (= joyful feeling) is gross by means of origin, due to occurrence of wholesome origin but it is subtle by means of person, due to occurrence of association with the attainment of person who enters into attainment. Thus agreeable feeling (= joyful feeling) etc., are gross by means by origin but those are subtle by means of specific nature, person. (***Vs-2-105; Mahāţī-2-160***) 
+` `Furthermore although disagreeable feeling is subtle by means of origin, i.e., occurrence of consequence indeterminate origin it is gross by means of specific nature etc. Similarly, unwholesome agreeable feeling (joyful feeling) is gross by means of origin, i.e., occurrence of unwholesome origin but it is subtle by means of specific nature. Agreeable feeling which associates with wholesome absorption (= joyful feeling) is gross by means of origin, due to occurrence of wholesome origin but it is subtle by means of person, due to occurrence of association with the attainment of person who enters into attainment. Thus agreeable feeling (= joyful feeling) etc., are gross by means by origin but those are subtle by means of specific nature, person. (***Vs-2-105; Mahāṭī-2-160***) 
 
 
 ### **PAGE-40** 
@@ -1178,7 +1178,7 @@ Thus classification of gross and subtle ones must be recognized by means of whol
 
 
 
-` `Abstaining from entanglement occurs through this phenomenon but not other phenomenon. It directs this kind of meaning. As it is directed on indeterminate feeling fundamentally, similarly it is worth directing wholesome and unwholesome feeling as priority. Furthermore as the origin is directed as fundamentally, specific nature, person etc., are also worth directing fundamentally. ***(Vs-2-105,106, Mahāţī-2-160,161)*** 
+` `Abstaining from entanglement occurs through this phenomenon but not other phenomenon. It directs this kind of meaning. As it is directed on indeterminate feeling fundamentally, similarly it is worth directing wholesome and unwholesome feeling as priority. Furthermore as the origin is directed as fundamentally, specific nature, person etc., are also worth directing fundamentally. ***(Vs-2-105,106, Mahāṭī-2-160,161)*** 
 
 
 ### **F. Classification of gross and subtle ones through taking consideration successively** 
@@ -1191,11 +1191,11 @@ In the next method, whether the feeling is gross or subtle must be recognized by
 ### **PAGE-41** 
 
 
-` `Among those kinds of feeling with anger, the feeling with anger which has fixed destination of woeful existence (***micchattaniyata vedanā***), which is very heavy unwholesome action, such as matricide, patricide, murdering ***Arahant***, extravasating the Buddha, cause a schism of ***sanghā***, etc., is gross while the feeling with anger which has not fixed destination (***aniyata***) is subtle. In those feeling with anger which has fixed destination, the feeling with anger which has got the consequence of existing in the hell throughout world time (***kappaţţhitika***) is gross while the feeling with anger which has not got the consequence of existing in the hell throughout world time is subtle. (It should be understood the fact Venerable ***Devadatta***’s action with fixed destination of woeful existence had associated with ***kappaţţhitika dosa sahagata vedanā*** ( = feeling with anger which has got consequence of existing in the hell throughout world time ) while king ***Ajātasattu***’s action with fixed destination of woeful existence had associated with the feeling with anger which is not ***kappaţţhitika***). ***(Vs-2-106)*** 
+` `Among those kinds of feeling with anger, the feeling with anger which has fixed destination of woeful existence (***micchattaniyata vedanā***), which is very heavy unwholesome action, such as matricide, patricide, murdering ***Arahant***, extravasating the Buddha, cause a schism of ***sanghā***, etc., is gross while the feeling with anger which has not fixed destination (***aniyata***) is subtle. In those feeling with anger which has fixed destination, the feeling with anger which has got the consequence of existing in the hell throughout world time (***kappaṭṭhitika***) is gross while the feeling with anger which has not got the consequence of existing in the hell throughout world time is subtle. (It should be understood the fact Venerable ***Devadatta***’s action with fixed destination of woeful existence had associated with ***kappaṭṭhitika dosa sahagata vedanā*** ( = feeling with anger which has got consequence of existing in the hell throughout world time ) while king ***Ajātasattu***’s action with fixed destination of woeful existence had associated with the feeling with anger which is not ***kappaṭṭhitika***). ***(Vs-2-106)*** 
 
-` `In those kinds of ***kappaţţhitika dosasahagata*** ***vedanā***, the feeling associated with anger, unprompted is gross with anger, unprompted is gross while the feeling, associated with anger, prompted is subtle. (***Vs-2-106***) 
+` `In those kinds of ***kappaṭṭhitika dosasahagata*** ***vedanā***, the feeling associated with anger, unprompted is gross with anger, unprompted is gross while the feeling, associated with anger, prompted is subtle. (***Vs-2-106***) 
 
-` `Furthermore, the feeling associated with greed and wrong view is gross while the feeling associated with greed but not wrong view is subtle. In those kinds of feeling associated with greed and wrong view, if it has got fixed wrong view (***niyata micchādiţhi***), it is gross; if it has not got fixed wrong view, it is subtle. In those kinds of feeling with greed and wrong view which has got fixed wrong view, ***kappaţţhitika*** ***vedanā*** is gross while the feeling, which is not ***kappaţţhitika***, is subtle. In those kinds of ***kappaţţhitika*** ***vedanā***, unprompted feeling is gross while prompted feeling is subtle (***Vs-2-106***) 
+` `Furthermore, the feeling associated with greed and wrong view is gross while the feeling associated with greed but not wrong view is subtle. In those kinds of feeling associated with greed and wrong view, if it has got fixed wrong view (***niyata micchādiṭhi***), it is gross; if it has not got fixed wrong view, it is subtle. In those kinds of feeling with greed and wrong view which has got fixed wrong view, ***kappaṭṭhitika*** ***vedanā*** is gross while the feeling, which is not ***kappaṭṭhitika***, is subtle. In those kinds of ***kappaṭṭhitika*** ***vedanā***, unprompted feeling is gross while prompted feeling is subtle (***Vs-2-106***) 
 
 ` `In general, those kinds of unwholesome feeling with much consequence are gross while those with less consequence are subtle. The wholesome feeling with less consequence is gross while the wholesome feeling with much consequence is subtle. (***Vs-2-106***) 
 
@@ -1271,11 +1271,11 @@ In the classification of inferiority, superiority\_\_\_\_ such feeling is gross,
 ### **PAGE-44** 
 
 
-because the volition is obvious occurring with the meaning of endeavouring (***āyūhanaţţha***). Due to occurrence of significance in that way, only volition is taken as formation aggregate by making leader to volition, ***cakkhusamphassajā cetanā***. Even though only volition is preached as leader in that way, other mental concomitant ***dhammas*** of formation aggregates which are associating with that volition are also already taken as formation aggregate.(***AbhiA-2-19***) 
+because the volition is obvious occurring with the meaning of endeavouring (***āyūhanaṭṭha***). Due to occurrence of significance in that way, only volition is taken as formation aggregate by making leader to volition, ***cakkhusamphassajā cetanā***. Even though only volition is preached as leader in that way, other mental concomitant ***dhammas*** of formation aggregates which are associating with that volition are also already taken as formation aggregate.(***AbhiA-2-19***) 
 
 
 ### **K. How it can be inclusive** 
-` `The righteous ***meditator*** can accept the opinion that if corporeality, feeling, perception, formation, consciousness occurring in three periods, past, future, present and two continuums, internal and external can be discerned from successive past to the end of future, those five aggregates occurring in (6) modes of situations, gross, subtle, inferior, superior, far near are also inclusive. There is no five aggregates which are free from (6) modes of situations called gross, subtle, inferior, superior, far, near. If one can accept this opinion, the meaning of preaching methodology with three rounds called ***teparivaţţa dhamma***, "***yan kincirūpam atītānāgata paccuppannam***" etc., can be deduced as follow.\_\_\_\_\_ 
+` `The righteous ***meditator*** can accept the opinion that if corporeality, feeling, perception, formation, consciousness occurring in three periods, past, future, present and two continuums, internal and external can be discerned from successive past to the end of future, those five aggregates occurring in (6) modes of situations, gross, subtle, inferior, superior, far near are also inclusive. There is no five aggregates which are free from (6) modes of situations called gross, subtle, inferior, superior, far, near. If one can accept this opinion, the meaning of preaching methodology with three rounds called ***teparivaṭṭa dhamma***, "***yan kincirūpam atītānāgata paccuppannam***" etc., can be deduced as follow.\_\_\_\_\_ 
 
 Five kinds of clinging aggregates called corporeality-feeling-perception-formationconsciousness, which are 
 
@@ -1299,7 +1299,7 @@ Five kinds of clinging aggregates called corporeality-feeling-perception-formati
 ### **PAGE-45** 
 
 #### **L. Four mental aggregates** 
-` `Again way of classification on gross, subtle, inferiority, superiority, far, near must be taken as object. In the four mental aggregates mere functioning indeterminate impulsions and Supramundane impulsions are also included. It is impossible to occur mere functioning indeterminate impulsions in the continuum of the ***meditator*** who is still only worldling person and then those must be left out. Because Supra-mundane impulsions are not object of ***vipassanā*** practice, those must also be left out. As mentioned in tables of  ***nāmakammaţţhāna***, if one can discern both wholesome and unwholesome impulsions of (6) cognitive processes for (6) lines thoroughly, gross-subtle, inferior-superior, far-near four mental aggregates are also inclusive. One should satisfy the fact if every corporealitymentality which is occurring in three periods and two continuums can be discerned as object of ***vipassanā*** practice, all kinds of those corporealities-mentalities occurring in (6) modes of situations, gross-subtle, inferior-superior, far-near, are also inclusive simultaneously. 
+` `Again way of classification on gross, subtle, inferiority, superiority, far, near must be taken as object. In the four mental aggregates mere functioning indeterminate impulsions and Supramundane impulsions are also included. It is impossible to occur mere functioning indeterminate impulsions in the continuum of the ***meditator*** who is still only worldling person and then those must be left out. Because Supra-mundane impulsions are not object of ***vipassanā*** practice, those must also be left out. As mentioned in tables of  ***nāmakammaṭṭhāna***, if one can discern both wholesome and unwholesome impulsions of (6) cognitive processes for (6) lines thoroughly, gross-subtle, inferior-superior, far-near four mental aggregates are also inclusive. One should satisfy the fact if every corporealitymentality which is occurring in three periods and two continuums can be discerned as object of ***vipassanā*** practice, all kinds of those corporealities-mentalities occurring in (6) modes of situations, gross-subtle, inferior-superior, far-near, are also inclusive simultaneously. 
 
 
 #### **M. Way of separate discerning on corporeal aggregate** 
@@ -1369,9 +1369,9 @@ Furthermore, for past internal corporealities,
 ### **N. *lakkhaņa vavatthāna vāra* (Category of discriminating on characteristics)** 
 
 
-` `Because corporeal ***dhammas*** which are varied in (11) modes of situations called past, future, present, internal, external, gross, subtle, inferior, superior, far, near are pondered and discerned by ***vipassanā*** knowledge in this way, these all kinds of ways of discerning with (11) varieties are called a single ***sammasana*** by means of occurrence through a mode called ***anicca***, resulting from ***aniccam khayaţţhena*** = perishing away of those corporeal ***dhammas*** just after arising. Even though it is called a single ***sammasana*** basing on pondering as a mode called ***anicca***, there are (11) varieties through mode of situations, past etc.(***Vs-2-245***) 
+` `Because corporeal ***dhammas*** which are varied in (11) modes of situations called past, future, present, internal, external, gross, subtle, inferior, superior, far, near are pondered and discerned by ***vipassanā*** knowledge in this way, these all kinds of ways of discerning with (11) varieties are called a single ***sammasana*** by means of occurrence through a mode called ***anicca***, resulting from ***aniccam khayaṭṭhena*** = perishing away of those corporeal ***dhammas*** just after arising. Even though it is called a single ***sammasana*** basing on pondering as a mode called ***anicca***, there are (11) varieties through mode of situations, past etc.(***Vs-2-245***) 
 
-` `Furthermore all kinds of those corporealities with (11) varieties are pondered and discerned as ***dukkha, dukkha***, due to occurrence of presence of nature of dreadfulness (***bhayaţţha***). The word, ***bhayaţţha***, means "due to occurrence of presence of dreadfulness". It is right.\_\_\_\_\_ Such corporeality has got the nature of impermanence (***anicca***) which is capable of perishing away just after arising; that impermanent corporeality can bear danger of dreadfulness. Who are dreadful with the nature of impermanence? It is similar to dreadfulness of heavenly beings and brahmas with very long life expectancy when the Supreme Buddha preached on ***Sīhopama Suttanta***.\_\_\_\_\_ 
+` `Furthermore all kinds of those corporealities with (11) varieties are pondered and discerned as ***dukkha, dukkha***, due to occurrence of presence of nature of dreadfulness (***bhayaṭṭha***). The word, ***bhayaṭṭha***, means "due to occurrence of presence of dreadfulness". It is right.\_\_\_\_\_ Such corporeality has got the nature of impermanence (***anicca***) which is capable of perishing away just after arising; that impermanent corporeality can bear danger of dreadfulness. Who are dreadful with the nature of impermanence? It is similar to dreadfulness of heavenly beings and brahmas with very long life expectancy when the Supreme Buddha preached on ***Sīhopama Suttanta***.\_\_\_\_\_ 
 
 
 ### **O. *Sīhopama Suttanta* (Simile of lion discourse** 
@@ -1417,9 +1417,9 @@ Furthermore, for past internal corporealities,
 ### **PAGE-49** 
 
 
-` `Because corporeal ***dhammas*** which are varied in (11) modes of situations, past etc., are pondered and discerned as ***dukkha dukkha*** in this way, in this way, these all kinds of way of discerning with (11) varieties are also called a single ***sammasana*** by means of occurrence through a mode called ***dukkha***, resulting from ***dukkham bhayaţţhena*** = due to dreadfulness meaning. Even though it is called a single ***sammasana*** basing on pondering as a mode called ***dukkha***, there are (11) varieties through mode of situations, past etc. (***Vs-2-245***) 
+` `Because corporeal ***dhammas*** which are varied in (11) modes of situations, past etc., are pondered and discerned as ***dukkha dukkha*** in this way, in this way, these all kinds of way of discerning with (11) varieties are also called a single ***sammasana*** by means of occurrence through a mode called ***dukkha***, resulting from ***dukkham bhayaṭṭhena*** = due to dreadfulness meaning. Even though it is called a single ***sammasana*** basing on pondering as a mode called ***dukkha***, there are (11) varieties through mode of situations, past etc. (***Vs-2-245***) 
 
-` `As all kinds of corporealities are ***dukkha*** only, similarly those corporealities are called ***anatta*** (= non-self) ( = pondered as ***anatta***), due to occurrence of absence of essence called ***atta*** ( = ***anattā asārakaţţhena***). Those persons with self-opinion consider on either the whole five aggregates or partial of those five aggregates as "self-being"; those whole five aggregates, which are considered as "self-being" are also, actually, ***anicca***, ***dukkha***; However those persons with self-opinion usually consider on either those whole five aggregates or partial of five aggregate as… 
+` `As all kinds of corporealities are ***dukkha*** only, similarly those corporealities are called ***anatta*** (= non-self) ( = pondered as ***anatta***), due to occurrence of absence of essence called ***atta*** ( = ***anattā asārakaṭṭhena***). Those persons with self-opinion consider on either the whole five aggregates or partial of those five aggregates as "self-being"; those whole five aggregates, which are considered as "self-being" are also, actually, ***anicca***, ***dukkha***; However those persons with self-opinion usually consider on either those whole five aggregates or partial of five aggregate as… 
 
 1. ***atta*** = self-being which exists eternally without destruction, 
 1. ***nivāsī*** = the 'self' which always exists within body, 
@@ -1431,7 +1431,7 @@ Furthermore, for past internal corporealities,
 
 = ***Bhikkhus***… if this corporeal ***dhamma*** is ***atta*** (***nivāsī, kāraka, vedaka, sayamvasī atta***), it should not be occurred as torturing. (***Sam-2-55***) 
 
-` `Because corporeal ***dhammas*** which are varied in (11) modes of situations, past etc, are pondered and discerned as ***anatta***, ***anatta*** in this way, these all kinds of ways of discerning with (11) varieties are also called a single ***sammasana*** by means of occurrence through a mode called ***anatta***, resulting from ***anattā asārakaţţhena =*** due to absence of essence called ***atta***. Even though it is called a single ***sammasana*** basing on pondering as a mode called ***anatta***, there are (11) varieties through mode of situations, past etc. It should be recognized similarly on four mental aggregates, feeling aggregate etc., as mentioned in this corporeal aggregate. (***Vs-2-246***) 
+` `Because corporeal ***dhammas*** which are varied in (11) modes of situations, past etc, are pondered and discerned as ***anatta***, ***anatta*** in this way, these all kinds of ways of discerning with (11) varieties are also called a single ***sammasana*** by means of occurrence through a mode called ***anatta***, resulting from ***anattā asārakaṭṭhena =*** due to absence of essence called ***atta***. Even though it is called a single ***sammasana*** basing on pondering as a mode called ***anatta***, there are (11) varieties through mode of situations, past etc. It should be recognized similarly on four mental aggregates, feeling aggregate etc., as mentioned in this corporeal aggregate. (***Vs-2-246***) 
 
 
 
@@ -1446,7 +1446,7 @@ Furthermore, for past internal corporealities,
 1. Both neutrality feeling and every kind of conditioned thing occurring in three realms, other than three kinds of feeling, are called ***sańkhāra dukkkha***, due to occurrence of being oppressed by incessant phenomena of arising and perishing away. (***Vs-2-130***) 
 
 
-#### ***Pāli Quotation (Mahāţī-2-392)*** 
+#### ***Pāli Quotation (Mahāṭī-2-392)*** 
 
 
 ` `Among those three kinds of ***dukkha*** called ***dukkhadukkha***, ***vipariņāma dukkha, sańkhāra dukkha,*** only ***sańkhāra dukkha*** lies and spreads out within all three kinds of ***dukkha***. [It means both ***dukkhadukkha*** and ***vipariņāma dukkha*** are also being oppressed by incessant phenomena of arising and perishing away, resulting in availability to designate as ***sańkhāradukkha***. But they are already designated as ***dukkhadukkha*** and ***vipariņāma dukkha*** and are not designated as ***sańkhāradukkha*** again. It means, therefore, the nature of ***sańkhāradukkha*** only lies on spreads out within all three kinds of ***dukkha***.] The meaning, 
@@ -1459,7 +1459,7 @@ Furthermore, for past internal corporealities,
 #### ***aniccatam vā udayabbayapīļanam vā vāretum na sakkoti. (Vs—2-245)*** 
 
 
-` `Such corporeal ***dhamma*** is impermanent; that corporeal ***dhamma*** is suffering; that impermanent and suffering corporeal ***dhammas*** is incapable of prohibiting not to occur impermanent phenomena and suffering phenomena;  how that impermanent corporeal ***dhamma*** can be occurred as ***kāraka***? etc? explained by commentator in this way. (***Mahāţī-2392***) 
+` `Such corporeal ***dhamma*** is impermanent; that corporeal ***dhamma*** is suffering; that impermanent and suffering corporeal ***dhammas*** is incapable of prohibiting not to occur impermanent phenomena and suffering phenomena;  how that impermanent corporeal ***dhamma*** can be occurred as ***kāraka***? etc? explained by commentator in this way. (***Mahāṭī-2392***) 
 
 
 ### **Q. Varieties of *sammasana*** 

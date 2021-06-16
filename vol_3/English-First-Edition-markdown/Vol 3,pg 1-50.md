@@ -1,6 +1,6 @@
 ﻿***"namo tassabhagavato arahato sammāsambuddhassa"*** 
 
-NIBBĀNA GĀMINIPAŢIPADĀ 
+NIBBĀNA GĀMINIPAṭIPADĀ 
 
 **THE WAY OF PRACTICE LEADING TO NIBBĀNA** 
 
@@ -19,7 +19,7 @@ Translated by - ***Aññatara Bhikkhu*** \* PAGE41
 
 **PAGE-1+2 2. SECTION OF DEPENDENT-ORIGINATION – SECTION (A) 1.1.A.  *PĀLI*  TEXT  OF  ANALYSIS  OF  DEPENDENT-ORIGINATION**  
 
-**(*paţiccasamuppāda  vibhaga*)  –  INDIRECT  WAY  OF  PREACHING METHODOLOGY (*suttantabhājanīya naya*)** 
+**(*paṭiccasamuppāda  vibhaga*)  –  INDIRECT  WAY  OF  PREACHING METHODOLOGY (*suttantabhājanīya naya*)** 
 
 ***Pāli-Quotation (Abhi-2-142, 145)*** 
 
@@ -115,7 +115,7 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 4. ***aññāņam*** = nescience 
 
-***dukkhanirodhagāminiya  yē  paţipadāya***  =  on  Noble  Truth  of  Cause  of  Cessation  of Suffering which leads to ***nibbāna***, 
+***dukkhanirodhagāminiya  yē  paṭipadāya***  =  on  Noble  Truth  of  Cause  of  Cessation  of Suffering which leads to ***nibbāna***, 
 
 ***vuccati*** = are designated as ***avijjā*** = ignorance. 
 
@@ -354,7 +354,7 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 1. ***sadda taņhā*** = craving on auditory object, 
 1. ***gandha taņhā*** = craving on olfactory object, 
 1. ***rasa taņhā*** = craving on gustative object, 
-1. ***phoţţhabbataņhā*** = craving on tactile object, 
+1. ***phoṭṭhabbataņhā*** = craving on tactile object, 
 1. ***dhamma taņhā*** = craving on ideational object, 
 
 ***vaccati*** = are designated as 
@@ -368,7 +368,7 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 ***taņhā paccayā upādānam*** = clinging, which arises due to craving, mean? ***idam*** = These (4) kinds of craving, viz, 
 
 1. ***kāmupādānam*** = sensual clinging, 
-1. ***diţţhupādānam*** = views clinging, 
+1. ***diṭṭhupādānam*** = views clinging, 
 1. ***sīlabbatupādānam*** = rule & rite clinging, 
 1. ***attavādupādānam*** = self-opinion clinging, 
 
@@ -456,7 +456,7 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 ***yo khandhānam pātubhāvo*** = such obvious occurrence of aggregates 
 
-***yo āyatanānam pāţilābho*** = such attainment of bases 
+***yo āyatanānam pāṭilābho*** = such attainment of bases 
 
 ***tesam tesam sattānam*** = of those & those beings 
 
@@ -574,25 +574,25 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 ***yam soka sallam*** = such piercing thorn of sorrow, 
 
-***phuţţhassa*** = in one who experiences with 
+***phuṭṭhassa*** = in one who experiences with 
 
 ***ñātivyasanena vā*** = destruction of relatives or 
 
-***phuţţhassa*** = in one who experiences with 
+***phuṭṭhassa*** = in one who experiences with 
 
 ***bhogavyasanena vā*** = destruction of wealth or 
 
-***phuţţhassa*** = in one who experiences with 
+***phuṭṭhassa*** = in one who experiences with 
 
 ***rogavyasanena vā*** = destruction called disease or 
 
-***phuţţhassa*** = in one who experiences with 
+***phuṭṭhassa*** = in one who experiences with 
 
 ***sīlavyasanena vā*** = destruction of morality or 
 
-***phuţţhassa*** = in one who experiences with 
+***phuṭṭhassa*** = in one who experiences with 
 
-***diţţhivyasanena vā*** = destruction of belief or 
+***diṭṭhivyasanena vā*** = destruction of belief or 
 
 ***samannāgatassa*** = for one who has got 
 
@@ -600,7 +600,7 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 ***vyasanena*** = destruction, and  
 
-***phuţţhassa*** = in one who experiences with 
+***phuṭṭhassa*** = in one who experiences with 
 
 ***aññataraññatarena*** = any kind of 
 
@@ -640,9 +640,9 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 ***yo lālappo*** = such heart-rending sob 
 
-***yā  lālappanā*** = such state of affair of heart-rending sob over and over, ***yam lalappitattam*** = such occurrence of wail over and over ***phuţţhassa*** = in one who experiences with 
+***yā  lālappanā*** = such state of affair of heart-rending sob over and over, ***yam lalappitattam*** = such occurrence of wail over and over ***phuṭṭhassa*** = in one who experiences with 
 
-***ñātivyasanena vā*** = destruction of relatives or ***… R … phuţţhassa*** = in one who experiences with ***aññataraññatarena*** = any kind of ***dukkha dhammena*** = suffering ***dhamma***. ***ayam*** = This nature 
+***ñātivyasanena vā*** = destruction of relatives or ***… R … phuṭṭhassa*** = in one who experiences with ***aññataraññatarena*** = any kind of ***dukkha dhammena*** = suffering ***dhamma***. ***ayam*** = This nature 
 
 ***vuccati*** = is designate as 
 
@@ -704,9 +704,9 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 ***yo upāyāso*** = such great despair, 
 
-***yam āyāsitattam*** = such occurrence of mental weariness, ***yam upāyāsitattam*** = such occurrence of great despair, ***phuţţhassa**i =* in one who experiences with 
+***yam āyāsitattam*** = such occurrence of mental weariness, ***yam upāyāsitattam*** = such occurrence of great despair, ***phuṭṭhassa**i =* in one who experiences with 
 
-***ñātivyasanena va*** = destruction of relatives ***…R… phuţţassa*** = in one who experiences with ***aññataraññatarena*** = any kind of 
+***ñātivyasanena va*** = destruction of relatives ***…R… phuṭṭassa*** = in one who experiences with ***aññataraññatarena*** = any kind of 
 
 ***dukkha dhammena*** = suffering ***dhamma***. 
 
@@ -756,39 +756,39 @@ cultivation) of various performance for present and rounds of rebirth, ***sambha
 
 ***suttantabhājanīyam***  =  The  method  of  indirect  way  of  preaching  called  ***suttanta bhājanīya***, 
 
-***niţţhitam*** = has finished. (***Abhi-2-142-145***) 
+***niṭṭhitam*** = has finished. (***Abhi-2-142-145***) 
 
-This  is  ***Pāli***  Text  of  Analysis  of  Dependent-Origination  (***paţicca  samuppāda vibhanga***) which is worth learning by heart.  It  will be explicit the meaning and  way of discerning of this ***Pāli*** Text in the First Method of Dependent-Origination in detail. 
+This  is  ***Pāli***  Text  of  Analysis  of  Dependent-Origination  (***paṭicca  samuppāda vibhanga***) which is worth learning by heart.  It  will be explicit the meaning and  way of discerning of this ***Pāli*** Text in the First Method of Dependent-Origination in detail. 
 
 **PAGE-12** 
 
-After showing how (5) kinds of clinging-aggregates called Noble Truth of Suffering can  be  kept  in  mind  by  insight  knowledge,  now  it  will  be  continued  to  present ***paţiccasamuppāda dhamma & paţiccasamuppanna dhamma*** which belong to Noble Truth of Cause of Suffering. 
+After showing how (5) kinds of clinging-aggregates called Noble Truth of Suffering can  be  kept  in  mind  by  insight  knowledge,  now  it  will  be  continued  to  present ***paṭiccasamuppāda dhamma & paṭiccasamuppanna dhamma*** which belong to Noble Truth of Cause of Suffering. 
 
-2. ***paţiccasamuppāda dhamma*** 
+2. ***paṭiccasamuppāda dhamma*** 
 
 ***Pāli Quotation (Vs-2-148, Sam-1-243)*** 
 
-In those two kinds of ***dhammas***, ***paţiccasauppāda & paţiccasamuppanna,*** it should be  recognized  causal  ***dhammas***,  ignorance  etc.,  as  ***paţiccasamuppāda  dhamma***.  It  is right.\_\_\_\_\_ The Buddha preached ***paţiccasamuppāda sutta*** as follows.\_\_\_\_\_ 
+In those two kinds of ***dhammas***, ***paṭiccasauppāda & paṭiccasamuppanna,*** it should be  recognized  causal  ***dhammas***,  ignorance  etc.,  as  ***paṭiccasamuppāda  dhamma***.  It  is right.\_\_\_\_\_ The Buddha preached ***paṭiccasamuppāda sutta*** as follows.\_\_\_\_\_ 
 
-What does…. *bhikkhus*… ***paţiccasamuppāda dhamma*** mean? *Bhikkhus*….. Due to arising of ignorance, formation arises. Due to arising of formation, consciousness arises. Due to arising of consciousness, mind-matter arise. Due to arising of mind-matter, six bases arise. Due to arising of six bases, contact arises. Due to arising of contact, feeling arises. Due to arising of feeling, craving arises. Due to arising of craving, clinging arises. Due to arising of clinging, coming-into-existence arises. Due to arising of coming-into-existence, birth arises. Due to arising of birth, ageing & death, sorrow, lamentation, suffering, grief and despair arise. 
+What does…. *bhikkhus*… ***paṭiccasamuppāda dhamma*** mean? *Bhikkhus*….. Due to arising of ignorance, formation arises. Due to arising of formation, consciousness arises. Due to arising of consciousness, mind-matter arise. Due to arising of mind-matter, six bases arise. Due to arising of six bases, contact arises. Due to arising of contact, feeling arises. Due to arising of feeling, craving arises. Due to arising of craving, clinging arises. Due to arising of clinging, coming-into-existence arises. Due to arising of coming-into-existence, birth arises. Due to arising of birth, ageing & death, sorrow, lamentation, suffering, grief and despair arise. 
 
-Thus arising of this whole mass of suffering merely occurs. *Bhikkhus*… these causal ***dhammas***, ignorance etc., are designated as ***paţicca samuppāda***. (***Sam-1-243***) 
+Thus arising of this whole mass of suffering merely occurs. *Bhikkhus*… these causal ***dhammas***, ignorance etc., are designated as ***paṭicca samuppāda***. (***Sam-1-243***) 
 
-3. ***paţicca samuppanna dhamma Pāli Quotation (Vs-2-148, Sam-1-246)*** 
+3. ***paṭicca samuppanna dhamma Pāli Quotation (Vs-2-148, Sam-1-246)*** 
 
-It  should  be  recognized  resultant  ***dhammas***,  ageing  &  death  etc.,  as  ***paţicca samuppanna dhamma***. It is right.\_\_\_\_\_ The Buddha preached this ***paccaya sutta*** as follows. 
+It  should  be  recognized  resultant  ***dhammas***,  ageing  &  death  etc.,  as  ***paṭicca samuppanna dhamma***. It is right.\_\_\_\_\_ The Buddha preached this ***paccaya sutta*** as follows. 
 
-What does … *bhikkhu* … ***paţicca samuppanna dhamma*** means? *Bhikkhus* … ageing 
+What does … *bhikkhu* … ***paṭicca samuppanna dhamma*** means? *Bhikkhus* … ageing 
 
 - death  are  impermanence,  conditioned  ***dhammas***,  resultant  ***dhammas***,  destructible ***dhammas***, perishable ***dhammas***, 
 
 **PAGE-13** 
 
-Keeping  away ***dhammas***,  ceasing ***dhammas***. *Bhikkhus*  … birth  is ***… R  …***  coming-into- existence is; clinging is; craving is; feeling is; contact is; six bases are; mind-matter are; consciousness  is;  formations  are;  ignorance  is  impermanence,  conditioned  ***dhammas***, resultant ***dhammas***, destructible ***dhammas***, perishable ***dhammas***, keeping away ***dhammas***, ceasing ***dhammas***. *Bhikkhus* … these resultant ***dhammas***, ageing & death etc, are designated as ***paţicca samuppanna dhamma*** in reverse order. (***Sam-1-246***) 
+Keeping  away ***dhammas***,  ceasing ***dhammas***. *Bhikkhus*  … birth  is ***… R  …***  coming-into- existence is; clinging is; craving is; feeling is; contact is; six bases are; mind-matter are; consciousness  is;  formations  are;  ignorance  is  impermanence,  conditioned  ***dhammas***, resultant ***dhammas***, destructible ***dhammas***, perishable ***dhammas***, keeping away ***dhammas***, ceasing ***dhammas***. *Bhikkhus* … these resultant ***dhammas***, ageing & death etc, are designated as ***paṭicca samuppanna dhamma*** in reverse order. (***Sam-1-246***) 
 
-***paţicca samuppādo ti paccaya  dhammā veditabbā. paţiccasamuppanna dhammā ti tehi tehi paccayehi nibbatta dhammā. (Vs-2-148)*** 
+***paṭicca samuppādo ti paccaya  dhammā veditabbā. paṭiccasamuppanna dhammā ti tehi tehi paccayehi nibbatta dhammā. (Vs-2-148)*** 
 
-It  should  be  recognized  causal  ***dhammas***,  ignorance  etc.,  as  ***paţicca  samuppāda***. Resultant ***dhammas***, formation etc., which arise due to those  & those causal ***dhammas***, ignorance etc., should be recognized as ***paţiccasamuppana dhammas. (Vs-2-148)*** 
+It  should  be  recognized  causal  ***dhammas***,  ignorance  etc.,  as  ***paṭicca  samuppāda***. Resultant ***dhammas***, formation etc., which arise due to those  & those causal ***dhammas***, ignorance etc., should be recognized as ***paṭiccasamuppana dhammas. (Vs-2-148)*** 
 
 4. **Noble preaching of dependent-origination** 
 
@@ -814,7 +814,7 @@ Dependent-Origination has \_\_\_\_\_
 1. the function of following to ***pavatti dukkha*** called ceaseless occurrence of relationship between ceaseless occurrence of relationship between causal and resultant ***dhammas***; 
 1. the manifestation as the occurrence of loathsome journey of rounds of rebirth. In the next method \_\_\_\_ It can be manifested in the insight as the occurrence of wrong path, missing path, crooked path which deviates from the middle path leading to ***nibbāna***. 
 
-***Pāli Quotation (Mahāţī-2-236)*** 
+***Pāli Quotation (Mahāṭī-2-236)*** 
 
 When the practising ***meditator*** obtains two kinds of Knowledge, the Knowledge of Analysing  Mentality-Corporeality  and  the  Knowledge  of  Discerning  Cause  &  Condition, ceaseless  phenomena  of  arising  of  various  kinds  of  resultant  ***dhammas***,  formation  etc., depending  upon  unity  of  various  causal  ***dhammas***,  ignorance  etc.,  through  causal relationship, has been known and seen penetratively by right knowledge of himself. At that time the insight of that meditator reaches on to the middle path instructed by the Supreme Buddha which discloses arising of resultant ***dhammas*** which conforms to respective causal ***dhammas*** due to presence of union of causal ***dhammas***, without approaching to two kinds of extremities called wrong-view of eternity, wrong-view of annihilation. 
 
@@ -826,19 +826,19 @@ The middle path leading to ***nibbāna*** means the path of ***vipassanā*** pra
 
 **PAGE-15** 
 
-Unless ***vipassanā*** practice can be performed in that way, those causal and resultant ***dhammas*** always arise consequently over and over again. That phenomenon of perpetual arising of causal and resultant ***dhammas*** is called of ***pavatti dukkha*** (= suffering of cyclic phenomena). That phenomena of perpetual arising of causal and resultant ***dhammas*** called ***pavatti  dukkha***  is  missing  and  crooked  path  called  ***kummagga***  which  deviates  from  the middle path called ***majjhima paţipadā*** that leading to ***nibbāna***. It is prosperity of rounds of rebirth and woeful coming-into-existence only. 
+Unless ***vipassanā*** practice can be performed in that way, those causal and resultant ***dhammas*** always arise consequently over and over again. That phenomenon of perpetual arising of causal and resultant ***dhammas*** is called of ***pavatti dukkha*** (= suffering of cyclic phenomena). That phenomena of perpetual arising of causal and resultant ***dhammas*** called ***pavatti  dukkha***  is  missing  and  crooked  path  called  ***kummagga***  which  deviates  from  the middle path called ***majjhima paṭipadā*** that leading to ***nibbāna***. It is prosperity of rounds of rebirth and woeful coming-into-existence only. 
 
 If one can performed ***vipassanā*** practice by discerning and generalizing on successive causal and resultant ***dhammas*** occurring in three periods, past, future and present, from the successive  previous  coming-into-existence  as  possible  as  he  can,  until  the  end  of  future coming-into-existence, obsession of craving, obsession of conceit, obsession of wrong-view on those causal and resultant ***dhammas*** as: “This is mine, this I am, this is my self-identity”, will be broken down resulting in reaching on the middle path with great dignity. 
 
 If one can go on the middle path continuously it is sure to reach eternal peace called ***nibbāna*** in one day when controlling faculties of himself are matured completely. 
 
-6. **The meaning of *paţiccasamuppāda*** 
+6. **The meaning of *paṭiccasamuppāda*** 
 
-The  meaning  of  the  term,  ***paţiccasamuppāda***,  is  explained  in  three  ways  in  the commentary called ***Visuddhi Magga*** (Path of Purification). Those ways of explanation would like  to  present  here  because  it  is  essential  to  be  understood  the  meaning  of  that  term beforehand for purification of the knowledge of practising meditator who wants to discern penetratively on principle of dependent-origination by insight of himself thoroughly. 
+The  meaning  of  the  term,  ***paṭiccasamuppāda***,  is  explained  in  three  ways  in  the commentary called ***Visuddhi Magga*** (Path of Purification). Those ways of explanation would like  to  present  here  because  it  is  essential  to  be  understood  the  meaning  of  that  term beforehand for purification of the knowledge of practising meditator who wants to discern penetratively on principle of dependent-origination by insight of himself thoroughly. 
 
 1. **Explanation in the First Method** 
 
-***Pāli Quotation (Vs-2-151, 152) (Mahāţī-2-233)* PAGE-16** 
+***Pāli Quotation (Vs-2-151, 152) (Mahāṭī-2-233)* PAGE-16** 
 
 The  essence  of  statements  found  in  above  commentary  and  subcommentary  is  as follows. \_\_\_\_\_ 
 
@@ -864,7 +864,7 @@ Only, as natural fixed order of the ***dhamma***.
 
 (***Abhi-A-2-140, Vs-2-174***) 
 
-Collectiveness of many causal ***dhammas*** are called ***paccaya dhamma samūha*** while collectiveness  of  many  resultant  ***dhammas***  are  called  ***paccayuppanna  dhamma  samūha***. Collectiveness of many resultant ***dhammas*** called ***paccayuppanna dhamma samūha*** which arise  due  to  collectiveness  of  many  causal  ***dhammas***,  are  also  designated  as ***paţiccasamuppāda***. 
+Collectiveness of many causal ***dhammas*** are called ***paccaya dhamma samūha*** while collectiveness  of  many  resultant  ***dhammas***  are  called  ***paccayuppanna  dhamma  samūha***. Collectiveness of many resultant ***dhammas*** called ***paccayuppanna dhamma samūha*** which arise  due  to  collectiveness  of  many  causal  ***dhammas***,  are  also  designated  as ***paṭiccasamuppāda***. 
 
 **PAGE-17** 
 
@@ -893,7 +893,7 @@ In ***Mahānidāna Sutta*** the Buddha, preached on both a single causal ***dham
 
 **PAGE-18** 
 
-2. ***pākaţa (obvious) \_\_ semha samuţţhānā ābādhā (Khu-7-10)*** 
+2. ***pākaṭa (obvious) \_\_ semha samuṭṭhānā ābādhā (Khu-7-10)*** 
 
 In the ***Pāli*** Text of ***Mahāniddesa*** a single causal ***dhamma*** is preached due to presence of obvious occurrence in such way that “diseases which arise due to phlegm …” etc. It is right. \_\_\_\_\_ Among those sources of arising of diseases, phlegm is an obvious one. Other sources, ***kamma*** etc., are not obvious sources. Due to obvious occurrence, the phlegm is preached as source of disease. 
 
@@ -904,7 +904,7 @@ A single causal ***dhamma,*** unwise attention (***a-yonisomanasikāra***) is pr
 In this way, because the Buddha preached noble principle of dependent-origination by showing apparently on a single causal ***dhamma***, a single resultant ***dhamma*** with regarding to these three factors, viz, 
 
 1. ***padhāna*** = occurrence of significant causal ***dhamma***, 
-1. ***pākaţa*** = occurrence of obvious causal ***dhamma***, 
+1. ***pākaṭa*** = occurrence of obvious causal ***dhamma***, 
 1. ***asādhāraņa*** = occurrence of specific causal ***dhamma***, and 
 
 then  because  the  Buddha  preached  in  such  ways  that  “***assādā  nupassino  taņhā pavaddhati*** (***Sam-1-311***) = *Bhikkhus* … the craving ***dhamma*** always thrives in the continuum of  person  who  usually  discerns  on  objects  which  deserve  to  arise  fetter  as  pleasurable objects” etc \_\_\_\_\_ and “***avijjāsamudayā āsavasamudayo*** = due to arising of ignorance, taint ***dhamma*** (***āsava***) arises” (***M-1-68***) etc. \_\_\_\_\_ although there are many causal ***dhamma***, viz, base, object, relation of compatibility, other than ignorance which can give rise to occur formation called volition, there are many causal ***dhamma***, craving etc., other than ignorance, which 
@@ -919,15 +919,15 @@ So far as this extent, it should be understood similarly on advantage of preachi
 
 Above  explanations  found  in  commentaries  are  records  of  nature  order  of  the ***Dhamma*** which are worth paying attention respectfully for practising meditators in order to reach efficiency of ultimate nature of ***dhamma*** by insight knowledge. 
 
-If  has  been  explained  the  fact  that  during  arising  of  collectiveness  of  resultant ***dhammas***  called  ***paccayuppanna  dhamma  samūha***,  due  to  presence  of  many  causal ***dhammas*** called ***paccaya dhamma samūha***, collectiveness of causal ***dhamma*** are also called ***paţiccasamuppāda***. (See page-16). Furthermore in the commentary called ***Visuddhi Magga (Vs-2-152)***, it is mentioned that collectiveness of resultant ***dhammas*** called ***paccayuppanna dhamma  samūha***,  which  arise  due  to  collectiveness  of  causal  ***dhamma***,  are  also  called ***paţiccasamuppāda***. 
+If  has  been  explained  the  fact  that  during  arising  of  collectiveness  of  resultant ***dhammas***  called  ***paccayuppanna  dhamma  samūha***,  due  to  presence  of  many  causal ***dhammas*** called ***paccaya dhamma samūha***, collectiveness of causal ***dhamma*** are also called ***paṭiccasamuppāda***. (See page-16). Furthermore in the commentary called ***Visuddhi Magga (Vs-2-152)***, it is mentioned that collectiveness of resultant ***dhammas*** called ***paccayuppanna dhamma  samūha***,  which  arise  due  to  collectiveness  of  causal  ***dhamma***,  are  also  called ***paṭiccasamuppāda***. 
 
-In  the  aspect  of  designation  of  collectiveness  of  resultant  ***dhamma***  as  ***paţicca samuppāda***, the term, ***paţicca samuppāda***, has two kinds of interpretation by wise persons. 
+In  the  aspect  of  designation  of  collectiveness  of  resultant  ***dhamma***  as  ***paṭicca samuppāda***, the term, ***paṭicca samuppāda***, has two kinds of interpretation by wise persons. 
 
 **First method of interpretation \_\_\_\_\_** 
 
-* ***paţicco ca so samuppādo cāti paţicca-samuppādo***. 
+* ***paṭicco ca so samuppādo cāti paṭicca-samuppādo***. 
 
-The practising meditator endeavours in order to know penetratively on principle of dependent-origination  called  collectiveness  of  resultant  ***dhammas***  which  arise  due  to efficiency of collectiveness of causal ***dhammas*** and knows by directing and approaching knowledge of himself. That principle of dependent-origination which is worth knowing by directing  and  approaching  knowledge  of  himself  is  performed  in  order  to  attain  the Supramundane benefit (= to attain Noble Path Knowledge and Fruit-Knowledge, to face with ***nibbāna***). Because collectiveness of resultant ***dhammas*** called ***paţiccasamuppāda*** are worth believing and realizing through insight for wise and Noble-Ones, those resultant ***dhammas*** called ***paccayuppanna*** are called ***paţicca***. 
+The practising meditator endeavours in order to know penetratively on principle of dependent-origination  called  collectiveness  of  resultant  ***dhammas***  which  arise  due  to efficiency of collectiveness of causal ***dhammas*** and knows by directing and approaching knowledge of himself. That principle of dependent-origination which is worth knowing by directing  and  approaching  knowledge  of  himself  is  performed  in  order  to  attain  the Supramundane benefit (= to attain Noble Path Knowledge and Fruit-Knowledge, to face with ***nibbāna***). Because collectiveness of resultant ***dhammas*** called ***paṭiccasamuppāda*** are worth believing and realizing through insight for wise and Noble-Ones, those resultant ***dhammas*** called ***paccayuppanna*** are called ***paṭicca***. 
 
 **PAGE-20** 
 
@@ -935,37 +935,37 @@ Furthermore \_\_\_ when the nature of dependent-origination called collectivenes
 
 Furthermore \_\_\_\_ when collectiveness of resultant ***dhammas*** called ***paccayuppanna dhamma samūha*** arise, it always arise due to proper causes but not arise due to lack of cause or  improper  causes,  creator  etc.  (***sammā  +  uppāda  =  samuppāda  =  sammā  uppajjatīti samuppādo.***) It never arise singly and in the absence of causality. Therefore, in accordance with the phrase, “***saha sammā ca appajjatīti samuppādo***”, it is called ***samuppāda***. 
 
-In this way\_\_\_\_ according to explanation of word, “***paţicco ca so samuppādo cāti paţicca  samuppādo***”,  \_\_\_\_  it  is  collectiveness  of  ***dhammas***  which  are  not  only  worth directing,  approaching  and  knowing  by  insight  but  also  occurring  collectively  and  those ***dhammas*** arise due to proper causes resulting in designating as ***paţicca samuppāda***. 
+In this way\_\_\_\_ according to explanation of word, “***paṭicco ca so samuppādo cāti paṭicca  samuppādo***”,  \_\_\_\_  it  is  collectiveness  of  ***dhammas***  which  are  not  only  worth directing,  approaching  and  knowing  by  insight  but  also  occurring  collectively  and  those ***dhammas*** arise due to proper causes resulting in designating as ***paṭicca samuppāda***. 
 
 In  the  next  method  \_\_\_\_\_  such  collectiveness  of  resultant  ***dhammas***  called ***paccayuppanna dhamma samūha*** arise collectively and synchronously. 
 
-* ***saha  uppajjatīti  ekajjham  uppajati  antamaso  aţţhanam  dhammānam  uppajjanato. (Mahāţī-2-234)*** 
+* ***saha  uppajjatīti  ekajjham  uppajati  antamaso  aṭṭhanam  dhammānam  uppajjanato. (Mahāṭī-2-234)*** 
 
-In the aspect of corporeal ***dhammas***, only when at least (8) kinds ultimate nature of corporealities,  viz,  earth-element,  water-element,  fire-element,  air-element,  colour,  odour, flavour, nutriment, unite together with each other within every corporeal unit, it can arise collectively. In the aspect of mental ***dhammas***, only when at least (8) kinds of ultimate nature of mentalities, viz, contact, feeling, perception, volition, one-pointedness, vitality, attention, consciousness, unite together with each other, it can arise collectively. Thus due to collective occurrence, collectiveness of resultant ***dhammas*** called ***paccayuppanna dhamma samūha*** are designated as ***samuppāda***. Though they arise collectively they always arise depending upon  unity  of  causal  ***dhammas***.  Due  to  arising  of  collectiveness  of  resultant  ***dhammas*** through  unity  of  causal  ***dhammas***,  it  is  also  called  ***paţicca***.  Due  to  occurrence  with collectiveness,  it  is  also  called  ***samuppāda***.  Due  to  presence  of  those  two  kinds  of efficiencies, it is designated as ***paţicca samuppāda***. 
+In the aspect of corporeal ***dhammas***, only when at least (8) kinds ultimate nature of corporealities,  viz,  earth-element,  water-element,  fire-element,  air-element,  colour,  odour, flavour, nutriment, unite together with each other within every corporeal unit, it can arise collectively. In the aspect of mental ***dhammas***, only when at least (8) kinds of ultimate nature of mentalities, viz, contact, feeling, perception, volition, one-pointedness, vitality, attention, consciousness, unite together with each other, it can arise collectively. Thus due to collective occurrence, collectiveness of resultant ***dhammas*** called ***paccayuppanna dhamma samūha*** are designated as ***samuppāda***. Though they arise collectively they always arise depending upon  unity  of  causal  ***dhammas***.  Due  to  arising  of  collectiveness  of  resultant  ***dhammas*** through  unity  of  causal  ***dhammas***,  it  is  also  called  ***paṭicca***.  Due  to  occurrence  with collectiveness,  it  is  also  called  ***samuppāda***.  Due  to  presence  of  those  two  kinds  of efficiencies, it is designated as ***paṭicca samuppāda***. 
 
 Then  collectiveness  of  causal  ***dhammas***  called  ***hetusamūha***,  ignorance  etc.,  are designated as ***paccaya*** (= relation, condition, causality). 
 
 **PAGE-21** 
 
-Collectiveness  of  resultant  ***dhammas***,  therefore,  are  called  ***tappaccaya  dhamma*** which have those causal ***dhammas***, ignorance etc. Due to occurrence of causal ***dhammas*** of collectiveness of resultant ***dhammas***, collectivenss of causal ***dhammas,*** ignorance etc, which are called ***hetusamūha (= paccaya dhamma samūha)***, can also be designated as ***paţicca samuppāda***. 
+Collectiveness  of  resultant  ***dhammas***,  therefore,  are  called  ***tappaccaya  dhamma*** which have those causal ***dhammas***, ignorance etc. Due to occurrence of causal ***dhammas*** of collectiveness of resultant ***dhammas***, collectivenss of causal ***dhammas,*** ignorance etc, which are called ***hetusamūha (= paccaya dhamma samūha)***, can also be designated as ***paṭicca samuppāda***. 
 
-As solidified lump of molasses which is source of plenty of phlegm is called lump of phlegm in the word; as the appearance of Tathāgatas who are source of bliss is called bliss (***sukho  buddhānam  uppādo***)  in  the  **Buddha’s  Sāsanā**,  Similarly  \_\_\_\_  it  should  be recognized these collectiveness of causal ***dhammas***, ignorance etc., (= ***hetusamūha, paccaya dhamma  samūha***)  are  also  preached  as  ***paţicca  samuppāda***  through  metaphorical  usage called ***phalūppacāra***. (***Vs-2-151, 152***)*** 
+As solidified lump of molasses which is source of plenty of phlegm is called lump of phlegm in the word; as the appearance of Tathāgatas who are source of bliss is called bliss (***sukho  buddhānam  uppādo***)  in  the  **Buddha’s  Sāsanā**,  Similarly  \_\_\_\_  it  should  be recognized these collectiveness of causal ***dhammas***, ignorance etc., (= ***hetusamūha, paccaya dhamma  samūha***)  are  also  preached  as  ***paṭicca  samuppāda***  through  metaphorical  usage called ***phalūppacāra***. (***Vs-2-151, 152***)*** 
 
-In this method the name of collectiveness of resultant ***dhammas*** (= ***paccayuppanna dhamma  samūha***),  ***paţiccamuppāda***,  is  applied  on  the  name  of  collectiveness  of  causal ***dhammas***   (=  ***paccaya  dhamma  samūha  =  hetu  samūha***)  through  metaphorical  usage resulting in preaching on the latter as ***paţiaccasamuppāda***. Due to inevitable occurrence of resultant ***dhamma*** depending upon causal ***dhammas***; due to presence of possibility to arise resultant ***dhammas*** only when causal ***dhammas*** are present, it means that causal ***dhammas*** are  also preaches as ***paţiccasamuppāda dhammas*** through preaching  methodology  called ***avinābhāva*** (inevitable method). 
+In this method the name of collectiveness of resultant ***dhammas*** (= ***paccayuppanna dhamma  samūha***),  ***paṭiccamuppāda***,  is  applied  on  the  name  of  collectiveness  of  causal ***dhammas***   (=  ***paccaya  dhamma  samūha  =  hetu  samūha***)  through  metaphorical  usage resulting in preaching on the latter as ***paṭiaccasamuppāda***. Due to inevitable occurrence of resultant ***dhamma*** depending upon causal ***dhammas***; due to presence of possibility to arise resultant ***dhammas*** only when causal ***dhammas*** are present, it means that causal ***dhammas*** are  also preaches as ***paṭiccasamuppāda dhammas*** through preaching  methodology  called ***avinābhāva*** (inevitable method). 
 
-2. **Explanation in the second method *Pāli Quotation (Vs-2-152) (Mahāţī-2-234)*** 
+2. **Explanation in the second method *Pāli Quotation (Vs-2-152) (Mahāṭī-2-234)*** 
 
-In this method, collectiveness of causal ***dhammas*** called ***paccaya dhamma samūha = hetu samūha*** are explained as ***paţiccasamuppāda***. 
+In this method, collectiveness of causal ***dhammas*** called ***paccaya dhamma samūha = hetu samūha*** are explained as ***paṭiccasamuppāda***. 
 
-In this method the term, ***paţicca***, can be divided as two words, ***paţi + icca***. The word, ***paţi***,  means  leading  towards  (***abhimukkhattha***)  while  the  word,  ***icca***,  means  reaching (***gammatha***). Which ***dhammas*** is leading towards and reaching to which ***dhammas***? It can be answered  that  collectiveness  of  causal  ***dhammas***  called  ***hetusamūha,  paccaya-dhamma samūha*** are meant in this case. 
+In this method the term, ***paṭicca***, can be divided as two words, ***paṭi + icca***. The word, ***paṭi***,  means  leading  towards  (***abhimukkhattha***)  while  the  word,  ***icca***,  means  reaching (***gammatha***). Which ***dhammas*** is leading towards and reaching to which ***dhammas***? It can be answered  that  collectiveness  of  causal  ***dhammas***  called  ***hetusamūha,  paccaya-dhamma samūha*** are meant in this case. 
 
 **PAGE-22** 
 
-***hetu samūho nāma paccayasāmaggī. (Mahāţī-2-234)*** 
+***hetu samūho nāma paccayasāmaggī. (Mahāṭī-2-234)*** 
 
-Collectiveness of causal ***dhammas*** means the unity of causal ***dhammas*** indeed. In other words, collectiveness of  causal ***dhammas*** which  arise  collectively  and unitedly  are called ***hetusamūha***. Within those collective and united arising causal ***dhammas***, each causal ***dhammas*** leads and reaches towards other causal ***dhammas*** and vice versa. Collectiveness of causal ***dhammas*** are, therefore, preached as ***paţicca***. Because those collective and united arising causal ***dhammas*** called ***paţicca*** are able to arise resultant ***paccayuppanna dhamma samūha*** which are capable of arising collectively and synchronously but not individually, the former is worth designating as ***samuppāda*** also. (In the term, ***samupāda***, it can be divided into two words, ***sam + uppāda***. The word, ***sam***, means ***saha*** (= collectively). 
+Collectiveness of causal ***dhammas*** means the unity of causal ***dhammas*** indeed. In other words, collectiveness of  causal ***dhammas*** which  arise  collectively  and unitedly  are called ***hetusamūha***. Within those collective and united arising causal ***dhammas***, each causal ***dhammas*** leads and reaches towards other causal ***dhammas*** and vice versa. Collectiveness of causal ***dhammas*** are, therefore, preached as ***paṭicca***. Because those collective and united arising causal ***dhammas*** called ***paṭicca*** are able to arise resultant ***paccayuppanna dhamma samūha*** which are capable of arising collectively and synchronously but not individually, the former is worth designating as ***samuppāda*** also. (In the term, ***samupāda***, it can be divided into two words, ***sam + uppāda***. The word, ***sam***, means ***saha*** (= collectively). 
 
-Due  to  presence  of  those  two  kinds  of  efficiency,  viz,  collectivness  of  causal ***dhammas***  (=  ***hetusamūha***)  which  are  able  to  arise  resultant  ***paccayuppanna  dhamma samūha*** which are capable of arising collectively and synchronously but not individually; which are leading and reaching to wards each other and united arising, it is designated as ***paţicca samuppāda***.  (In  this  method  explanation  of  word  can  also be  resultant  from  the phrase, ***paţicco ca so samuppādo cāti paţicca samuppādo.***) 
+Due  to  presence  of  those  two  kinds  of  efficiency,  viz,  collectivness  of  causal ***dhammas***  (=  ***hetusamūha***)  which  are  able  to  arise  resultant  ***paccayuppanna  dhamma samūha*** which are capable of arising collectively and synchronously but not individually; which are leading and reaching to wards each other and united arising, it is designated as ***paṭicca samuppāda***.  (In  this  method  explanation  of  word  can  also be  resultant  from  the phrase, ***paṭicco ca so samuppādo cāti paṭicca samuppādo.***) 
 
 **Further explanation** \_\_\_\_\_ In the ***Pāli*** text, it is right to preach in a way that shows specific causal ***dhamma***, ignorance etc, for arising of resultant ***dhammas***, formation etc., such as “***avijjā paccayā sańkhārā***” etc. Even though it is preached in that way, the single ignorance only is not causal ***dhamma*** of formation really. Actually \_\_\_\_\_ these various kinds of causal ***dhammas***, viz, 
 
@@ -975,21 +975,21 @@ Due  to  presence  of  those  two  kinds  of  efficiency,  viz,  collectivness  
 1. other causal ***dhammas***, wise-attention, unwise-attention etc., and 
 1. causal  ***dhammas***,  craving,  clinging  which  are  association  of  ignorance,  are  also conditions  which  perform  unitedly  (=***sahakārīkaraņa***)  for  arising  of  formation appropriately. 
 
-For  arising  of  resultant  ***dhammas***,  consciousness  etc.,  due  to  causal  ***dhammas***, formation etc., it should be recognized similarly. (***Mahāţī-2-234***) 
+For  arising  of  resultant  ***dhammas***,  consciousness  etc.,  due  to  causal  ***dhammas***, formation etc., it should be recognized similarly. (***Mahāṭī-2-234***) 
 
 During arising resultant ***dhammas***, formation etc., depending upon causal ***dhammas***, ignorance etc., all kinds of resultant ***dhammas*** have dealings with all causal ***dhammas*** which belong to respective various causal ***dhammas***. According to principle of causal relationship these are related to each other mutually. There is no principle of relationship by which those resultant ***dhammas*** have dealings with or related to some causal ***dhammas*** only but not some causal ***dhamma*** exceptionally. Therefore, those collectiveness of causal ***dhammas*** instructed by the Buddha through emphasizing on single ***dhamma***, ignorance etc., have efficiency to accomplish resultant ***dhammas***, which belong to those causal ***dhammas***, which have dealings with  all  kinds  of  causal  ***dhammas***,  which  are  relating  to  each  other  in  accordance  with principle of causal relationship. 
 
-Furthermore,  among  those  collectiveness  of  causal  ***dhammas***,  “if  this  resultant ***dhammas*** has not dealing with some kinds of causal ***dhammas***, if this resultant ***dhamma*** is arisen by some kinds of causal ***dhammas*** only, there will be no sympathetic nature within all kinds of causal ***dhammas***. Due to absence of sympathetic nature within causal ***dhammas***, the nature of leading towards and reaching each other called ***paţicattha*** of causal ***dhammas*** will be  incomplete.”  All  collectiveness  of  causal  ***dhammas***  preached  by  the  Buddha  through emphasizing on single ***dhammas***, ignorance etc., have dealing with all kinds of respective resultant ***dhammas*** preached by emphasizing on single ***dhammas***, formation etc., resulting in absence of deficit in the meaning of ***paţicca***. 
+Furthermore,  among  those  collectiveness  of  causal  ***dhammas***,  “if  this  resultant ***dhammas*** has not dealing with some kinds of causal ***dhammas***, if this resultant ***dhamma*** is arisen by some kinds of causal ***dhammas*** only, there will be no sympathetic nature within all kinds of causal ***dhammas***. Due to absence of sympathetic nature within causal ***dhammas***, the nature of leading towards and reaching each other called ***paṭicattha*** of causal ***dhammas*** will be  incomplete.”  All  collectiveness  of  causal  ***dhammas***  preached  by  the  Buddha  through emphasizing on single ***dhammas***, ignorance etc., have dealing with all kinds of respective resultant ***dhammas*** preached by emphasizing on single ***dhammas***, formation etc., resulting in absence of deficit in the meaning of ***paṭicca***. 
 
-Due to occurrence of capable of accomplishing resultant ***dhammas*** which has dealing with themselves, due to occurrence of non-deficit and not wanting, due to leading toward and reaching to each other within parts of united arising causal ***dhammas*** called ***paccayasāmaggī***, i.e., contact, feeling, perception, volition, consciousness etc., those collectiveness of causal ***dhammas*** which are worth instructing by emphasizing on a single ***dhammas***, ignorance et., for arising of resultant ***dhammas***, formation etc., are worth designating as ***paţicca***. Those collectiveness of  causal ***dhammas*** (= ***hetusamūha***) called ***paţicca*** can  give rise to occur collectiveness  of  resultant  ***dhammas***  called  ***paccayuppannasamūha***  which  always  arise collectively  and  synchronously.  Collective  and  synchronous  arising  of  those  resultant ***dhammas*** means they never arise individually. Resultant ***dhammas***, on the other hand, have no sympathetic nature  which can be found in  causal ***dhammas***. Resultant ***dhammas*** are, therefore,  called  ***añña  mañña  avinibbhogavutti  dhamma***  (=***dhamma***  which  never  arise separately and mutually). Thus 
+Due to occurrence of capable of accomplishing resultant ***dhammas*** which has dealing with themselves, due to occurrence of non-deficit and not wanting, due to leading toward and reaching to each other within parts of united arising causal ***dhammas*** called ***paccayasāmaggī***, i.e., contact, feeling, perception, volition, consciousness etc., those collectiveness of causal ***dhammas*** which are worth instructing by emphasizing on a single ***dhammas***, ignorance et., for arising of resultant ***dhammas***, formation etc., are worth designating as ***paṭicca***. Those collectiveness of  causal ***dhammas*** (= ***hetusamūha***) called ***paṭicca*** can  give rise to occur collectiveness  of  resultant  ***dhammas***  called  ***paccayuppannasamūha***  which  always  arise collectively  and  synchronously.  Collective  and  synchronous  arising  of  those  resultant ***dhammas*** means they never arise individually. Resultant ***dhammas***, on the other hand, have no sympathetic nature  which can be found in  causal ***dhammas***. Resultant ***dhammas*** are, therefore,  called  ***añña  mañña  avinibbhogavutti  dhamma***  (=***dhamma***  which  never  arise separately and mutually). Thus 
 
 **PAGE-24** 
 
-due to capable of arising collectiveness of resultant ***dhammas*** which never arise separately and mutually, collectiveness of causal ***dhammas*** (***hetu samūha***) called ***paţicca*** are worth designating as ***samuppāda***. Due to presence of these two kinds of efficiencies, designating as both ***paţicca*** and ***samuppāda***, collectiveness of causal ***dhammas*** (***hetusamūha***), ignorance etc., are called ***paţicca samuppāda***. (Corporal ***dhammas*** must be counted in ***avinibbhoga vutti dhamma***). (***Vs—2-152, Mahāţī-2-234, 235***) 
+due to capable of arising collectiveness of resultant ***dhammas*** which never arise separately and mutually, collectiveness of causal ***dhammas*** (***hetu samūha***) called ***paṭicca*** are worth designating as ***samuppāda***. Due to presence of these two kinds of efficiencies, designating as both ***paṭicca*** and ***samuppāda***, collectiveness of causal ***dhammas*** (***hetusamūha***), ignorance etc., are called ***paṭicca samuppāda***. (Corporal ***dhammas*** must be counted in ***avinibbhoga vutti dhamma***). (***Vs—2-152, Mahāṭī-2-234, 235***) 
 
 3. **Explanation in the third method** 
 
-***Pāli Quotation (Vs-2-152) (Mahāţī-2-235)*** 
+***Pāli Quotation (Vs-2-152) (Mahāṭī-2-235)*** 
 
 Among  collectiveness  of  causal  ***dhammas***  which  are  instructed  by  emphasizing individual causal ***dhamma***, ignorance etc., such collectiveness of causal ***dhammas***, ignorance etc.,  can  give  rise  to  occur  collectiveness  of  resultant  ***dhammas***,  formation  etc.  During performing to occur in that way, those collectiveness of causal ***dhammas***, ignorance etc., are enable to arise collectiveness of resultant ***dhammas***, formation etc., without relating to each other mutually. If any kind of causal ***dhammas*** among these, viz, 
 
@@ -1015,22 +1015,22 @@ During occurring in that way the process is accomplished through neither some pa
 
 **PAGE-25** 
 
-Therefore the Perfectly Self-Enlightened One, who always follows to the ultimate nature, who is the most mastery in terminology of conventional reality, preached on noble principle  of  causal  relationship  a  ***paţicca  samuppāda***  (dependent-origination).  (***Vs-2-152, Mahāţī-2-235***) 
+Therefore the Perfectly Self-Enlightened One, who always follows to the ultimate nature, who is the most mastery in terminology of conventional reality, preached on noble principle  of  causal  relationship  a  ***paṭicca  samuppāda***  (dependent-origination).  (***Vs-2-152, Mahāṭī-2-235***) 
 
-* ***sabbametam rūpārūpa kalāpuppādanam sandhaāya vuttam. (Mahāţī-2-235)*** 
+* ***sabbametam rūpārūpa kalāpuppādanam sandhaāya vuttam. (Mahāṭī-2-235)*** 
 
-All these words mentioned above are explained with referring to collective arising of corporeal units and mental units. (***Mahāţī-2-235***) 
+All these words mentioned above are explained with referring to collective arising of corporeal units and mental units. (***Mahāṭī-2-235***) 
 
 4. **Corporeal unit (*rūpakalāpa*)-mental unit (*nāmakalāpa*)** 
 
-By following the usage applied in above explanation of ***Mahāţīkā***, sub commentary of ***Visuddhi Magga***, in this work, 
+By following the usage applied in above explanation of ***Mahāṭīkā***, sub commentary of ***Visuddhi Magga***, in this work, 
 
 1) terminology of collectiveness of ultimate nature of corporeal ***dhammas***, i.e., (8) kinds, (9) kinds, (10) kinds etc., of ultimate nature which consist in each sub-particle of corporeality which  is  much  smaller  then  ***paramā***  minute  particle,  are  applied  as  **corporeal  unit (*rūpakalāpa*)** and 
 1) terminology of collectiveness of ultimate nature of mental ***dhammas*** (= consciousness + mental  concomitants)  which  arise  together  within  one  mind-moment  are  applied  as **mental unit (*nāmakalāpa*)** respectively. 
 
-In this explanation in the third method, explanation of word should be performed as .. “***aññamaññam  paţicca  samam  saha  ca  paccayuppannadhamma  uppādetīti  paţicca samuppādo***”. 
+In this explanation in the third method, explanation of word should be performed as .. “***aññamaññam  paṭicca  samam  saha  ca  paccayuppannadhamma  uppādetīti  paṭicca samuppādo***”. 
 
-Due to capable of arising synchronously collectiveness of resultant ***dhammas*** through mutual  relations  and  united  arising  of  themselves, collectiveness  of  causal ***dhammas***  are designated  as ***paţiccasamuppāda***.  In  this  method  only  collectiveness  of  causal ***dhammas*** have  got  designation  as  ***paţiccasamuppāda***  definitely  while  resultant  ***paccayuppanna dhammas*** have got designation as ***paţiccasamuppāda*** through inevitable method called ***a- vinābhāvanaya***. Due to capable of arising result, designation as cause is available and then every cause is inevitable with result really, and vice versa. That kind of inevitable nature between cause & result is called ***avinābhāva***. That inevitable nature called ***avinābhāva*** is worth understanding for wise and Noble Ones resulting in designation as ***naya*** (method). By adding  those  two  words,  ***avinābhāva***  and  ***naya***,  it  is  designated  as  ***avinābhāva  naya***  (= inevitableness method). 
+Due to capable of arising synchronously collectiveness of resultant ***dhammas*** through mutual  relations  and  united  arising  of  themselves, collectiveness  of  causal ***dhammas***  are designated  as ***paṭiccasamuppāda***.  In  this  method  only  collectiveness  of  causal ***dhammas*** have  got  designation  as  ***paṭiccasamuppāda***  definitely  while  resultant  ***paccayuppanna dhammas*** have got designation as ***paṭiccasamuppāda*** through inevitable method called ***a- vinābhāvanaya***. Due to capable of arising result, designation as cause is available and then every cause is inevitable with result really, and vice versa. That kind of inevitable nature between cause & result is called ***avinābhāva***. That inevitable nature called ***avinābhāva*** is worth understanding for wise and Noble Ones resulting in designation as ***naya*** (method). By adding  those  two  words,  ***avinābhāva***  and  ***naya***,  it  is  designated  as  ***avinābhāva  naya***  (= inevitableness method). 
 
 The word, ***samuppāda***, can be divided into two words, ***sam*** and ***uppāda***. The word, ***sam***, has two meanings, i.e, ***samam*** (**compeletely**), ***saha*** (=collectively). 
 
@@ -1051,9 +1051,9 @@ These causal ***dhammas***, base, object, compatible ***dhammas***, unwise atten
 
 Therefore  the  process  of  arising  of  collectiveness  of  resultant  ***dhammas***  is accomplished through neither partial resultant ***dhammas*** nor consecutive arising one after another.  These  collectiveness  of  causal  ***dhammas***,  ignorance  etc.,  give  rise  to  occur collectiveness of resultant ***dhammas*** completely, unitedly, and synchronously. 
 
-Due to presence of two kinds of efficiency, the meaning of ***paţicca*** and the meaning of  ***samuppāda***,  collectiveness  of  causal  ***dhammas***  are  designated  as  ***paţicca  samuppāda*** definitely.  Collectiveness  of  resultant  ***dhammas***,  actually,  can  be  designated  as  ***paţicca samuppāda*** through inevitableness  method  (***avinābhāvanaya***).  It  means that the name of causal  ***dhamma***,  ***paţicca  samuppāda***,  is  applied  to  the  name  of  resultant  ***dhamma*** metaphorically, resulting in designating on resultant ***dhammas*** also, as ***paţicca samuppāda*** through ***kāraņūpacāra***. These are explanations of the word, ***paţicca samuppāda***, found in ***Visuddhi Magga***, as third method of explanation. (***Vs-2-152, Mahāţī-2-235***) 
+Due to presence of two kinds of efficiency, the meaning of ***paṭicca*** and the meaning of  ***samuppāda***,  collectiveness  of  causal  ***dhammas***  are  designated  as  ***paṭicca  samuppāda*** definitely.  Collectiveness  of  resultant  ***dhammas***,  actually,  can  be  designated  as  ***paṭicca samuppāda*** through inevitableness  method  (***avinābhāvanaya***).  It  means that the name of causal  ***dhamma***,  ***paṭicca  samuppāda***,  is  applied  to  the  name  of  resultant  ***dhamma*** metaphorically, resulting in designating on resultant ***dhammas*** also, as ***paṭicca samuppāda*** through ***kāraņūpacāra***. These are explanations of the word, ***paṭicca samuppāda***, found in ***Visuddhi Magga***, as third method of explanation. (***Vs-2-152, Mahāṭī-2-235***) 
 
-**To be acceptable** \_\_\_\_\_ The reason why the term, ***paţicca samuppāda***, is explicit in detail  so  far  as  this  extent  is  that  \_\_\_\_\_  way  of  discerning  on  principle  of  dependent origination  which  are  continued  to  explain  in  this work  could be  accepted  satisfactorily. These kinds of complaints, such as why associating mind and mental concomitants are also discerned without performing on the ignorance only?... why associating mind and mental concomitants are also discerned without performing on the formation (=volition) only? etc., have to be prevented beforehand. If the option is wrong, the way of practice can also be wrong according to a proverb of wise, “a miss is as good as a mile”. 
+**To be acceptable** \_\_\_\_\_ The reason why the term, ***paṭicca samuppāda***, is explicit in detail  so  far  as  this  extent  is  that  \_\_\_\_\_  way  of  discerning  on  principle  of  dependent origination  which  are  continued  to  explain  in  this work  could be  accepted  satisfactorily. These kinds of complaints, such as why associating mind and mental concomitants are also discerned without performing on the ignorance only?... why associating mind and mental concomitants are also discerned without performing on the formation (=volition) only? etc., have to be prevented beforehand. If the option is wrong, the way of practice can also be wrong according to a proverb of wise, “a miss is as good as a mile”. 
 
 5. **Advantages** 
 
@@ -1061,14 +1061,14 @@ Due to presence of two kinds of efficiency, the meaning of ***paţicca*** and th
 
 The Perfectly Self-Enlightened One who preached principle of dependent-origination through the way mentioned above, showed clearly… 
 
-1) absence and non-arising of eternity view by preceding word, ***paţicca***, 
+1) absence and non-arising of eternity view by preceding word, ***paṭicca***, 
 1) destroying and removing annihilation view by succeeding word,  ***samuppāda***, and 
-3) Noble Eight-fold Path called the middle way of practice which is free from two kinds of extremities  called  eternity  view  and  annihilation  view by  combination  of  two  words, ***paţicca -  samuppāda*** (=dependent-origination). 
-1) **The word, *paţicca*** 
+3) Noble Eight-fold Path called the middle way of practice which is free from two kinds of extremities  called  eternity  view  and  annihilation  view by  combination  of  two  words, ***paṭicca -  samuppāda*** (=dependent-origination). 
+1) **The word, *paṭicca*** 
 
-The term, ***paţicca samuppādo***, consists of two words, ***paţicca*** and ***samuppāda***. The term ***paţicca*** expresses the occurrence of unity of causal ***dhammas***. 
+The term, ***paṭicca samuppādo***, consists of two words, ***paṭicca*** and ***samuppāda***. The term ***paṭicca*** expresses the occurrence of unity of causal ***dhammas***. 
 
-In  this  principle  of  dependent-origination,  there  are  three  kinds  of  rounds,  viz, defilement round (***kileas vaţţa***), action round (***kamma vaţţa***) and consequence round (***vipāka viţţa***).  Ignorance,  craving  and  clinging  belong  to  defilement  round  while  formation  and kamma coming-into-existence (=action), action round; consciousness, mind-matter, six bases, contact and feeling, consequence round respectively. 
+In  this  principle  of  dependent-origination,  there  are  three  kinds  of  rounds,  viz, defilement round (***kileas vaṭṭa***), action round (***kamma vaṭṭa***) and consequence round (***vipāka viṭṭa***).  Ignorance,  craving  and  clinging  belong  to  defilement  round  while  formation  and kamma coming-into-existence (=action), action round; consciousness, mind-matter, six bases, contact and feeling, consequence round respectively. 
 
 Action round arises based on defilement round. Consequence round arises based on action round. Furthermore unless five kinds of clinging-aggregate called consequence round are discerned as objects of ***vipassanā*** practice in time, ignorance, craving, and clinging called defilement round arise again based on those consequence round. Then due to cultivating wholesome  formation  and  unwholesome  formation  based  on  those  defilement  round, formation and action called action round arise again. Due to presence of that action round, five  kinds  of  clinging-existence,  called  consciousness,  mind-matter,  six  bases,  contact, feeling which belong to consequence round arise again in future coming-into-existence. 
 
@@ -1076,7 +1076,7 @@ Action round arises based on defilement round. Consequence round arises based on
 
 Those future five aggregates are preached by the Buddha through the terms, birth, ageing & death. Thus three kinds of rounds arise perpetually as cycling chariot wheel. 
 
-Due to presence of related occurrence among unity of causal ***dhammas*** of defilement round, action round, consequence round which arise perpetually as cycling chariot wheel by using the preceding word, ***paţicca***, that is capable of showing united occurrence of causal ***dhammas***, absence of various views, viz, 
+Due to presence of related occurrence among unity of causal ***dhammas*** of defilement round, action round, consequence round which arise perpetually as cycling chariot wheel by using the preceding word, ***paṭicca***, that is capable of showing united occurrence of causal ***dhammas***, absence of various views, viz, 
 
 1. eternity view (***sassata vāda***) 
 1. non-causality view (***ahetuka vāda***) 
@@ -1085,7 +1085,7 @@ Due to presence of related occurrence among unity of causal ***dhammas*** of def
 
 are shown clearly. It is right.)\_\_\_\_\_  
 
-Various  views,  eternity  view  etc.,  which  reject  various  right  conditions,  come  to nothing through unity of causal ***dhammas*** called ***paccaya sāmaggi***. It is next to nothing of meaning. Due to presence of unity of causal ***dhammas***, the arising of resultant ***dhammas*** collectively and unitedly causes vainness of those various views which reject various right conditions. (***Vs-2-153, Mahāţī-2-235***) 
+Various  views,  eternity  view  etc.,  which  reject  various  right  conditions,  come  to nothing through unity of causal ***dhammas*** called ***paccaya sāmaggi***. It is next to nothing of meaning. Due to presence of unity of causal ***dhammas***, the arising of resultant ***dhammas*** collectively and unitedly causes vainness of those various views which reject various right conditions. (***Vs-2-153, Mahāṭī-2-235***) 
 
 ***sassatavāda* (eternity view)** 
 
@@ -1099,15 +1099,15 @@ There  is  neither  definite  cause  (***hetu***)  nor  supporting  cause  (***p
 
 ***Visamahetuvāda* (fictitious causality view)** 
 
-The opinion which usually says, deduces, believes in a way that “the world originates by means of ***pakati, aņu, kāla*** (= time)” etc, is called ***visamahetuvāda. (Mahāţī-2-235)***. 
+The opinion which usually says, deduces, believes in a way that “the world originates by means of ***pakati, aņu, kāla*** (= time)” etc, is called ***visamahetuvāda. (Mahāṭī-2-235)***. 
 
 **PAGE-29** 
 
 ***Vasavatti vāda* (ruling creator view)\_\_\_\_\_** 
 
-Those  opinions,  viz,  ***issaravāda***  (creator  view),  ***purisavāda***  and  ***pajāpativāda***  are called ***vasavattivāda. Purisavāda*** and ***pajāpativāda*** are identical with ***issaravāda*** but varied in  terminology  only.  (***Anuţī-3-65***)  There  is  the  creator  (= ***issara***)  who  creates  the  world together with creatures. The opinion which usually says, deduces, believes that “the world together with creatures originate as the wish of the creator” etc., is called ***vasavattivāda***. The created self-identity is designated as ***jīva atta*** while the creator (= ***issara***), as ***paramaatta***, respectively. It is also a kind of opinion which rejects action and consequence of action. (***Mahāţī-2-235***) 
+Those  opinions,  viz,  ***issaravāda***  (creator  view),  ***purisavāda***  and  ***pajāpativāda***  are called ***vasavattivāda. Purisavāda*** and ***pajāpativāda*** are identical with ***issaravāda*** but varied in  terminology  only.  (***Anuṭī-3-65***)  There  is  the  creator  (= ***issara***)  who  creates  the  world together with creatures. The opinion which usually says, deduces, believes that “the world together with creatures originate as the wish of the creator” etc., is called ***vasavattivāda***. The created self-identity is designated as ***jīva atta*** while the creator (= ***issara***), as ***paramaatta***, respectively. It is also a kind of opinion which rejects action and consequence of action. (***Mahāṭī-2-235***) 
 
-The practising meditator who endeavours in order to know penetratively the principle of dependent-origination knows and sees synchronous and united arising of collectiveness of resultant ***dhammas*** based  on  collectiveness  of  causal ***dhammas***  which arise by  mutually inter-relations by experiential knowledge called ***paccakkha ñāņa*** at such time. At that time various kinds of wrong views, ***sassata vāda, ahetu vāda, visamahetu vāda, vasvatti vāda*** etc., which reject apparent presence of real causal ***dhammas*** are blown away and disappeared in  the  continuum  of  that  meditator  due  to  knowing  and  seeing  the  phenomenon  that collectiveness  of  resultant  ***dhammas***  arise  completely,  unitedly,  synchronously  based  on obvious  occurrence  of  collectiveness  of  causal  ***dhammas***  which  arise  by  mutually  inter- realations. It means the insight of meditator who knows and sees principle of dependent- origination penetratively has shown the absence of all kinds of wrong views that reject real conditions  in  the  continuum  of  that  meditator.  If  various  wrong  views  which  reject  real conditions are absent in the continuum of that meditator who knows and sees penetratively on the nature of ***paţicca*** by insight, it is not essential to say the fact various wrong views that reject real  conditions are absent in the Noble  Preaching of  Dependent-Origination which instruct in order to know and see the nature of ***paţicca*** for the meditator himself. 
+The practising meditator who endeavours in order to know penetratively the principle of dependent-origination knows and sees synchronous and united arising of collectiveness of resultant ***dhammas*** based  on  collectiveness  of  causal ***dhammas***  which arise by  mutually inter-relations by experiential knowledge called ***paccakkha ñāņa*** at such time. At that time various kinds of wrong views, ***sassata vāda, ahetu vāda, visamahetu vāda, vasvatti vāda*** etc., which reject apparent presence of real causal ***dhammas*** are blown away and disappeared in  the  continuum  of  that  meditator  due  to  knowing  and  seeing  the  phenomenon  that collectiveness  of  resultant  ***dhammas***  arise  completely,  unitedly,  synchronously  based  on obvious  occurrence  of  collectiveness  of  causal  ***dhammas***  which  arise  by  mutually  inter- realations. It means the insight of meditator who knows and sees principle of dependent- origination penetratively has shown the absence of all kinds of wrong views that reject real conditions  in  the  continuum  of  that  meditator.  If  various  wrong  views  which  reject  real conditions are absent in the continuum of that meditator who knows and sees penetratively on the nature of ***paṭicca*** by insight, it is not essential to say the fact various wrong views that reject real  conditions are absent in the Noble  Preaching of  Dependent-Origination which instruct in order to know and see the nature of ***paṭicca*** for the meditator himself. 
 
 2) **The word, *samuppāda*** 
 
@@ -1129,7 +1129,7 @@ Self-identity  and  being  annihilate  when  he  dies.  The  opinion  which  usu
 
 ***natthikavāda* (nihility view)** 
 
-***“natthi dinnam, natthiyiţţham, natthi hutam, natthisukata dukkaţānam kammānam phalamvipāko”.*** 
+***“natthi dinnam, natthiyiṭṭham, natthi hutam, natthisukata dukkaṭānam kammānam phalamvipāko”.*** 
 
 - There is nothing offered, nothing sacrificed. No fruit or result of good and bad 
 
@@ -1157,18 +1157,18 @@ If a practising meditator knows and sees penetratively obvious occurence of resu
 
 there  is  impossible  to  arise  disaster  of  wrong  views  called  ***ucchedavāda, natthikavāda, akiriyavāda***, in the continuum of that meditator with the knowledge of Cause and Condition. Similarly it is no opportunity to approach those disasters of wrong views into noble preaching of dependent-origination. 
 
-3) **The words, *paţicca* and *samuppāda*** 
+3) **The words, *paṭicca* and *samuppāda*** 
 
 Due to arising of various kinds of resultant ***dhammas*** with incessancy of continuity of causes  and  results  which  is  worth  saying  as  incessant  occurrence  of  causal  relationship between collectiveness of casual ***dhammas,*** ignorance etc, and collectiveness of resultant ***dhammas,*** formation etc, the journey of Noble Path called ***ñāya*** that is the course leading to ***nibbāna*** including both….  
 
 1. noble Eightfold Path called the middle way,  
 1. rejecting disaster of wrong view that “that person does, that person only feels, other person does, other person only feels” etc, 
 1. not taking into heart wrongly through craving-wrong view in such way that “man, woman etc, which are concepts in the aspect of conventional reality applied by worldly persons who do not know and see both ultimate nature of mind-matter and causal relation of ultimate nature of mind-matter, are present really”…. etc, and  
-1. not exceeding limitation of conventional reality applied by worldly persons, are shown clearly by the whole word, ***paţicca samuppāda***, resulting from combination of two words, ***paţicca*** and ***samuppāda. (Vs-2-153)*** 
+1. not exceeding limitation of conventional reality applied by worldly persons, are shown clearly by the whole word, ***paṭicca samuppāda***, resulting from combination of two words, ***paṭicca*** and ***samuppāda. (Vs-2-153)*** 
 6. **Further explanations** 
-1. ***majjhimapaţpadā* (middle way)\_\_\_\_\_** 
+1. ***majjhimapaṭpadā* (middle way)\_\_\_\_\_** 
 
-During endeavouring to attain the Knowledge of Analysing Mentality & Corporeality and  the  Knowledge  of  Cause  &  Condition  previously,  if  the  principle  of  dependent- origination  called  incessant  occurrence  of  collectiveness  of  causal  ***dhammas***  and collectiveness  of  resultant  ***dhammas***  by  relating  preceding  and  succeeding  ***dhammas*** successively, from successive previous lives to successive future lives, is known and seen penetratively by experiential knowledge of himself, that insight of meditator is called right view (***sammā diţţhi***). 
+During endeavouring to attain the Knowledge of Analysing Mentality & Corporeality and  the  Knowledge  of  Cause  &  Condition  previously,  if  the  principle  of  dependent- origination  called  incessant  occurrence  of  collectiveness  of  causal  ***dhammas***  and collectiveness  of  resultant  ***dhammas***  by  relating  preceding  and  succeeding  ***dhammas*** successively, from successive previous lives to successive future lives, is known and seen penetratively by experiential knowledge of himself, that insight of meditator is called right view (***sammā diṭṭhi***). 
 
 **PAGE-32** 
 
@@ -1188,7 +1188,7 @@ The morality which is observed before developing practice for a such meditator i
 
 During occurring mundane consciousness, these three moral factors of enlightenment (***sīla magganga***) can not arise synchronously with right view, right thought, right effort, right mindfulness,  right  concentration  in  the  same  mind  moment  because  they  take  different objects. 
 
-There are totally (8) factors of enlightenment. These are the Noble Path called ***ñāya*** which  leads  to  ***nibbāna***.  Therefore,  penetrative  knowing  and  seeing  on  principle  of dependent-origination is comely walking with great dignity on the road of Noble Path called ***ñāya*** leading to ***nibbāna***. It shows clearly on the journey of the Noble Path. It also shows clearly  on  the  middle  way.  It  is  because  the  arising  of  resultant  ***dhammas***,  which  is conformity with causal ***dahmmas***, based on respective collectiveness of causal ***dhammas***, without approaching towards any kind of extremities, eternity view and annihilation view, is worth  desiring  as  the  middle  way  (***majjhima  paţipadā***)  in  this  concern  with  dependent- origination. (***Mahāţī-2-236***) 
+There are totally (8) factors of enlightenment. These are the Noble Path called ***ñāya*** which  leads  to  ***nibbāna***.  Therefore,  penetrative  knowing  and  seeing  on  principle  of dependent-origination is comely walking with great dignity on the road of Noble Path called ***ñāya*** leading to ***nibbāna***. It shows clearly on the journey of the Noble Path. It also shows clearly  on  the  middle  way.  It  is  because  the  arising  of  resultant  ***dhammas***,  which  is conformity with causal ***dahmmas***, based on respective collectiveness of causal ***dhammas***, without approaching towards any kind of extremities, eternity view and annihilation view, is worth  desiring  as  the  middle  way  (***majjhima  paṭipadā***)  in  this  concern  with  dependent- origination. (***Mahāṭī-2-236***) 
 
 **PAGE-33** 
 
@@ -1196,11 +1196,11 @@ There are totally (8) factors of enlightenment. These are the Noble Path called 
 
 For  action  round  and  consequence  round,  the  former  is  wholesome  ***dahmma*** unwholesome ***dahmma*** while the latter, resultant corporeal and mental ***dahmmas***. Therefore action  round  called  wholesome  and  unwholesome  deeds  and  consequence  round  have different specific  characteristics. (See section of ***lakkhaņādi catukka***, Volume  IV). They have  different  nature because  action  round  is  causal  ***dahmma***  and  consequence  round  is resultant ***dahmma***. 
 
-Furthermore action round and consequence round are varied in time of arising. Both mental  ***dhammas***,  ***paţisandhi***,  life-continuum,  death-consciousness  which  are  called consciousness freeing from  cognitive process  (***vīthimutta citta***), five-doors-consciousness, receiving consciousness, investigating consciousness consequence registering consciousness which are called consciousness of cognitive process (***vīthi citta***) and corporealities produced by ***kamma (kammajarūpa)*** during life, belong to consequence round. The causality, action, which produces that consequence round, is generally, the action which has been cultivated in previous life. In this case, saying as “generally” is applied due to presence of action called ***diţţhadhammavedanīya kamma***, which can give rise to occur resultant ***dahmmas*** in present life. Those kinds of actions, actually, are not causality, action, of present life. Those are kinds of actions which can give rise to occur resultant ***dahmmas*** in opportune moment only. 
+Furthermore action round and consequence round are varied in time of arising. Both mental  ***dhammas***,  ***paṭisandhi***,  life-continuum,  death-consciousness  which  are  called consciousness freeing from  cognitive process  (***vīthimutta citta***), five-doors-consciousness, receiving consciousness, investigating consciousness consequence registering consciousness which are called consciousness of cognitive process (***vīthi citta***) and corporealities produced by ***kamma (kammajarūpa)*** during life, belong to consequence round. The causality, action, which produces that consequence round, is generally, the action which has been cultivated in previous life. In this case, saying as “generally” is applied due to presence of action called ***diṭṭhadhammavedanīya kamma***, which can give rise to occur resultant ***dahmmas*** in present life. Those kinds of actions, actually, are not causality, action, of present life. Those are kinds of actions which can give rise to occur resultant ***dahmmas*** in opportune moment only. 
 
-The  action  cultivated  in  previous  life,  which  can  produce  consequence  round  of present life may be the action cultivated in first previous life or various previous lives, second previous life etc. The action which has been cultivated in any previous life before ***paţisandhi*** of present life can give rise to occur consequence round ***dahmmas***, in present life, ***paţisandhi*** etc, of opportunity is available. Thus formation, action called action round and mind-matter called consequence round have asynchronous arising. It should be understood similarly on successive previous lives and successive future lives. Even if the action is a kind of action which  can  give  rise  to  occur  resultant  ***dahmmas***  in  present  life,  causality,  action  and consequence ***dahmmas*** are separated by at least numerous mind moments really. 
+The  action  cultivated  in  previous  life,  which  can  produce  consequence  round  of present life may be the action cultivated in first previous life or various previous lives, second previous life etc. The action which has been cultivated in any previous life before ***paṭisandhi*** of present life can give rise to occur consequence round ***dahmmas***, in present life, ***paṭisandhi*** etc, of opportunity is available. Thus formation, action called action round and mind-matter called consequence round have asynchronous arising. It should be understood similarly on successive previous lives and successive future lives. Even if the action is a kind of action which  can  give  rise  to  occur  resultant  ***dahmmas***  in  present  life,  causality,  action  and consequence ***dahmmas*** are separated by at least numerous mind moments really. 
 
-Due to presence of different nature and asynchronous arising of action round and consequence round,  mundane factors of enlightenment ***dahmmas***, which are led by right view,  of  that  meditator  who  knows  and  sees  penetratively  on  principle  of  dependent- origination, can remove temporarily the opinion which usually says, deduces, believes in a way that “***so karoti so paţisamvedeti*** = only that person does, only that person feels …” etc. 
+Due to presence of different nature and asynchronous arising of action round and consequence round,  mundane factors of enlightenment ***dahmmas***, which are led by right view,  of  that  meditator  who  knows  and  sees  penetratively  on  principle  of  dependent- origination, can remove temporarily the opinion which usually says, deduces, believes in a way that “***so karoti so paṭisamvedeti*** = only that person does, only that person feels …” etc. 
 
 The meditator with that right view knowledge is knowing the fact that there are only masses of causal corporeality-mentality (= conditioned things) in the side of action round; those are only masses of impermanent ***dahmmas***, suffering ***dahmmas***, non-self ***dahmmas***. He is  knowing  the  fact  that  there  are  only  masses  of  resultant  corporeality-mentality  (= conditioned  things)  in  the  side  of  consequence  round;  those  are  also  only  masses  of impermanent ***dahmmas***, suffering ***dahmmas***, non-self ***dahmmas***. 
 
@@ -1210,19 +1210,19 @@ When the practising meditator with the right view scrutinizes masses of conditio
 
 There is no foothold for eternity view as that person does, that person only feels” in the continuum of meditator who has fulfilled with right view knowledge which can determine in that way. 
 
-That meditator understands the real nature in a way that “the arising of masses of causal corporeality & mentality called wholesome aggregates, unwholesome aggregates are designated  as  ***kāraka***  (=  the  person  who  does)  and  the  arising  of  masses  of  resultant corporeality  &  mentality  called  consequence  aggregate  are  designated  as  ***vedaka***  (=  the person who feels, in the aspect of convention al reality only. (***Mahāţī-2-236***) 
+That meditator understands the real nature in a way that “the arising of masses of causal corporeality & mentality called wholesome aggregates, unwholesome aggregates are designated  as  ***kāraka***  (=  the  person  who  does)  and  the  arising  of  masses  of  resultant corporeality  &  mentality  called  consequence  aggregate  are  designated  as  ***vedaka***  (=  the person who feels, in the aspect of convention al reality only. (***Mahāṭī-2-236***) 
 
-Furthermore, formation, action called action round arise apparently in such continuity of causal & resultant corporeality & mentality. Due to penetrative knowing and seeing on arising  of  consequence  ***dahmmas***  of  those  action  round  in  that  continuity  of  causal  & resultant corpoeality & mentality, the right view knowledge of that meditator can remove the wrong  view  which  usually  says,  deduces,  believes  in  a  way  that  “***añño  karoti,  añño paţisamvedeti*** = the doer is one while the person who feels is another”. 
+Furthermore, formation, action called action round arise apparently in such continuity of causal & resultant corporeality & mentality. Due to penetrative knowing and seeing on arising  of  consequence  ***dahmmas***  of  those  action  round  in  that  continuity  of  causal  & resultant corpoeality & mentality, the right view knowledge of that meditator can remove the wrong  view  which  usually  says,  deduces,  believes  in  a  way  that  “***añño  karoti,  añño paṭisamvedeti*** = the doer is one while the person who feels is another”. 
 
-* ***khandhānañca paţipāţi, dhātu āyatanāna ca.*** 
+* ***khandhānañca paṭipāṭi, dhātu āyatanāna ca.*** 
 
 `  `***abbhocchinnam vattamānā, samsāroti pavuccati. (Abhi-A-2-142)*** 
 
 Because the continuity of corporeality & mentality through which aggregates-bases- elements  are  arising  incessantly  by  relating  of  causes  and  results,  is  ***samāra***  (rounds  of rebirth), the practising meditator knows and sees penetratively on the arising of consequence round  which  is  the  result  of  that  action  round  in  the  continuity  of  causal  &  resultant corporeality & mentality through which action round has arisen apparently. It means that the right view knowledge of meditator who knows and sees in that way can remove disaster of wrong view called “the doer is one while the person who feels is another”. 
 
-***na hi katassa vināso, akatassa vā abbhāgamo atthi. (Mahāţī-2-236)*** 
+***na hi katassa vināso, akatassa vā abbhāgamo atthi. (Mahāṭī-2-236)*** 
 
-- It is right.\_\_\_\_\_ There is neither destruction of action that had been done nor newly arising of action that has not been done. (It should be recognized it refers to both ***diţţhadhamma vedaniya kamma, upapajjavedaniya kamma***, which never ruin and ***aparāpariya vedaniya kamma*** which has efficiency to give rise to occur resultant ***dahmmas*** until final death of Arahant.) 
+- It is right.\_\_\_\_\_ There is neither destruction of action that had been done nor newly arising of action that has not been done. (It should be recognized it refers to both ***diṭṭhadhamma vedaniya kamma, upapajjavedaniya kamma***, which never ruin and ***aparāpariya vedaniya kamma*** which has efficiency to give rise to occur resultant ***dahmmas*** until final death of Arahant.) 
 
 **PAGE-35** 
 
@@ -1243,13 +1243,13 @@ For wise and Noble One who knows and sees penetratively on principle of dependen
 
 Although wrong way of taking into heart constantly is absent in him, he applys the conventional usage as “I, other person, man, woman, person, being, human, ***deva***, brahma” etc., by following terminology and concept applied by ordinary worldlings without eye of insight  into  ultimate  sense.  Even  though  eye  of  insight  into  ultimate  sense  is  present  in continuum of himself, he never called as “***pañcakkhandhe ānetu, nāmarupam āgacchatu*** = bring five aggregates, mind-matter come on!” etc. 
 
-Though he calls conventional usage a man, woman etc., without saying in that way, “bring  five aggregates,  mind-matter  come on!”  etc., wrong way of taking into heart that “man, woman are present apparently”, by means of craving, conceit, wrong view, are absent in him. Absence of taking into heart in that way can be said as the wrong way of taking into heart is absent in ***janapada nirutti***. This advantage is worth attaining for wise Noble Ones with right view on principle of dependent-origination. (***See Mahāţī-2-236***) 
+Though he calls conventional usage a man, woman etc., without saying in that way, “bring  five aggregates,  mind-matter  come on!”  etc., wrong way of taking into heart that “man, woman are present apparently”, by means of craving, conceit, wrong view, are absent in him. Absence of taking into heart in that way can be said as the wrong way of taking into heart is absent in ***janapada nirutti***. This advantage is worth attaining for wise Noble Ones with right view on principle of dependent-origination. (***See Mahāṭī-2-236***) 
 
 4. ***samaññāya anatidhāvanam\_\_\_\_*** 
 
 Although wrong way of taking into heart is absent in ***janapada nirutti*** (= worldling usage) in that way, he never exceed names and concepts applied in the aspect of conventional reality (***vohāra sacca***). 
 
-***Pāli Quotation (Mahāţī-2-236)*** 
+***Pāli Quotation (Mahāṭī-2-236)*** 
 
 During applying the usage as being by worldling people\_\_\_\_ without distinguishing through insight of ultimate sense as “in this case, who is being? is it corporeal ***dhamma*** or feeling etc?”… he applys conventional usage of names and concepts as worldling people apply names and concepts in the aspect of conventional reality. 
 
@@ -1264,7 +1264,7 @@ These are how four kinds of advantages, viz,
 3. absence of wrong way of taking into heart on conventional usage called ***janapada nirutti***, 
 3. not exceeding to the conventional reality, 
 
-are available for the practising meditator who knows and sees penetratively on the on the principle  of  dependent-origination  by  experiential  right  view  knowledge.  (***Vs-2-135,***  see ***Mahāţī-2-235, 236***) 
+are available for the practising meditator who knows and sees penetratively on the on the principle  of  dependent-origination  by  experiential  right  view  knowledge.  (***Vs-2-135,***  see ***Mahāṭī-2-235, 236***) 
 
 7. **Varieties of preaching methodology (*desanābheda*)** 
 
@@ -1283,7 +1283,7 @@ As  four  men  curl  up  creepers,  the  Supreme  Buddha  preached  on  principl
 1. Among four men who curl up creepers, one man sees only root of creeper previously. As that man cuts at root of creeper and curls up, uses as he likes, similarly \_\_\_\_ the Supreme Buddha preached on principle of dependent-origination from the beginning until the end in  a  way  that  …  “***iti  kho  bhikkhaveavijjāpaccayā  sańkhāra  …R…  jātipaccayā jarāmaraņam. (M-1-328, Sam-1-246)***. Thus … *bhikkhu* …due to presence of ignorance, formations  arise  apparently  ***…  R  …***  due  to  presence  of  birth,  ageing  &  death  arise apparently. 
 1. Among four men who curl up creepers, one man sees middle part of creeper previously. As that man cuts at the middle, curls up until the tip of creeper and then uses as he likes, similarly \_\_\_\_\_  the  Supreme  Buddha preached  on principle  of  dependent-origination, from the feeling, middle as beginning until ageing & death as end in a way that… 
 
-“***tassa  tam  vedanam  abhinandato  abhivadato  ajjhosāyatiţţhato  upajjati  nandī.  yā vedanāsu nandī, tadupādānam. tassupādāna paccayā bhavo, bhava paccayā jāti***”, (***M- 1-333, Sam-2-13***) 
+“***tassa  tam  vedanam  abhinandato  abhivadato  ajjhosāyatiṭṭhato  upajjati  nandī.  yā vedanāsu nandī, tadupādānam. tassupādāna paccayā bhavo, bhava paccayā jāti***”, (***M- 1-333, Sam-2-13***) 
 
 - in the continuum of that young man who has strong attachment on that feeling; who says delightfully in such way, that  “it is  great bliss, it is  great bliss!  This am  I,  my feeling” etc; who is reposing through 
 
@@ -1309,7 +1309,7 @@ Bhante … due to presence of ignorance, formations arise apparently. Thus … w
 
 ***Pāli Quotatio (Sam-1-253)*** 
 
-- which  is  the  condition  for  arising  of  these  four  kinds  of  nutriments  which  are consequence round at ***paţisandhi*** and during life (***pavatti***), viz, 
+- which  is  the  condition  for  arising  of  these  four  kinds  of  nutriments  which  are consequence round at ***paṭisandhi*** and during life (***pavatti***), viz, 
 1. ***phassāhāra*** = contact which associates with consequence consciousness, 
 1. ***cetanāhāra*** = volition which associates with consequence consciousness,] 
 1. ***viññāņāhāra*** = consequence consciousness 
@@ -1323,9 +1323,9 @@ The condition for arising of these four kinds of nutriments, which are consequen
 
 1. **Four kinds of nutriments** 
 
-***Pāli Quotation (Mūlaţī-2-85; Mahāţī-2-243)* PAGE-41**  
+***Pāli Quotation (Mūlaṭī-2-85; Mahāṭī-2-243)* PAGE-41**  
 
-With referring to these four kinds of nutriments, which are consequence round at ***paţisandhi*** and during life, viz, 
+With referring to these four kinds of nutriments, which are consequence round at ***paṭisandhi*** and during life, viz, 
 
 1. ***phassāhāra*** = contact which associates with consequence consciousness, 
 1. ***celatanāhāra*** = volition which associates with consequence consciousness,] 
@@ -1358,12 +1358,12 @@ four kinds of preaching methodology are divided in this way. This is the answer.
 
 Noble  principle  of  dependent-origination  is  through  nobility  really.  If  one  person endeavours through any kind of preaching methodology among those four kinds, it will be possible to know penetratively on the Noble Path ***dhamma*** called ***ñāya*** which is deserving to know, in other words, it will be possible to know penetratively on principle of dependent- origination for that meditator. 
 
-Futerhmore,  due  to  associating  with  four  kinds  of  bravery  knowledge  (***vesārajja ñāņa***), four kinds of differentiating and penetrative knowledge (***paţisambhidā ñāņa***); due to reaching to occurrence of profoundity of these four kinds, viz, 
+Futerhmore,  due  to  associating  with  four  kinds  of  bravery  knowledge  (***vesārajja ñāņa***), four kinds of differentiating and penetrative knowledge (***paṭisambhidā ñāņa***); due to reaching to occurrence of profoundity of these four kinds, viz, 
 
 1. ***dhammagambhīra*** = profoundity of ***Pāli*** Texts 
 1. ***attha gambhīra*** = profoundity of preaching of ***Pāli*** Texts, 
 1. ***desanā  gambhīra***  =  profoundity  of  preaching  methodology  with  adorning  of  various terms, methods, 
-1. ***paţivedhagambhīra*** = profoundity of knowledge of Omniscience that knows and sees penetratively on profound principle of dependent-origination; 
+1. ***paṭivedhagambhīra*** = profoundity of knowledge of Omniscience that knows and sees penetratively on profound principle of dependent-origination; 
 
 due to presence of steadfast extistance through availability of foothold on to four kinds of profoundity, the Supreme Buddha reached into the knowledge of Omniscience that is source of comely preaching. Due to reaching into the knowledge of ominiscience that is source of comely preaching, the Supreme Buddha always preaches through various preaching methodology. (***Vs-2-155; Abhi-A2-125***) 
 
@@ -1380,16 +1380,16 @@ The  Supreme  Buddha  preached  that  noble  principle  of  dependent-originatio
 
 The noble principle of dependent-origination which is preached from the end, ageing 
 
-- death, as beginning, until the root, ignorance in reverse order is called reversed order of dependent-origination (***paţiloma paţiccasamuppāda***). 
+- death, as beginning, until the root, ignorance in reverse order is called reversed order of dependent-origination (***paṭiloma paṭiccasamuppāda***). 
 * ***kiccham vatāyam loko āpanno jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca. (Dī-2- 26, Sam-1-246)*** 
 
-These all kinds of beings are reaching into impecunious and miserable situations! There is also arising (= has got ***paţisandhi***); there is also dead; there is also passing away over and over; there is also arising over and over. (***Dī-2-26, Sam-1-246***) 
+These all kinds of beings are reaching into impecunious and miserable situations! There is also arising (= has got ***paṭisandhi***); there is also dead; there is also passing away over and over; there is also arising over and over. (***Dī-2-26, Sam-1-246***) 
 
 It  should  be  recognized  the  fact  that  noble  principle  of  dependent-origination  in reverse order was accomplished and preached in order to show clearly on causal ***dhammas***, birth etc, of those various kinds of rounds of rebirth, which were experienced in infinite lives of ***bodhisatta*** before the Path-knowledge of Arahant and the knowledge of Omniscience were attained through scrutinizing and having compassion over and over again for all beings who were reaching into impecunious and miserable situations in that way etc; which were known and seen penetratively by following realizable ***vipassanā*** knowledge of the Supreme Buddha, himself. (***Vs-2-155,156; Abhi-A-2-125***) 
 
 **Great thunder-bolt-like *Vipassanā* Knowledge (*Mahāvajira vipassanā ñāņa*)\_\_\_\_\_** 
 
-During practising in day-time of full moon day of ***Kahson***, second month of the year when  the  Buddha  would  be  appeared  and  last  part  of  night  of  that  full  moon  day  the ***Bodhisatta*** scrutinized and reasoned deductively on each ignorance of every being occurring in picouniverse collectively as ***aniccca, dukkha, anatta***. Similarly remaining each factor of dependent-origination,  formation,  consciousness  etc.,  were  also  scrutinized  and  reasoned deductively with the help of ***Vipassanā*** Knowledge as ***anicca, dukkha, anatta*** through 12 divisions. That kind of ***Vipassanā*** Knowledge is called ***Mahāvajira vipassanā ñāņa*** (Great thunder-bolt-like  ***Vipassanā***  Knowledge).  It  means  that  the  reverse  order  of  principle  of dependent-originatin was preached in order to show clearly causal ***dhammas***, birth etc., of those various kinds of suffering of rounds of rebirth, ageing & death etc., which were known and seen penetratively by that great thunder-bolt-like ***Vipassanā*** Knowledge. (***See M-ţī-3- 275***) 
+During practising in day-time of full moon day of ***Kahson***, second month of the year when  the  Buddha  would  be  appeared  and  last  part  of  night  of  that  full  moon  day  the ***Bodhisatta*** scrutinized and reasoned deductively on each ignorance of every being occurring in picouniverse collectively as ***aniccca, dukkha, anatta***. Similarly remaining each factor of dependent-origination,  formation,  consciousness  etc.,  were  also  scrutinized  and  reasoned deductively with the help of ***Vipassanā*** Knowledge as ***anicca, dukkha, anatta*** through 12 divisions. That kind of ***Vipassanā*** Knowledge is called ***Mahāvajira vipassanā ñāņa*** (Great thunder-bolt-like  ***Vipassanā***  Knowledge).  It  means  that  the  reverse  order  of  principle  of dependent-originatin was preached in order to show clearly causal ***dhammas***, birth etc., of those various kinds of suffering of rounds of rebirth, ageing & death etc., which were known and seen penetratively by that great thunder-bolt-like ***Vipassanā*** Knowledge. (***See M-ṭī-3- 275***) 
 
 3. **Third Method \_\_\_\_\_** 
 
@@ -1405,7 +1405,7 @@ Explanations of the third method found in commentary are very short and narrow. 
 
 ***Pāli Quotation (Vs-2-156, Abhi-a-2-125)*** 
 
-***(Mūlaţī-2-87)(Mahāţī-2-245) (Anuţī-2-94)*** 
+***(Mūlaṭī-2-87)(Mahāṭī-2-245) (Anuṭī-2-94)*** 
 
 Such preaching methodology, of dependent originatiojn is accomplished by preaching from the middle, the feeling, as beginning until ageing and death as the end in order. That preaching methodology is accomplished in order to show clearly on successive occurrence of relationship  between  present  causal  ***dhammas***  and  future  resultant  ***dhammas***  through showing present causal ***dhammas***, which are ***paccakkha***  ***dhammas*** (=***dhammas*** which are worth  knowing  by  experiential  knowledge  in  recent  life)  because  those  ***dhammas***  are belonging  to  present  life  periodicity,  for  disciples  who  are  unable  to  know  and  see penetratively on those ***dhammas*** which are belonging to future life periodicity.(***Vs-2-156, Abhi-A-2-125)*** 
 
@@ -1457,13 +1457,13 @@ Due to total cessation of nescience on four Noble Truths called ignorance (= ***
 
 ***Pāli Quotation (Sam-A-2-23,24)*** 
 
-***(Sam-ţī-2-27)*** 
+***(Sam-ṭī-2-27)*** 
 
-In the continuum of beings who are whether taking food other than rice, fish, meat, etc., or not; who are whether taking food or not; there is ***kammaja ojā*** (nutriment produced by kamma) which is consisting in corporeal unit produced by ***kamma***., which arises together with ***paţisandhi*** consciousness. In other words, there is ***kammaja ojā*** which is consisting in every corporeal unit produced by ***kamma*** at the beginning of ***paţisandhi*** & throughout life. That ***kammaja ojā*** protects, performs, gives rise to occur successively corporeal continuity from the first day of its arising until seven days. This ***kammaja ojā*** only is designated as ***upādiņņaka kabaļīkāra āhāra*** (nutriment produced by kamma). 
+In the continuum of beings who are whether taking food other than rice, fish, meat, etc., or not; who are whether taking food or not; there is ***kammaja ojā*** (nutriment produced by kamma) which is consisting in corporeal unit produced by ***kamma***., which arises together with ***paṭisandhi*** consciousness. In other words, there is ***kammaja ojā*** which is consisting in every corporeal unit produced by ***kamma*** at the beginning of ***paṭisandhi*** & throughout life. That ***kammaja ojā*** protects, performs, gives rise to occur successively corporeal continuity from the first day of its arising until seven days. This ***kammaja ojā*** only is designated as ***upādiņņaka kabaļīkāra āhāra*** (nutriment produced by kamma). 
 
 The  nutriment  which  arises  based  on  that  ***kammaja  ojā***  is  designated  as ***anupādiņņaka kabaļīkāra āhāra*** (= nutriment produced by any factor other than kamma), due to ***a-kammaja*** (= it is not produced by kamma). Those kinds of nutriments consisting in corporeal  unit  produced  by  mind  (***cittaja  rūpakalāpa***),  corporeal  unit  produced  by temperature (***utuja rūpakalāpa***), corporeal unit produced by nutriment (***āhāraja rūpakalāpa***) are also called ***a-kammaja ojā***, or ***anupādiņņaka ojā,*** or ***anupādiņņaka kabaļīkāra āhāra.*** 
 
-The  contact  which  associates  with  consequence  consciousness,  ***paţisandhi*** consciousness etc., is called ***upādiņņaka phassā āhāra***. The volition which associates with that consequence consciousness is called ***upādiņņaka manosañcetan āhāra***. Consequence consciousness is called ***upādiņņaka viññāņāhāra***. 
+The  contact  which  associates  with  consequence  consciousness,  ***paṭisandhi*** consciousness etc., is called ***upādiņņaka phassā āhāra***. The volition which associates with that consequence consciousness is called ***upādiņņaka manosañcetan āhāra***. Consequence consciousness is called ***upādiņņaka viññāņāhāra***. 
 
 **PAGE-48** 
 
@@ -1473,13 +1473,13 @@ Supra-mundane contact, volition, consciousness, on the other hand, can be design
 
 With referring to four kinds of ***upādiņņaka āhāra*** which are csonsequence round among those four kinds of each ***upādiņņaka āhāra*** and ***anupādiņņaka āhāra***, the Supreme Buddha preached that “***cattāro āhāra taņhānidānā*** = four kinds of nutriment are conditioned by craving” etc., in ***Āhāra Sutta*** as mentioned above.*** 
 
-However, ***a-kammajaāhāra*** (nutriments produced by any factor other than kamma) can not exist without the origin called that craving and then it should be recognized it is appropriate to say they are also conditioned by craving. (***Mūlaţī-2-85, Mahāţī-2-243***) 
+However, ***a-kammajaāhāra*** (nutriments produced by any factor other than kamma) can not exist without the origin called that craving and then it should be recognized it is appropriate to say they are also conditioned by craving. (***Mūlaṭī-2-85, Mahāṭī-2-243***) 
 
 According  to  these  annotations,   these  all  kinds  of  nutriments,  viz,  (4)  kinds  of ***upādiņņaka āhāra*** and  (4) kinds of ***anupādiņņaka āhāra***, are concerning with this ***Āhāra Sutta***. 
 
 7. **The reason why only (4) kinds  of nutriments are preached** 
 
-Furthermore, in accordance with the explanation, “***paccayaţţho āhāraţţho***” (***Sam-A- 2-24***), found in commentary, the term, ***āhāra***, means ***paccayaţţha*** (= causality). Though there are many factors which are capable of benefiting continuity of corporeality & mentality of beings, the reason why only (4) kinds of nutriments are preached, is that \_\_\_\_ in accordance with  the  explanation,  “***ajjhattika  santatiyā  visesa  paccayyattā,***   =  internal  continuity  of corporeality & mentality, causes & results is conditioned significantly by those nutriments. 
+Furthermore, in accordance with the explanation, “***paccayaṭṭho āhāraṭṭho***” (***Sam-A- 2-24***), found in commentary, the term, ***āhāra***, means ***paccayaṭṭha*** (= causality). Though there are many factors which are capable of benefiting continuity of corporeality & mentality of beings, the reason why only (4) kinds of nutriments are preached, is that \_\_\_\_ in accordance with  the  explanation,  “***ajjhattika  santatiyā  visesa  paccayyattā,***   =  internal  continuity  of corporeality & mentality, causes & results is conditioned significantly by those nutriments. 
 
 1. ***kabaļīkāra  hāra***  =  palmful  ingested  nutriment  is  significant  factor  for  physical constituents of beings who takes ***kabaļīkāra hāra***. 
 1. ***phassāhāra***  (=  contact-nutriment)  is  significant  factor  of  feeling  among  all  kinds  of mental constituents (***nāmakāya***). 
@@ -1488,14 +1488,14 @@ Furthermore, in accordance with the explanation, “***paccayaţţho āhāraţţ
 1. ***Kabaļīkārāhāra*** can bear and give rice to occur pure octad corporelities with nutriment as eight factor, while 
 1. ***pahsssāhāra***, three kind of feeling, 
 1. ***manosañcetanāhāra***, three realms, 
-1. ***viññāņāhāra, paţisandhi*** mind-matter respectively 
+1. ***viññāņāhāra, paṭisandhi*** mind-matter respectively 
 
 **PAGE-49** 
 
 8. **Way of benefiting** 
 1. ***Kabaļīkārāhāra***\_\_\_\_\_  The  palmful  ingested  food  called  ***Kabaļīkārāhāra***  give  rise  to occur  pure  octad  corporealities  merely  ingested  in  the  buccalcavity  previously.  After grinding by teeth to be crushed to power when each single rice is swallowed (8) kinds of corporealities  called  pure  octad  corporealities  with  nutriment  as  eight  factor  can  be produced. Thus ***Kabaļīkārāhāra*** can bear pure octad corporealities. (***Sam-A2-24***) 
 
-[**Notes** \_\_\_\_\_ Before spreading throughout body, during reaching into mouth, throat, stomach etc., palmful ingested nutriment is group of pure octad corporealities produced by tempature only.When supporting factor of fire-element consisting in vital nonad produced by ***kamma (jīvitanavaka kaļāpa)*** is available each nutriment consisting in those pure octad produced by temperature can give rise to occur new pure octad corporealities with nutriment as eighth factor. In other words, it should be recognized that with referring to nutriment consisting in each corporeal unit produced by temperature, it explained that each single rice can give rise to occur new pure octads with nutriment as eight factor. (***Sam-ţī-2-26***) 
+[**Notes** \_\_\_\_\_ Before spreading throughout body, during reaching into mouth, throat, stomach etc., palmful ingested nutriment is group of pure octad corporealities produced by tempature only.When supporting factor of fire-element consisting in vital nonad produced by ***kamma (jīvitanavaka kaļāpa)*** is available each nutriment consisting in those pure octad produced by temperature can give rise to occur new pure octad corporealities with nutriment as eighth factor. In other words, it should be recognized that with referring to nutriment consisting in each corporeal unit produced by temperature, it explained that each single rice can give rise to occur new pure octads with nutriment as eight factor. (***Sam-ṭī-2-26***) 
 
 2. ***phassāhāra* \_\_\_\_** The contact which is benefit of agreeable feeling can bear and give rise to  occur  agreeable  feeling  at  the  moment  of  its  arising.  The  contact  which  is benefit  of disagreeable feeling can bear and give rise to occur disagreeable feeling at the moment of its arising. The contact which is benefit of neutral feeling can bear and give rise to occur neutral feeling at the moment of its arising. Thus contact-nutriment can bear and give rise to occur three kinds of feeling. (***Sam-A-2-24***) 
 
@@ -1503,25 +1503,25 @@ Furthermore, in accordance with the explanation, “***paccayaţţho āhāraţţ
 
 3. ***mano sañcetanāhāra*** \_\_\_\_\_ The action that causes to reach into sensual sphere bears sensual comingp-into-existence while those actions that cause to reach into fine material and immaterial  spheres  bear  respective  fine  material  and  immaterial  spheres.  Thus  volitional nutriment bears three kinds of sphere. (***Sam-A-2-24***) 
 
-Due  to  presence  of  preaching,  “***sańkhāra  paccaya  viññāņam***”,  the  volitional nutriment is the condition for arising of consciousness. “Volition (=action) give rise to occur three kinds of sphere”, preached by the Buddha. (***Sam-ţī-2-28***) 
+Due  to  presence  of  preaching,  “***sańkhāra  paccaya  viññāņam***”,  the  volitional nutriment is the condition for arising of consciousness. “Volition (=action) give rise to occur three kinds of sphere”, preached by the Buddha. (***Sam-ṭī-2-28***) 
 
-4. ***viññāņāhāra***\_\_\_\_\_ **Consciousness-nutriment** called ***paţisandhi*** consciousness can bear both three mental aggregates which are associating with that consciousness, and (30) kinds of corporealities produced by ***kamma***, which are occurring by means of corporeal continuity with  three  corporeal  units,  heart-decad,  body-decad,  sex-decad  through  the  efficiency  of relation of compatibility, resulting in bearing those mind-matter. It means, thus ***paţisandhi*** consciousness  
+4. ***viññāņāhāra***\_\_\_\_\_ **Consciousness-nutriment** called ***paṭisandhi*** consciousness can bear both three mental aggregates which are associating with that consciousness, and (30) kinds of corporealities produced by ***kamma***, which are occurring by means of corporeal continuity with  three  corporeal  units,  heart-decad,  body-decad,  sex-decad  through  the  efficiency  of relation of compatibility, resulting in bearing those mind-matter. It means, thus ***paṭisandhi*** consciousness  
 
 **PAGE-50** 
 
-***viññāņāhāra*** bears and gives rise to occur ***paţisandhi*** mind-matter. (***Sam-A-2-24***) ***Pāli Quotation (Sam-A-2-24, 25)*** 
+***viññāņāhāra*** bears and gives rise to occur ***paṭisandhi*** mind-matter. (***Sam-A-2-24***) ***Pāli Quotation (Sam-A-2-24, 25)*** 
 
-In  the  phrase,  “volitional  nutriment  bears  three  kinds  of  spheres”,  it  means  only wholesome volition and unwholesome volition which are objects of taint ***dhammas (āsava dhammas)***.  In  the  phrase,  “Consciousness  bears  mind-matter”,  it  means  ***paţisandhi*** consciousness only. 
+In  the  phrase,  “volitional  nutriment  bears  three  kinds  of  spheres”,  it  means  only wholesome volition and unwholesome volition which are objects of taint ***dhammas (āsava dhammas)***.  In  the  phrase,  “Consciousness  bears  mind-matter”,  it  means  ***paṭisandhi*** consciousness only. 
 
 Various kinds of consciousness can bear respective associating ***dhammas*** with itself in general. It can bear corporeality produced by itself. All kinds of consciousness should, therefore, be understood a nutriment (= ***viññāņāhāra***) (***Sam-A-2-24, 25***) 
 
-Among those four kinds of nutriments, ***kabaļīkārāhāra*** causes to finish the function of  nutriment  (=  gives  rise  to  occur  pure  octad  corporealities)  by  supporting  factor.  By producing pure octad corporalities with nutriment as eighth factor, supporting function for other kinds of corporealities produced by three factors called ***tijarūpa*** is also accomplished by ***kabaļīkārāhāra***. (***Sam-A-2-25, Sam-ţī-2-29***) 
+Among those four kinds of nutriments, ***kabaļīkārāhāra*** causes to finish the function of  nutriment  (=  gives  rise  to  occur  pure  octad  corporealities)  by  supporting  factor.  By producing pure octad corporalities with nutriment as eighth factor, supporting function for other kinds of corporealities produced by three factors called ***tijarūpa*** is also accomplished by ***kabaļīkārāhāra***. (***Sam-A-2-25, Sam-ṭī-2-29***) 
 
-Contact-nutriment accomplished the function of nutriment by making coming into contact with object only, while volitional nutriment accomplishes it function of nutriment by urging and negotiating only, consciousness-nutriment accomplishes its function of nutriment by  distinguishing  on  any  kind  of  objects  among  three  kinds,  viz,  action,  sign  of  action performing, sign of destination, which are objects of  ***paţisandhi*** consciousness, which were objects of  impulsions of near death-consciousness of previous life. 
+Contact-nutriment accomplished the function of nutriment by making coming into contact with object only, while volitional nutriment accomplishes it function of nutriment by urging and negotiating only, consciousness-nutriment accomplishes its function of nutriment by  distinguishing  on  any  kind  of  objects  among  three  kinds,  viz,  action,  sign  of  action performing, sign of destination, which are objects of  ***paṭisandhi*** consciousness, which were objects of  impulsions of near death-consciousness of previous life. 
 
 **I Futher explanations\_\_\_\_\_\_** 
 
-**1.  *kabaļīkārāhāra*** \_\_\_\_ Only when supporting factor of palmful ingested nutriment called ***kabaļīkārāhāra*** is available physical constituents can be maintained for long lasting and then ***kabaļīkārāhāra*** is a factor for existing of beings throughout life. Although these all kinds of physical constituents originate  at the  moment of ***paţisandhi*** due to previous action, only when supporting factor of palmful ingested mnutriment is available, can the being exist throughout life (10) years or (100) years really. 
+**1.  *kabaļīkārāhāra*** \_\_\_\_ Only when supporting factor of palmful ingested nutriment called ***kabaļīkārāhāra*** is available physical constituents can be maintained for long lasting and then ***kabaļīkārāhāra*** is a factor for existing of beings throughout life. Although these all kinds of physical constituents originate  at the  moment of ***paṭisandhi*** due to previous action, only when supporting factor of palmful ingested mnutriment is available, can the being exist throughout life (10) years or (100) years really. 
 
-Worldly simile is that \_\_\_\_\_even though the mother brings into the world young kid, only  when  wetnurse  feeds  with  feedin-bottle,  can  young  kind  survives  for  long  time. Similary\_\_\_\_\_Only  when  ***kabaļīkārāhāra***  supports  it  can  these  physical  constituents continue to exist for long time. The function of nutriment can be finished completely. The nutriments  produced  by  four  orign  (***catusamuţţthānika  ojā***)  can  give  rise  to  occur corporealities  Produced  by  nutriment  (***āhārajarūūpa).***Please  see  on  Section  of ***rūpalammaţhāna)*** 
+Worldly simile is that \_\_\_\_\_even though the mother brings into the world young kid, only  when  wetnurse  feeds  with  feedin-bottle,  can  young  kind  survives  for  long  time. Similary\_\_\_\_\_Only  when  ***kabaļīkārāhāra***  supports  it  can  these  physical  constituents continue to exist for long time. The function of nutriment can be finished completely. The nutriments  produced  by  four  orign  (***catusamuṭṭthānika  ojā***)  can  give  rise  to  occur corporealities  Produced  by  nutriment  (***āhārajarūūpa).***Please  see  on  Section  of ***rūpalammaṭhāna)*** 
 
