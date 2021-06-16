@@ -381,7 +381,7 @@ The advantages are\_\_\_\_\_ corporeal ***dhammas*** are very clarified thorough
 
  In this stage (10) kinds of non-real corporealities must be omitted from list of objects of ***vipassanā*** knowledge because those corporealities are not worth discerning as three general characters in ***viapassanā*** practice. Therefore only real corporealities occurring in (6) doors, (42) bodily parts must be discerned as priority, as mentioned in tables of ***rūpakammaṭṭhāna***, Volume I. 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3
 Translated by - ***Aññatara Bhikkhu*** \*  PAGE   \\* MERGEFORMAT 3
 
  During discerning in that way all kinds of real corporealities occurring in (6) doors, (42) bodily parts can be discerned on the whole as he likes. However if the ***meditator*** is immatured in knowledge, those real corporealities occurring in either each door or each bodily part can be discerned on the whole. 
@@ -1470,4 +1470,4 @@ Furthermore, for past internal corporealities,
 
 
 PAGE-51 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3

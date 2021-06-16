@@ -423,7 +423,7 @@ The Earth-element in the same unit-group of matter which has the quality of bein
 
 If the meditator can discern the matters in living and non-living object, continue to discern the 4 Basic-Elements in these soil and metal blocks, exist in the external world. *(Bahiddha loka). He* will see particles of group of matter only. On analysing these groups of matter again, he will see that one group of matter is composed of 8 units (8 types) of Ultimate-real matters. These are the Temperature (=  the Fire-element)-produced-nutritiveessense-as-the eighth-factor unit -group of matters which arc arising one after another in succession in a group of matter. These are continuously arising so far as the power of the Fire-element (=Temperature) is persisting. Since, the life-span of these matters are equal to the time occupied by 17 Consciousness-moments (17-*Cittakkhana)*, new groups of matter will be arising before passing-away of the. previously formed groups of matters. This is the natural J. aw of matters;and this is how the newer groups of matter are arising before the passing-away of previously existing groups of matter in the solid block of soil or metal. So; in these natural processes; the Water -element of the same unit group of matter in solid block like alloys; exerts its power of cohesion only when there is underlying supports which arc exerted by the Earth-element which are present in previous unit-group of matters at the period of static-moment *(thiti)* of matter, still not passing-away and the newly arising Earth-element of the same unit-groups of matter. Th'e nature of cohesion can take place only when there is organLzable matters like the Earth-element. That is why the Basic-elements like the Earthelements in the previously formed groups of matters and those which are arising along with the Water -element in the same unit -group are the main proximate causes for the Waterelement to exert its function of cohesion. In case of metal blocks, the Space -element *(AkasadhBtu )* among the various groups of matter is narrow; so that the each and individual matters 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3
 Translated by – ***Dr Nyunt Lwin (Surgeon)*** \*  PAGE   \\* MERGEFORMAT 3
 
 occur in very intimate relation. So the metal blocks are condensed and heavy. In soil blocks;the Space-element is wide, so these are not heavy as metal block.  
@@ -1983,4 +1983,4 @@ So, when a meditator is discerning:—---
 
 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3

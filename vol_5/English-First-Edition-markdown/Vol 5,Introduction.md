@@ -343,7 +343,7 @@ words, he must develop any kind of concentration of two kinds called access conc
 
  The term, ***udayatthagāminiyā***, means capable of penetrative knowing and seeing on phenomena of arising and perishing away of five clinging aggregates. The term, ***ariyāya***, means pure and noble realization, due to lying distance from defilements by means of long lasting removing ability (***vikkhambhana pahāna***), i.e., one hour, two hours etc., in ***samatha*** stage; and by means of absolute eradication (***samuccheda pahāna***) during the Noble Path (moment). The term, ***paññāya samannāgato***, means it has fulfilled both ***vipassanā*** knowledge 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3
 Translated by - ***Aññatara Bhikkhu*** \*  PAGE   \\* MERGEFORMAT 3
 
 **NIBBĀNA GĀMINIPAṭIPADĀ** (Pa-Auk Tawya Sayadaw)** 
@@ -404,4 +404,4 @@ Supramundane ***dhammas***, he has to perform the practice
 
 ***Cittala pabbata Vihāra, Pa-Auk Forest Monastery*** 
 ## `        `**Monday, 9th waxing of the  moon, Pyatho Myanmar Era 1356 Translated by: *Aññatara Bhikkhu*, 12.9.2005 Finished** 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3

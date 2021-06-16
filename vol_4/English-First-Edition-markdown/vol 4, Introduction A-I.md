@@ -440,7 +440,7 @@ There are (4) types of Compactness known as (1) Compactness of consciousness of 
 
 Causative phenomena or Resultant phenomena (= ***Paccaya** **dhamma**, **Paccayuppana** **dhamma**)*, in the various situations and the nature of which are difficult to be perceived; since these phenomena are compacted in continuity, mass, function and various senses. This 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3
 Translated by-**Dr Nyunt Lwin (SURGEON)** \*  PAGE   \\* MERGEFORMAT 3
 ####  **\* NIBBĀNA GĀMINIPAṭIPADĀ** (Pa-Auk Tawya Sayadaw)** 
 phenomena are known as Compactness as Continuity, Compactness as Mass, Compactness as Duty and Compactness as Sens-object respectively (= ***Santatighana**, **Samuha** **ghana**, **Kicca** **ghana**, **Arammana** **ghana**)*. [ The descriptions of (4) types of Compactness  
@@ -530,4 +530,4 @@ with Insight knowledge to the Corporeality and Mentality in terms of Character-E
 Pa-Auk Forest  
 
 ` 	 	 	 	 	 	 	 	`Buddhist Era -- 2538   	 	 	 	 	 	 	 	Myanmar Era -- 1356  	 	 	 	 	 	 	 	Month of Wagaung. 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3

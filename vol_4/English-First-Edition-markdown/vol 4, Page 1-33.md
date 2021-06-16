@@ -426,7 +426,7 @@ Supremundane Paths, Fruitions and ***Nibbāna*** without any discernment of Corp
 
  Again, listen or read the practice of  \_\_\_\_\_ *Ditthe ditthamattam*  \_\_\_\_\_ taught by the Buddha to Future Venerable *Bahiyadaruciriya* which was mentioned in the Chapter of meditation on Mentality. After listening or reading that ***Pāli*** verse, assess yourself as whether you are able to attain the Fruition of Holiness (= *Arahatta phala*) like Venerable *Bahiyadaruciriya* Arahat. If the answer is “Unable to attain the Fruition of Holiness”, -- then you are not suitable to stand shoulder to shoulder with Venerable *Bahiyadaruciriya* Arahat. So, all you man and woman of good lineage or family who want to attain true and right Doctrinal teachings should have belief and pure wise attention to the Doctrinal teachings 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3
 Translated by-**Dr Nyunt Lwin (SURGEON)** \*  PAGE   \\* MERGEFORMAT 3
 
 given by the enlightened Buddha or to the explanations given in the various Commentaries to know the meanings of these teachings . 
@@ -1050,4 +1050,4 @@ Knowledge of Distinction between Mind and Body (= ***nāmarūpa** **pariccheda**
 `   `Try to understand about other Transparent elements like the Ear-transparent element, etc, etc, in similar way as explained for this Eye-transparent element. 
 
 
-`	 	 `PAGE   \\* MERGEFORMAT 3
+ PAGE   \\* MERGEFORMAT 3
