@@ -189,7 +189,6 @@ This book belongs to the Public Domain and may be reproduced without any further
 
 
 **Application of Mindfulness on the Process of Cognition and Volition** 
-
 **(*Dhammānupassanā saṭtipaṭṭhāna*)** 
 
 
@@ -201,40 +200,32 @@ This book belongs to the Public Domain and may be reproduced without any further
  = O....... Monks,.... here in this Teaching (= ***Sāsanā***), a monk  \_\_\_\_\_ has repeated contemplation in the phenomena of the (5) Groups of Existence which form the objects of Clinging (= ***Upādanakkhandhā***) as Natural Phenomena (= ***Dhamma** **sabhāva***) in the following way, (***Dī-2-239***. ***Mahāsaṭtipaṭṭhāna*** ***sutta*** ***dhammānupassanā khandhapabba***.)  \_\_\_\_\_ 
 
 1.(a) This is Corporeality,  
-
 2) This is the nature of cause and arising of the Corporeality, 
 2) This is the nature of degeneration and passing away of the Corporeality. 
 
 2.(a) This is the phenomenon of Feeling, 
-
 2) This is the cause and arising of the Feeling, 
 2) This is the nature of degeneration and passing away of the Feeling. 
 
 3.(a) This is the nature of Perception, 
-
 (b) This is the nature of cause and arising of the Perception, (c) This is the degeneration and passing away of the Perception. 
 
 4.(a) These are the nature of Mental Formations (Mental concomitants), 
-
 2) This is the cause and arising of these Mental Formations, 
 2) This is the nature of degeneration and passing away of these Mental Formations. 
 
 5.(a) This is the consciousness,  
-
 2) This is the cause and arising of consciousness, 
 2) This is the nature of degeneration and passing away of consciousness. 
 
- Again, in the above Discourse of the Practice in the Foundation of Mindfulness (= ***Saṭtipaṭṭhāna***)  \_\_\_\_\_ 
+ Again, in the above Discourse of the Practice in the Foundation of Mindfulness
+  (= ***Saṭtipaṭṭhāna***)  \_\_\_\_\_ 
 
-` 	`The Buddha teaches the ***meditators*** and Monks to have repeated contemplation in the 
+The Buddha teaches the ***meditators*** and Monks to have repeated contemplation in the phenomena of the (5) Groups of Existence which form the Objects of Clinging as  Natural Phenomena in the following ways: \_\_\_\_\_  
 
-phenomena of the (5) Groups of Existence which form the Objects of Clinging as  
-
-Natural Phenomena in the following ways: \_\_\_\_\_  1. This is the nature of Corporeality = ***Iti rūpam***.* 
-
+1. This is the nature of Corporeality = ***Iti rūpam***.* 
 2. This is the nature of Feeling = ***Iti vedenā***. 
 2. This is the nature of Perception = ***Iti saññā***. 
-**
 
 ## **PAGE-2** 
 
@@ -242,9 +233,7 @@ Natural Phenomena in the following ways: \_\_\_\_\_  1. This is the nature of Co
 4. These are the nature of Mental Formations = ***Iti Saṅkhāra***. 
 4. This is the nature of consciousness = ***Iti viññāṇa***. 
 
-`	 	`To above Buddha's teachings, the Commentary and Subcommentary give   
-
-following explanations:  \_\_\_\_\_ 
+To above Buddha's teachings, the Commentary and Subcommentary give   following explanations:  \_\_\_\_\_ 
 
 ***Pāli Quotation (Dī-A-2-253, Sam-A-2-44,45)*** 
 \***
@@ -254,7 +243,12 @@ following explanations:  \_\_\_\_\_
 
 
 
-**Question  \_\_\_\_\_**The Buddha instructs the Meditating monk to contemplate the (5) Groups of Clinging (= ***Upādanakkhandhā***) repeatedly as \_\_\_\_\_ this is Corporeality ; this is the Feeling; this is the Perception; this is the Mental formations and this is the consciousness. If so, there in a question how to contemplate the (5) Groups of Clinging with the Knowledge of Right view (= ***Sammādiṭṭhi ñāṇa***) by the meditating monk. 
+**Question  \_\_\_\_\_**The Buddha instructs the Meditating monk to contemplate the (5) Groups of Clinging (= ***Upādanakkhandhā***) repeatedly as \_\_\_\_\_ 
+this is Corporeality ; 
+this is the Feeling; 
+this is the Perception; 
+this is the Mental formations and this is the consciousness. 
+If so, there in a question how to contemplate the (5) Groups of Clinging with the Knowledge of Right view (= ***Sammādiṭṭhi ñāṇa***) by the meditating monk. 
 **
 
 
@@ -264,7 +258,8 @@ following explanations:  \_\_\_\_\_
 
 
 
-1. This is corporeality. This is the extent of the Corporeality. The Corporeality is not more than that. The nature of alterations (= ***Rūppana sabhāva***); that is the occurrence of Corporeality-continuum (= ***Rūpa** **santati***) of the preceeding Corporeality and the following Corporeality are quite different due to various causes like heat and cold  \_\_\_\_\_ and varieties of different (28) types of Materiality like Primary elements and Derived Materialities, are completely seized on with Insight knowledge in terms of Character-Essence-Perception and Proximate cause. (= ***Lakkhaṇa, Rasa, Paccupaṭṭhāna, Padaṭṭhāna**)*. So; it means that, all the Corporealities should be completely discerned to know their nature in terms of Character, Essence, Perception and Proximate cause. 
+1. This is corporeality. This is the extent of the Corporeality. The Corporeality is not more than that. The nature of alterations (= ***Rūppana sabhāva***); that is the occurrence of Corporeality-continuum (= ***Rūpa santati***) of the preceeding Corporeality and the following Corporeality are quite different due to various causes like heat and cold  \_\_\_\_\_ and varieties of different (28) types of Materiality like Primary elements and Derived Materialities, are completely seized on with Insight knowledge in terms of Character-Essence-Perception and Proximate cause. (= ***Lakkhaṇa, Rasa, Paccupaṭṭhāna, Padaṭṭhāna***). 
+So; it means that, all the Corporealities should be completely discerned to know their nature in terms of Character, Essence, Perception and Proximate cause. 
 
 ` 	 	`In case of, “This is the phenomena of Feeling” etc:  \_\_\_\_\_ the ***meditator*** should discern like,  
 
@@ -292,31 +287,33 @@ following explanations:  \_\_\_\_\_
 2. Various nature of the Aggregate of Mental Formation like the Contact, Volition etc etc., 
 2. Various nature of the Aggregate of consciousness like Seizing consciousness etc etc., 
 
-` 	`Since, the Buddha wants to mention the total and complete discernment of the  
+` 	`Since, the Buddha wants to mention the total and complete discernment of the  Feeling, Perception, Conditioning forces and consciousness in terms of Character-  EssencePerception and Proximate cause, a ***meditator*** should try to perceive the nature of Feeling, Perception, Conditioning forces and consciousness in terms of Character-Essence-Perception and Proximate cause. 
+(***Dī-A-2-53, Sam-A-2-44,45.***) 
 
-Feeling, Perception, Conditioning forces and consciousness in terms of Character-  EssencePerception and Proximate cause, a ***meditator*** should try to perceive the nature of Feeling, Perception, Conditioning forces and consciousness in terms of Character-Essence-Perception and Proximate cause. (***Dī-A-2-53, Sam-A-2-44,45.***) 
-
- Take care of the words like  \_\_\_\_\_ ***Anavasesarūpa pariggaho vutto....(pa). Anavasesa vedanā saññā Saṅkhāravinññāṇa pariggaho vutto***  \_\_\_\_\_in the above Commentaries. The Buddha instructs for total and complete discernment of the (5) Groups of existence which form the objects of Clinging (= ***Upādanakkhandhā**)* like CorporealityFeeling-Perception- Conditioning forces and consciousness in terms of Character, Essence, Perception and Proximate cause. 
+ Take care of the words like  \_\_\_\_\_ ***Anavasesarūpa pariggaho vutto....(pa). ***
+ ***Anavasesa vedanā saññā Saṅkhāravinññāṇa pariggaho vutto***  \_\_\_\_\_in the above Commentaries. 
+ The Buddha instructs for total and complete discernment of the (5) Groups of existence which form the objects of Clinging (= ***Upādanakkhandhā***) like CorporealityFeeling-Perception- Conditioning forces and consciousness in terms of Character, Essence, Perception and Proximate cause. 
 
 ` 	`The Buddha does not instruct just to seize on:  \_\_\_\_\_ 
 
 1. Only one Materiality, or  
 1. Only one Mentality, or  
-1. Only one on the part of Materiality or on the part of Mentality in terms of Character, Essence, Perception and Proximate cause. Instead, the Buddha instruct to perform total and complete (= *Anavasesa*) discernment of the Corporeality, Feeling, Perception, Conditioning forces and consciousness with Knowledge. So, the explanation that the ***nibbāna*** is attainable by discernment of just only one kind of Materiality element or mentality-element or only one on the part of Materiality or on the part of mentality, is the concept deviated from the instructions described in the Discourse of the Buddha. 
+1. Only one on the part of Materiality or on the part of Mentality in terms of Character, Essence, Perception and Proximate cause. 
 
- According to the above ***Pāli*** scriptures, Commentaries and Subcommentaries; a noble ***meditator*** should discern the: \_\_\_\_\_ 
+Instead, the Buddha instruct to perform total and complete (= *Anavasesa*) discernment of the Corporeality, Feeling, Perception, Conditioning forces and consciousness with Knowledge. 
+So, the explanation that the ***nibbāna*** is attainable by discernment of just only one kind of Materiality element or mentality-element or only one on the part of Materiality or on the part of mentality, is the concept deviated from the instructions described in the Discourse of the Buddha. 
 
- 1. Character, Essence, Perception and Proximate cause of the appropriate (28) types of 
+According to the above ***Pāli*** scriptures, Commentaries and Subcommentaries; a noble ***meditator*** should discern the: \_\_\_\_\_ 
 
-Corporeality like; (4) Primary elements (= ***Bhuta** **rūpa***), and Derived corporealies (= ***Upāda** **rūpa***) or the type of Corporeal Element like Earth element, Water-element Fireelement and Wind-element,  
+ 1. Character, Essence, Perception and Proximate cause of the appropriate (28) types of Corporeality like; (4) Primary elements (= ***Bhuta rūpa***), and Derived corporealies (= ***Upāda rūpa***) or the type of Corporeal Element like Earth element, Water-element Fireelement and Wind-element,  
 
 
 ## **PAGE-4**  
 
 
-2. Bodily agreeable feeling, Bodily disagreeable feeling, Mentally agreeable feeling, Mentally disagreeable feeling, Indifferent Mental feeling (= ***Sukha vedanā, Dukkha vedanā, Somanassa vedanā, Domanassa vedanā, Upekkha vedanā**)* and Character, Essence, Perception and Proximate Cause of each and every Kinds of Feeling, 
+2. Bodily agreeable feeling, Bodily disagreeable feeling, Mentally agreeable feeling, Mentally disagreeable feeling, Indifferent Mental feeling (= ***Sukha vedanā, Dukkha vedanā, Somanassa vedanā, Domanassa vedanā, Upekkha vedanā***) and Character, Essence, Perception and Proximate Cause of each and every Kinds of Feeling, 
 2. Visual perception, Auditory perception, Olfactory perception, Gustatory perception, Tactile perception, Mind-object perception and Character, Essence, Perception and proximate cause of each and every types of Perception (= ***Saññā***),  
-2. (50) types of Mental concomitant included in the Aggregate of Mental formation like the Contact, Volition, Concentration, Vitality and Advertence (= ***Phassa**, **Vedanā**, **Ekaggatā, Jivitindriya, Manasīkāra**)* and Character, Essence, Perception and Proximate cause of each and every types of these Mental concomitants,  
+2. (50) types of Mental concomitant included in the Aggregate of Mental formation like the Contact, Volition, Concentration, Vitality and Advertence (= ***Phassa , Vedanā, Ekaggatā, Jivitindriya, Manasīkāra***) and Character, Essence, Perception and Proximate cause of each and every types of these Mental concomitants,  
 2. Various consciousness like seeing consciousness, Hearing consciousness, Smelling  consciousness, Tasting consciousness, Body- consciousness and Mind consciousness and the Character, Essence, Perception and Proximate cause of each and every types of these consciousness. 
 
  You noble person who want to attain True teaching of the Buddha should firmly take care of this fact regarding the method of meditation, in the mind somewhat like “a nail firmly hammered in the head” described in Burmese proverb. 
@@ -324,9 +321,8 @@ Corporeality like; (4) Primary elements (= ***Bhuta** **rūpa***), and Derived c
 
 
 
-## ` 	 	 	 	   `**It is not Comparable Matter** 
+## It is not Comparable Matter
 Heretical ascetic (= *Paribbajaka*) named *Upatissa* who was future Venerable  
-
 *Sariuputta Arahat* attained the Fruition of Stream-Winning (= ***Sotāpatti phala***) after hearing a single phrase of the Doctrine as \_\_\_\_\_ “**y*e dhammā hetuppabhavā***” from Venerable *Assaji Arahat*. Next, heretical ascetic named *Kolita* who was future Venerable *Mahāmoggallāna Arahat* also attained the Fruition of Stream-Winning after hearing a single phrase of the Doctrine as \_\_\_\_\_ “***Ye dhammā hetuppabhavā**”* from Venerable *Sariputta Arahat.* Future Venerable *Bahiyadaruciriya Arahat* attained the Fruition of Arahat or Holiness after hearing concise Doctrine of Practice as “***Diṭṭhe diṭṭha mattam***” from the Buddha. (as described in the Chapter of Meditation on Mentality). 
 
  All these Venerable Arahat, probably have no time for detailed and complete  contemplation on the Materiality and Mentality. And, so some wrongly ask like “How can they have enough time to discern each and every types of Materiality and Mentality in terms of Character, Essence, Perception and Proximate cause?” They wrongly give arguments to the attainment of the Holiness by these Arahats. If you noble ***meditator*** also have some doubt regarding to this matter, read the following words. 
@@ -343,7 +339,9 @@ Heretical ascetic (= *Paribbajaka*) named *Upatissa* who was future Venerable
 
 
 
- The Pre-eminent disciples (= ***Aggasāvaka***) like Venerable *Sariputta* Arahat and Venerable ***Mahāmoggallāna*** Arahat, developed the Perfections of Virtue (= ***Pārami***) for one infinite number of years plus one hundred thousands world cycles in their past existences as Future Pre-eminent disciples to attain the Enlightenment = Perception of the Four Noble Truths as Pre-eminent Disciples (= ***Aggasāvaka bohiññana***). Future Venerable *Bahiyadaruciriya* developed the Perfections of Virtue for one hundred thousands worldcycles to become Virtuous disciple (= ***Mahāsāvaka***) who attained Pre-eminence (= *Etadagga*) in the Ability to perform miracles through higher psychic power and  knowledge. (= ***Khippābhiñña etadagga***). All these Venerable Arahats attained (4) kinds of Analytical intellect (= ***Paṭisambhidā***) after learning in the Teachings of the Gotama Buddha and known as Analytical intellect-attained Holy Ones (= ***Paṭisambhidā patta arahanta***).  
+ The Pre-eminent disciples (= ***Aggasāvaka***) like Venerable *Sariputta* Arahat and Venerable ***Mahāmoggallāna*** Arahat, developed the Perfections of Virtue (= ***Pārami***) for one infinite number of years plus one hundred thousands world cycles in their past existences as Future Pre-eminent disciples to attain the Enlightenment = Perception of the Four Noble Truths as Pre-eminent Disciples (= ***Aggasāvaka bohiññana***). 
+ Future Venerable *Bahiyadaruciriya* developed the Perfections of Virtue for one hundred thousands worldcycles to become Virtuous disciple (= ***Mahāsāvaka***) who attained Pre-eminence (= *Etadagga*) in the Ability to perform miracles through higher psychic power and  knowledge. (= ***Khippābhiñña etadagga***). 
+ All these Venerable Arahats attained (4) kinds of Analytical intellect (= ***Paṭisambhidā***) after learning in the Teachings of the Gotama Buddha and known as Analytical intellect-attained Holy Ones (= ***Paṭisambhidā patta arahanta***).  
 
  The (4) Kinds of Analytical intellect can provide the ability to know the true nature of the various aspects in two existences like the existence as Noble Learner  (= *Sekkha bhumi*) where the mental continuum is occupied with the 4 Supramundane Paths and the 3 Lower Fruitions of Noble Learner; and the existence as one Beyound Training (= *Asekkha bhumi*), where Mental continuum is occupied with the Fruition of Holiness (= *Arahatta-phala*) of No more Learner (= *Asikkha puggala*).  
 
@@ -351,16 +349,16 @@ Heretical ascetic (= *Paribbajaka*) named *Upatissa* who was future Venerable
 
  In case of the Analytical intellect of the various persons like Venerable *Ananda*, Wealthy *Citta*, *Dhammika* (the male devotee of the Three Gems = *Upasakā*), Wealthy *Upāli*, and *Khujjuttara* (the female devotee of the Three Gems), that Analytical intellect provides the Knowledge of true nature in various aspects as soon as they reached the existence as Noble Learner.  
 
- [ Venerable ***Ānanda*** attained the (4) kinds of Analytical intellect as soon as he realized the Knowledge of the Path of Stream-Winner and the Knowledge of the Fruition of Stream-Winner. Wealthy *Citta* and *Dhammika* the male devotee of the Three Gems attained (4) kinds of Analytical intellect as soon as they realized the Knowledge of the Path of NonReturn and Fruition of Non-Return. Wealthy *U**Pāli*** and *Khujjuttara* the female devote of the Three Gems attained (4) kinds of Analytical intellect as soon as they realized the Knowledge of the Path and Fruition of Stream-Winner. ] 
+ [ Venerable ***Ānanda*** attained the (4) kinds of Analytical intellect as soon as he realized the Knowledge of the Path of Stream-Winner and the Knowledge of the Fruition of Stream-Winner. 
+ Wealthy *Citta* and *Dhammika* the male devotee of the Three Gems attained (4) kinds of Analytical intellect as soon as they realized the Knowledge of the Path of NonReturn and Fruition of Non-Return. 
+ Wealthy *U**Pāli*** and *Khujjuttara* the female devote of the Three Gems attained (4) kinds of Analytical intellect as soon as they realized the Knowledge of the Path and Fruition of Stream-Winner. ] 
 
  As described above, the disciples in both kinds of Existences as Noble Learners and One Beyond. Training (= *Sekkha, Asekkha*) are able to attain the Analytical intellect. These Analytical intellects are pure in nature due to following (5) causes.  
 
 1. Attained Absorption and Fruition of Holiness (= *Adhigama*) = Attainment of the Fruition of Holiness without interruption after the Knowledge of Path and Fruition.  
-1. Learning of the Buddhist Doctrine (= ***Pariyatti**)* = Learning and recitation of the  education in the Buddhist scriptures,  
+1. Learning of the Buddhist Doctrine (= ***Pariyatti***) = Learning and recitation of the  education in the Buddhist scriptures,  
 1. Listening to Sermons (= *Savana*) = Listening and hearing the explanations in the Commentaries of the Buddhist Instructions or Doctrines. 
-1. Questioning (= *Paripuccha*) = Asking and Learning the meaning (= *Pad**Aṭṭha***), and  Intention (= *Adhippay**Aṭṭha***) of the difficult words and phrases in the Commentaries of the ***Pāli*** Scriptures, (Asking and Learning the meaning and Intention, regarding the Aggregates, Bases, Elements, Truths, and Dependent Origination = ***Khandhā*, *āyatana*,** 
-
-***Dhātu*, *Sacca*, *Paticca samuppāda***)  
+1. Questioning (= *Paripuccha*) = Asking and Learning the meaning (= *Pad**Aṭṭha***), and  Intention (= *Adhippay**Aṭṭha***) of the difficult words and phrases in the Commentaries of the ***Pāli*** Scriptures, (Asking and Learning the meaning and Intention, regarding the Aggregates, Bases, Elements, Truths, and Dependent Origination = ***Khandhā*, *āyatana*,** ***Dhātu*, *Sacca*, *Paticca samuppāda***)  
 
 
 ## **PAGE-6** 
@@ -378,18 +376,16 @@ Heretical ascetic (= *Paribbajaka*) named *Upatissa* who was future Venerable
  The remaining Diciples (= *Sāvaka*), attain the Analytical intellect based on all kinds of above (5) causes.                 (***Vs***-2-72.)  
 
 1. Analytical intellect which is able to analyse the meaning of the Truth of Suffering (= ***Dukkha** **sacca***) is known as “Analytical intellect in the meaning” (= ***Aṭṭha** **Paṭisambhidā** **ñāṇa**)*:  \_\_\_\_\_ ie:- the Knowledge of the Effect of the Cause is known as Analytical intellect in the meaning (= ***Aṭṭha** **Paṭisambhidā***).  
-1. Analytical intellect which is able to know the cause of sufferings or the Origin of Suffering 
-
-(= ***Samudaya** **sacca**)* is known as “Analytical intellect to discern Various phenomena”(= ***Dhamma** **Paṭisambhidā** **ñāṇa***): ie.,\_\_\_ the Knowledge of the cause is known as “Analytical intellect to discern various phenomena”. 
+1. Analytical intellect which is able to know the cause of sufferings or the Origin of Suffering (= ***Samudaya** **sacca***) is known as “Analytical intellect to discern Various phenomena”(= ***Dhamma** **Paṭisambhidā** **ñāṇa***): ie.,\_\_\_ the Knowledge of the cause is known as “Analytical intellect to discern various phenomena”. 
 
 1. The intellectual ability to know the natural meaning and phenomena which are known as the Truth of Suffering and the Truth of the Origin of Suffering; especially the Ability to produce logical explanations of grammatical meanings of difficult words in the Doctrinal Scriptures is known as “Analytical intellect of grammatical usage” (= ***Nirutti** **Paṭisambhidā** **ñāṇa***).  
 1. The ability to explain lucidly in above Analytical intellect in the meaning, Analytical intellect to discern various phenomena and Analytical intellect of grammatical usage (= ***AṭṭhaPaṭisambhidā** **ñāṇa**, **DhammaPaṭisambhidā** **ñāṇa**, **Nirutti** **Paṭisambhidā** **ñāṇa***) is known as “Analytical intellect- ability to explain in terms of grammatical and contextually designated meaning”(= ***Patibhāna** **Paṭisambhidā** **ñāṇa***).          (***Abhi-2-307308. Vs-2-70-72.***)  
 
-` 	`As 	described 	above, 	the 	Venerable 	*Sariputtara*, 	*Mahāmoggallana* 	and  
-
-*Bahiyadaruciriya* attained the Analytical intellect as soon as they reached the Path and  
-
-Fruition of Holiness. So, to attain above special intellects and knowledges , the two  Pre-eminent disciples (= *Aggasavaka*) had already developed the Perception of Virtues  and various causes to fulfil the attainment of these knowledges for one infinite number of years plus one hundred thousands world-cycles and the Venerable *Bahiyadaruciriya* for about hundred thousands world-cycles in their past existences in the Teachings of Previous Lord Buddhas. Among the (5) causes, the causes in connection with **former actions   (= *Pubbayoga)*** will be specially mentioned in this instance. These Venerable Holy Arahats had already contemplated repeatedly the Conditioning phenomena (= ***Saṅkhāra** **dhamma**)* until they reached Perceptivity to regard Conditioned phenomena with indifference (= ***Saṅkhārupekkhā** **ñāṇa***) which arises near the Adaptation knowledge and Maturity- knowledge. (= ***Anuloma** **ñāṇa**, **Gotarabhū ñāṇa***). In other words:  \_\_\_\_\_ 
+As 	described 	above, 	the 	Venerable 	*Sariputtara*, 	*Mahāmoggallana* 	and  *Bahiyadaruciriya* attained the Analytical intellect as soon as they reached the Path and  Fruition of Holiness. 
+So, to attain above special intellects and knowledges , the two  Pre-eminent disciples (= *Aggasavaka*) had already developed the Perception of Virtues  and various causes to fulfil the attainment of these knowledges for one infinite number of years plus one hundred thousands world-cycles and the Venerable *Bahiyadaruciriya* for about hundred thousands world-cycles in their past existences in the Teachings of Previous Lord Buddhas. 
+Among the (5) causes, the causes in connection with **former actions   (= *Pubbayoga)*** will be specially mentioned in this instance. 
+These Venerable Holy Arahats had already contemplated repeatedly the Conditioning phenomena (= **Saṅkhāra** **dhamma**) until they reached Perceptivity to regard Conditioned phenomena with indifference (= ***Saṅkhārupekkhā ñāṇa***) which arises near the Adaptation knowledge and Maturity- knowledge. (= ***Anuloma* ñāṇa**, **Gotarabhū ñāṇa***). 
+In other words:  \_\_\_\_\_ 
 
 
 ## **PAGE-7** 
@@ -397,21 +393,21 @@ Fruition of Holiness. So, to attain above special intellects and knowledges , th
 
 1. These Venerable Holy Arahats had already discerned and known the (5) groups of existence which form the Objects of Clinging (= ***Upādānakkhandhā***) and exist in (11) aspects like Past, Future, Present, Internal, External, Gross, Subtle, Low, Lofty,  Faraway, Near \_\_\_\_\_ (= ***Atita, Anāgata, Paccupana, Ajjhatta, Bahiddha, Olārika, Sukhuma, Hina, Panita, Dura, Santika***) -- all these are known as the Truth of Suffering (= ***Dukkha** **sacca***) . All these phenomena were repeatedly discerned with knowledge in terms of Character, Essence, Perception and Proximate cause.  
 1. The relation between Cause and Effects = Dependent Origination which are the Truth of Origin of Suffering (= ***Samudaya** **sacca***) had already discerned and known. The various constituents of Dependent origination were repeatedly contemplated with knowledge in terms of Character, Essence, Perception and Proximate Cause.  
-1. 3.  All these Conditioned phenomena (= ***Saṅkhāra** **dhamma***) which are known as the Truth of suffering and the Truth of Origin of Suffering had already discerned with Insight Knowledge in terms of the (3) Characteristics of existence (= ***ṭī**- **lakkhana***). The nature of Impermanency, Suffering and Not-Self (= ***Anicca**, **Dukkha**, **Anatta***) in these Conditioned phenomena had already perceived by themselves with Insight Knowledge and Right view. They had tried to attain Perceptivity to regard Conditioned phenomena with indifference (= ***Saṅkhārupekkhā ñāṇa**)* and with this Knowledge they felt indifferent     (= *Udasina*) to the nature of Impermancy, Suffering and Not-Self of these Conditioned phenomena.  
+3.  All these Conditioned phenomena (= ***Saṅkhāra dhamma***) which are known as the Truth of suffering and the Truth of Origin of Suffering had already discerned with Insight Knowledge in terms of the (3) Characteristics of existence (= ***ṭī-lakkhana***). The nature of Impermanency, Suffering and Not-Self (= ***Anicca, Dukkha,   Anatta***) in these Conditioned phenomena had already perceived by themselves with Insight Knowledge and Right view. They had tried to attain Perceptivity to regard Conditioned phenomena with indifference (= ***Saṅkhārupekkhā ñāṇa***) and with this Knowledge they felt indifferent     (= *Udasina*) to the nature of Impermancy, Suffering and Not-Self of these Conditioned phenomena.  
 
 `  `All these facts are the **Causes in connection with former actions (= *Pubbayoga)*** of these Noble and Holy persons. So, among these Holy persons, the two Pre-eminent  
 
-Disciples before becoming as Stream-Winners (= ***Sotāpañña***) and the Venerable    *Bahiyadaruciriya* before becoming as the Holy One (= *Arahat*), had no enough time to contemplate repeatedly the Conditioned phenomena in terms of Character, Essence, Perception and Proximate Cuase. But they all had repeatedly discerned these Conditioned phenomena in terms of Character, Essence, Perception and Proximate cause in their past existences at the time of previous Lord Buddhas. That experience of discernment with Insight Knowledge itself is the Decisive-Supportive cause or Decisive-Support Condition for perception of (4) kinds of Ultimate Truths (= ***Sacca***). 
+Disciples before becoming as Stream-Winners (= ***Sotāpañña***) and the Venerable    *Bahiyadaruciriya* before becoming as the Holy One (= *Arahat*), had no enough time to contemplate repeatedly the Conditioned phenomena in terms of Character, Essence, Perception and Proximate Cuase. But they all had repeatedly discerned these Conditioned phenomena in terms of Character, Essence, Perception and Proximate cause in their past existences at the time of previous Lord Buddhas. 
+That experience of discernment with Insight Knowledge itself is the Decisive-Supportive cause or Decisive-Support Condition for perception of (4) kinds of Ultimate Truths (= ***Sacca***). 
 
- So, you noble ***meditator*** should not stand shoulder to shoulder with these Holy Noble persons who had already attained the Causes in connection with former actions  
+ So, you noble ***meditator*** should not stand shoulder to shoulder with these Holy Noble persons who had already attained the Causes in connection with former actions  (= *Pubbayoga*). 
+ If you noble ***meditator*** want to stand shoulder to shoulder with them or: if you noble ***meditator*** think that, these Holy Ones attained the Supramundane Paths and  Fruitions and ***Nibbāna*** without discernment of Corporealities and Mentalities in terms of Character, Essence, Perception and Proximate Cause and you are also able to attain the  Supremundane Paths, Fruitions and ***Nibbāna*** without any discernment of Corporealities and Mentalities in terms of Character, Essence, Perceptions and Proximate cause; -- then you noble person read the following ***Pāli*** verse that made the Venerable *Sariputtara* attained the Fruition of Stream-Winning.   
 
-(= *Pubbayoga*). If you noble ***meditator*** want to stand shoulder to shoulder with them or: if you noble ***meditator*** think that, these Holy Ones attained the Supramundane Paths and  Fruitions and ***Nibbāna*** without discernment of Corporealities and Mentalities in terms of Character, Essence, Perception and Proximate Cause and you are also able to attain the  
-
-Supremundane Paths, Fruitions and ***Nibbāna*** without any discernment of Corporealities and Mentalities in terms of Character, Essence, Perceptions and Proximate cause; -- then you noble person read the following ***Pāli*** verse that made the Venerable *Sariputtara* attained the Fruition of Stream-Winning.   ***ye dhammā hetuppabhavā, tesam hetum taṭhāgato āha.   tesanca yo nirodho, evam vādi mahāsamano.*** 
+***ye dhammā hetuppabhavā, tesam hetum taṭhāgato āha.*** ***tesanca yo nirodho, evam vādi mahāsamano.*** 
 
  Translation:  \_\_\_\_\_ 
 
-1. All phenomena of the Truth of Suffering (= ***Dukkha** **sacca** **dhamma***) begin from phenomena of the Truth of Origin of Suffering (= ***Samudaya** **sacca** **dhamma**)*; and this phenomena of the Truth of Suffering, or  
+1. All phenomena of the Truth of Suffering (= ***Dukkha sacca dhamma***) begin from phenomena of the Truth of Origin of Suffering (= ***Samudaya sacca dhamma***); and this phenomena of the Truth of Suffering, or  
 1. the Truth of Origin of Suffering which is the cause of the Truth of Suffering, or  
 1. the Extinction ot Suffering which is cause of cessation of the Truth of Suffering (and Truth of Origin of Suffering), or  
 1. the Truth of the Path which lead to ***Nibbāna*** = Extintion of Suffering:  \_\_\_\_\_ 
@@ -420,16 +416,16 @@ Supremundane Paths, Fruitions and ***Nibbāna*** without any discernment of Corp
 ## **PAGE-8** 
 
 
- all these (4) kinds of Noble Ultimate Truths are taught by the Lord Buddha who is known as the One Who Has Trod the Path of Reality (= ***Taṭhāgata***). The Lord Gotama Buddha who is the Noble Holy Arahat also, and named Great monk (= *Mahāsamana*) accept such kind of deology “.  \_\_\_\_\_ 
+ all these (4) kinds of Noble Ultimate Truths are taught by the Lord Buddha who is known as the One Who Has Trod the Path of Reality (= ***Taṭhāgata***). 
+ The Lord Gotama Buddha who is the Noble Holy Arahat also, and named Great monk (= *Mahāsamana*) accept such kind of deology “.  \_\_\_\_\_ 
 
- The two Pre-eminent Disciples attained the Fruition of Stream-Winner after hearing a part of above Doctrinal Verse. If you noble person ask and assess yourself whether you are able to attain the Fruition of Stream-Winner after just hearing or reading the above Doctrinal Verse. If the answer is “Unable to attain the Fruition of the Stream-Winner”; then scrutinize the descriptions in the various scriptures that the Conditioned phenomena should be thoroughly discerned in terms of Character, Essence, Perception and Proximate cause with Knowledge.  
+ The two Pre-eminent Disciples attained the Fruition of Stream-Winner after hearing a part of above Doctrinal Verse. If you noble person ask and assess yourself whether you are able to attain the Fruition of Stream-Winner after just hearing or reading the above Doctrinal Verse. 
+ If the answer is “Unable to attain the Fruition of the Stream-Winner”; then scrutinize the descriptions in the various scriptures that the Conditioned phenomena should be thoroughly discerned in terms of Character, Essence, Perception and Proximate cause with Knowledge.  
 
- Again, listen or read the practice of  \_\_\_\_\_ *Ditthe ditthamattam*  \_\_\_\_\_ taught by the Buddha to Future Venerable *Bahiyadaruciriya* which was mentioned in the Chapter of meditation on Mentality. After listening or reading that ***Pāli*** verse, assess yourself as whether you are able to attain the Fruition of Holiness (= *Arahatta phala*) like Venerable *Bahiyadaruciriya* Arahat. If the answer is “Unable to attain the Fruition of Holiness”, -- then you are not suitable to stand shoulder to shoulder with Venerable *Bahiyadaruciriya* Arahat. So, all you man and woman of good lineage or family who want to attain true and right Doctrinal teachings should have belief and pure wise attention to the Doctrinal teachings 
-
- PAGE   \\* MERGEFORMAT 3
-Translated by-**Dr Nyunt Lwin (SURGEON)** \*  PAGE   \\* MERGEFORMAT 3
-
-given by the enlightened Buddha or to the explanations given in the various Commentaries to know the meanings of these teachings . 
+ Again, listen or read the practice of  \_\_\_\_\_ *Ditthe ditthamattam*  \_\_\_\_\_ taught by the Buddha to Future Venerable *Bahiyadaruciriya* which was mentioned in the Chapter of meditation on Mentality. 
+ After listening or reading that ***Pāli*** verse, assess yourself as whether you are able to attain the Fruition of Holiness (= *Arahatta phala*) like Venerable *Bahiyadaruciriya* Arahat. 
+ If the answer is “Unable to attain the Fruition of Holiness”, -- then you are not suitable to stand shoulder to shoulder with Venerable *Bahiyadaruciriya* Arahat. 
+ So, all you man and woman of good lineage or family who want to attain true and right Doctrinal teachings should have belief and pure wise attention to the Doctrinal teachings  given by the enlightened Buddha or to the explanations given in the various Commentaries to know the meanings of these teachings . 
 
 
 ## ` 	`**The Definitions of Character-Essence-Perception and Proximate cause**  
@@ -481,29 +477,32 @@ The nature of obvious existence of the Materiality and Mentality as Ultimate rea
 
 
 ## ` 	 	 	 	     `**Preliminary Notes** 
- Since, Materialities and Mentalities should be completely discerned with the Knowledge, in terms of **Character-Essence-Perception and Proximate Cause,** and since the Materialities and Mentalities never occur alone or since these occur in association as Groups of Materiality (= ***Rūpa** **kalāpa***) and Groups of Mentality (= ***nāma** **kalāpa***);- only when a ***meditator*** should perceive each and every Group of Materiality and Mentality with differential Knowledge and only when a ***meditator*** is able to realize and understand these phenomena and reaching the nature of Ultimate reality of these, he will be able to understand the methods of meditation in terms of Character-Essence-Perception and Proximate Cause.  In this Section of “***Lakkhanadi Catukka*”**= Section of the Four Kinds of features in regard to Ultimate realities (started from the Character, Essence etc.,); The ***Pāli*** phrases are mentioned for those who want to study in ***Pāli***. For those who are not familiar with ***Pāli***; Burmese translation in short is also given for easy understanding . In this case, note these features in sequencial order as follow:  \_\_\_\_\_ 
+ Since, Materialities and Mentalities should be completely discerned with the Knowledge, in terms of **Character-Essence-Perception and Proximate Cause,** and since the Materialities and Mentalities never occur alone or since these occur in association as Groups of Materiality (= ***Rūpa** **kalāpa***) and Groups of Mentality (= ***nāma** **kalāpa***);- only when a ***meditator*** should perceive each and every Group of Materiality and Mentality with differential Knowledge and only when a ***meditator*** is able to realize and understand these phenomena and reaching the nature of Ultimate reality of these, he will be able to understand the methods of meditation in terms of Character-Essence-Perception and Proximate Cause.  In this Section of “***Lakkhanadi Catukka*”**= Section of the Four Kinds of features in regard to Ultimate realities (started from the Character, Essence etc.,); The ***Pāli*** phrases are mentioned for those who want to study in ***Pāli***.
+ 
+  For those who are not familiar with ***Pāli***; Burmese translation in short is also given for easy understanding . In this case, note these features in sequencial order as follow:  \_\_\_\_\_ 
 
 1. Character (= ***Lakkhana**)*,  
 1. Essence (= ***Rasa**)*,  
-1. Perception (= ***Paccupaṭṭhāna***),   4. Proximate cause (= ***Padaṭṭhāna**)*. 
+1. Perception (= ***Paccupaṭṭhāna***),   
+1. Proximate cause (= ***Padaṭṭhāna**)*. 
 
-` 	`In translation, shortest and easiest way is used with reference to “***Visuddhi** **magga*** 
+` 	`In translation, shortest and easiest way is used with reference to “***Visuddhi magga Nissaya*** “(= Word by word translation of the Path of Purification) by Venerable  Pyay Sayadaw and various translated books by other teachers who translate ***Pāli*** texts.   
+Although the method of word by word translation of ***Pāli*** texts (= *Nissaya*) is  excellent and the pracise way of translation, it is not easy to study and memorise for those who are not familiar to ***Pāli*** Literatures. 
+So, only the Burmese translation is written in this scripture.  
 
-*Nissaya “*(= Word by word translation of the Path of Purification) by Venerable  Pyay Sayadaw and various translated books by other teachers who translate ***Pāli*** texts.   Although the method of word by word translation of ***Pāli*** texts (= *Nissaya*) is  excellent and the pracise way of translation, it is not easy to study and memorise for those who are not familiar to ***Pāli*** Literatures. So, only the Burmese translation is written in this scripture.  
+ **(28) Types of Corporeality = The Chapter of Speech on Aggregate of Corporeality (*Rūpakkhandhā kaṭhā*)**  
 
+### **1. Earth Element**  **(*Pathavī dhātu*)** 
 
-## **(28) Types of Corporeality = The Chapter of Speech on Aggregate of Corporeality (*Rūpakkhandhā kaṭhā*)**  
-**1. Earth Element** 
-### **(*Pathavī dhātu*)** 
-\1. ***Kakkhaļatta** **lakkhaṇā** **pathavī** **dhātu***, 2. ***Pattiṭhāna** **rasa**,****  3. ***Sammaticchana paccupaṭṭhana***,  
-
-\4. ***Avasesadhātuttaya padaṭṭhāna.***  
+1. ***Kakkhaļatta lakkhaṇā pathavī dhātu***, 
+2. ***Pattiṭhāna** **rasa**,
+1. ***Sammaticchana paccupaṭṭhana***,  
+4. ***Avasesadhātuttaya padaṭṭhāna.***  
+5. 
 ## ` 	 	 	 	   `(***Abhi-A*-1-368. *Vs*-1-362. *Vs*-2-73**) 
 
 
-**1. Earth Element** 
-
-
+### 1. Earth Element 
 
 1. Has the nature of hardness (= Strength, firmness.)  
 1. Has Function (Essence) to support the remaining matters of same group. 
@@ -514,7 +513,12 @@ The nature of obvious existence of the Materiality and Mentality as Ultimate rea
 ## **PAGE-11** 
 
 
- **Remark  \_\_\_\_\_** The above translation is the shortest and briefest one. It may need more explanations to understand that translation. So, another short translation will be mentioned so as to memorise the Character, Essence etc, in similar way in the next section; and to make the words compact. Although it is written in shorter way, try to memorise as above translation, if you want to do so. But the meaning should be memorised as above translation. Note the remaining Character-Essence etc, etc, in similar way. 
+ **Remark  \_\_\_\_\_** The above translation is the shortest and briefest one. 
+ It may need more explanations to understand that translation. 
+ So, another short translation will be mentioned so as to memorise the Character, Essence etc, in similar way in the next section; and to make the words compact. 
+ Although it is written in shorter way, try to memorise as above translation, if you want to do so. 
+ But the meaning should be memorised as above translation. 
+ Note the remaining Character-Essence etc, etc, in similar way. 
 
 
 
@@ -522,22 +526,22 @@ The nature of obvious existence of the Materiality and Mentality as Ultimate rea
 
 
 
-|1. Hardness (= Toughness, Firmness) 	 	 | |Character, |
-| :- | :- | :- |
-|2. Supportive to remaining matters of the same group | |(Function) Essence, |
-|3. Foundation to remaining matters of the same group | |Perception, |
-|4. Remaining (3) Elements of the same group 	 | |Proximate cause . |
+| 1. Hardness (= Toughness, Firmness)                  |      | Character,          |
+| :--------------------------------------------------- | :--- | :------------------ |
+| 2. Supportive to remaining matters of the same group |      | (Function) Essence, |
+| 3. Foundation to remaining matters of the same group |      | Perception,         |
+| 4. Remaining (3) Elements of the same group          |      | Proximate cause .   |
 
 
 
 ## ` 	 	 	 	     `**Method of Meditation** 
 
 
- The Earth element is always incorporated in every Groups of matter of (6) Doors (= ***dvāra**)* and (42) Body-parts (= ***Koṭṭhāsa***) and the consciousness produced groups of matter, Temperature produced groups of matter, and Nutriment produced groups of matter (= ***Cittaja kalāpa, Utuja kalāpa, Āhāraja kalāpa***) which are included in the  secondary matters. You, disciple can not discern completely each and every Earth elements included in each and every groups of matter amounting to about a quarter of a viz (= Approx408 gram) in the body. But so as the perceive the Ultimate nature of the existence of the solid matters in Compacted state (= ***Rūpa** **ghana**)* with Insight Knowledge, a ***meditator*** should be able to discern with Knowledge all Earth elements included in every Groups of matter incorporated in (6) Doors and (42) types of Body parts in terms of Character-EssencePerception and Proximate cause.  
+ The Earth element is always incorporated in every Groups of matter of (6) Doors (= ***dvāra***) and (42) Body-parts (= ***Koṭṭhāsa***) and the consciousness produced groups of matter, Temperature produced groups of matter, and Nutriment produced groups of matter (= ***Cittaja kalāpa, Utuja kalāpa, Āhāraja kalāpa***) which are included in the  secondary matters. You, disciple can not discern completely each and every Earth elements included in each and every groups of matter amounting to about a quarter of a viz (= Approx408 gram) in the body. But so as the perceive the Ultimate nature of the existence of the solid matters in Compacted state (= ***Rūpa** **ghana***) with Insight Knowledge, a ***meditator*** should be able to discern with Knowledge all Earth elements included in every Groups of matter incorporated in (6) Doors and (42) types of Body parts in terms of Character-EssencePerception and Proximate cause.  
 
 So, a ***meditator*** should analyse the Group of matter in which the Earth element you want to seize on is included. Only after you perceive the Ultimate real matter, select the Earth element you want to seize on and discern it, in terms of Character-Essence-Perception and Proximate cause. 
 
-`  `But, the better method is to discern completely, the nature of 8 types, 9 types, or 10 types, in respective Groups of matters in which (8), (9) or (10) types of matter are included. In Eye-door (= ***Cakkhu** **dvāra***), there are (6) types of Group of matters and (54) kinds of Corporeality. A ***meditator*** should discern each and every kinds of these (54) Corporealities in term of Character-Essence-Perception and Proximate Cause. After discerning the (54) Corporealities in interior (= *Ajjhata*), discern External (54) corporealities (= *Bahiddha **rūpa***) in similar method. Then similar method in applied to other Doors like Ear-door etc, or (42) types of Body parts. To be able to discern in this way, a noble ***meditator*** should learn by heart; the Character, Essence, Perception and Proximate causes of the (28) types of Corporeality at first. Only after then, you will be able to discern the Ultimate nature of the various materialities in single Group of matter (= ***Rūpa** **Kalāpa**)* completely, after recognition of their existence in Compacted state (= ***Ghana***) with the Knowledge. 
+`  `But, the better method is to discern completely, the nature of 8 types, 9 types, or 10 types, in respective Groups of matters in which (8), (9) or (10) types of matter are included. In Eye-door (= ***Cakkhu** **dvāra***), there are (6) types of Group of matters and (54) kinds of Corporeality. A ***meditator*** should discern each and every kinds of these (54) Corporealities in term of Character-Essence-Perception and Proximate Cause. After discerning the (54) Corporealities in interior (= *Ajjhata*), discern External (54) corporealities (= *Bahiddha **rūpa***) in similar method. Then similar method in applied to other Doors like Ear-door etc, or (42) types of Body parts. To be able to discern in this way, a noble ***meditator*** should learn by heart; the Character, Essence, Perception and Proximate causes of the (28) types of Corporeality at first. Only after then, you will be able to discern the Ultimate nature of the various materialities in single Group of matter (= ***Rūpa** **Kalāpa***) completely, after recognition of their existence in Compacted state (= ***Ghana***) with the Knowledge. 
 
 
 
@@ -545,7 +549,7 @@ So, a ***meditator*** should analyse the Group of matter in which the Earth elem
 ## **PAGE-12** 
 
 
- Example  \_\_\_\_\_ If a ***meditator*** wants to seize on each and every types of matter included in the Eye-decad group of matter (= ***Cakkhu**dasaka **kalāpa***) of the Eye door (= ***Cakkhu** **dvāra***) in terms of Character, Essence, Perception and Proximate Cause;\_\_\_ discern the (10) Ultimate real matters included in the Eye-decad group first. There are so many Eyedecad groups of matter in the eye. But, a ***meditator*** should discern first, the (10) Ultimate real matters in the Eye- decad group he wants to discern. Only after then, select the Earth-element included in that (10) types of matter and discern that Earth-element in terms of Character, Essence, Perception and Proximate Cause. Then, sequencially discern further, the remaining (9) types of matter like Water-element, Fire element, Air element, Color, Odour, Taste, Nutritive essence, Life faculty and Eye transparent element (= ***Āpo, Tejo, Vāyo, Vanna, Gandha, Rasa, Oja, Jīvita; Cakkhupasāda**)* one by one excluding the Earth element in that particular Eye-decad group of matter. Next, sequencially discern various groups of matter like the Body-decad group, Sex-decad group, consciousness produced octad group, Temperature produced octad group, and Nutriment produced octad group in similar way. Again, completely discern the (54) types of Corporeality in both interior and exterior (= *Ajjhatta, Bahiddha*) according to the tables of Material Meditation, mentioned in the section of Material Meditation. Similar method of discernment is also applied in (6) Doors, (42) 
+ Example  \_\_\_\_\_ If a ***meditator*** wants to seize on each and every types of matter included in the Eye-decad group of matter (= ***Cakkhu**dasaka **kalāpa***) of the Eye door (= ***Cakkhu** **dvāra***) in terms of Character, Essence, Perception and Proximate Cause;\_\_\_ discern the (10) Ultimate real matters included in the Eye-decad group first. There are so many Eyedecad groups of matter in the eye. But, a ***meditator*** should discern first, the (10) Ultimate real matters in the Eye- decad group he wants to discern. Only after then, select the Earth-element included in that (10) types of matter and discern that Earth-element in terms of Character, Essence, Perception and Proximate Cause. Then, sequencially discern further, the remaining (9) types of matter like Water-element, Fire element, Air element, Color, Odour, Taste, Nutritive essence, Life faculty and Eye transparent element (= ***Āpo, Tejo, Vāyo, Vanna, Gandha, Rasa, Oja, Jīvita; Cakkhupasāda***) one by one excluding the Earth element in that particular Eye-decad group of matter. Next, sequencially discern various groups of matter like the Body-decad group, Sex-decad group, consciousness produced octad group, Temperature produced octad group, and Nutriment produced octad group in similar way. Again, completely discern the (54) types of Corporeality in both interior and exterior (= *Ajjhatta, Bahiddha*) according to the tables of Material Meditation, mentioned in the section of Material Meditation. Similar method of discernment is also applied in (6) Doors, (42) 
 
 Body-parts etc,etc                  	 	 	 	 	 	 	    
 
@@ -615,13 +619,13 @@ Mutuality and Co- nascence)
 
  **Water element in natural aggregation (= *Sasambhāra āpo*)  \_\_\_\_\_ t**hat water is not completely broken down into Conventional designation (= *Pannatti*) like Compactness of Continuity (= ***Santati** **ghana***) etc, etc . If so, there is another question. “Does the Water element with Ultimate true character (= ***Lakkhana** **āpo***) not have the nature of flowing or seeping ?”. To answer that question  \_\_\_\_\_ the Great Subcommentary teacher again explains as  \_\_\_\_\_ “***Lakkhanapavaseneva va**”* etc, etc. 
 
-` 	`The Water-element which is Ultimate true element, integrated in a group of mater (= ***Rūpa** **kalāpa**)*, not designated and broken down into Compactness of materiality (= ***Rūpa** **ghana**)* like Compactness of Continuity, Compactness of Grouping and Compactness of Function (= ***Santati** **ghana**, **Samuha** **ghana** , **Kicca** **ghana***); is known as Water element with Ultimate Character (= ***Lakkhana** **āpo***). That Water element of Ultimate Character is beneficial to remaining (3) Primary elements of the same unit group by ways of Co-nascence, Mutuality and Support Conditions. (= ***Sahajāta, Aññamañña, Nissaya**)*. So, it is able to organise, cohere and prevent scattering of remaining (3) Primary elements in same group to form a whole with it's nature of fluidity and flowing . That is why it is stated as moving to various places.  	 (***Mahāṭī***-1-430.)  
+` 	`The Water-element which is Ultimate true element, integrated in a group of mater (= ***Rūpa** **kalāpa**)*, not designated and broken down into Compactness of materiality (= ***Rūpa** **ghana***) like Compactness of Continuity, Compactness of Grouping and Compactness of Function (= ***Santati** **ghana**, **Samuha** **ghana** , **Kicca** **ghana***); is known as Water element with Ultimate Character (= ***Lakkhana** **āpo***). That Water element of Ultimate Character is beneficial to remaining (3) Primary elements of the same unit group by ways of Co-nascence, Mutuality and Support Conditions. (= ***Sahajāta, Aññamañña, Nissaya**)*. So, it is able to organise, cohere and prevent scattering of remaining (3) Primary elements in same group to form a whole with it's nature of fluidity and flowing . That is why it is stated as moving to various places.  	 (***Mahāṭī***-1-430.)  
 
 
 ## **PAGE-15** 
 
 
- According to above statements in the Commentaries and sub commentaries, if you see the nature of flowing like natural or ordinary water, it means that you see the Water element in natural aggregation (= ***Sasambhāra** **āpo***). It is in the field of Conventional designation (= ***Paññatti**)*. If a ***meditator*** develops Concentration (=***Smādhi**)* with meditation of Elements (= ***Dhātu** **kammaṭṭhāna***) or develops Concentration up to the Fourth-Absorption Concentration (= ***Catuttha jhanasmādhi***) or Neighbourhood Concentration (= ***Upacāra smādhi*, *Appanā smādhi***) with one kind of meditation like Mindfulness of Breathing (= ***Ānāpāna** **kammaṭṭhāna***), and when he further discerns (4) Primary elements ( = ***Mahābhūta***) so as to seize on the Materiality, then before seeing the various unit-groups of matter with Insight knowledge, he will have to start the development of concentration with the Earth element, Water element, Fire element and Air element in natural aggregations. (= ***Sasambhāra pathavī dhātu, Sasambhāra āpo dhātu, Sasambhāra tejo dhātu, Sasambhāra vayo** **dhātu***). When the degree of Concentration reaches higher levels, and when the ***meditator*** becomes able to analyse the Groups of matters with Insight knowledge, he perceives the Earth element, Water element, Fire element and Air element with Ultimate characters (= *Lakkha **dhātu***).  Such kinds of the Earthelement with Ultimate character etc,etc, are somewhat like properly treated pure gold and liberated from the field of Conventional designation and broken down from Compactness of Materiality like Compactness of Continuity, Compactness of Grouping and Compaction of Function. These are the real elements and Ultimate elements. If a ***meditator*** is able to discern Ultimate real matters in a single unit group of matter systematically with Insight knowledge in terms of Character, Essence, Perception and Proximate cause, he has already broken down the Compactness of Continuity, Grouping and Function ; and escapes from dirty Conventional designation. So, if one is able discern the natural character of the Earth, Water, Fire and Air-elements in a single unit group of matter with analytical Insight knowledge, he will see the Utimate Character of Earth, Water, Fire and Air-elements. 
+ According to above statements in the Commentaries and sub commentaries, if you see the nature of flowing like natural or ordinary water, it means that you see the Water element in natural aggregation (= ***Sasambhāra** **āpo***). It is in the field of Conventional designation (= ***Paññatti**)*. If a ***meditator*** develops Concentration (=***Smādhi***) with meditation of Elements (= ***Dhātu** **kammaṭṭhāna***) or develops Concentration up to the Fourth-Absorption Concentration (= ***Catuttha jhanasmādhi***) or Neighbourhood Concentration (= ***Upacāra smādhi*, *Appanā smādhi***) with one kind of meditation like Mindfulness of Breathing (= ***Ānāpāna** **kammaṭṭhāna***), and when he further discerns (4) Primary elements ( = ***Mahābhūta***) so as to seize on the Materiality, then before seeing the various unit-groups of matter with Insight knowledge, he will have to start the development of concentration with the Earth element, Water element, Fire element and Air element in natural aggregations. (= ***Sasambhāra pathavī dhātu, Sasambhāra āpo dhātu, Sasambhāra tejo dhātu, Sasambhāra vayo** **dhātu***). When the degree of Concentration reaches higher levels, and when the ***meditator*** becomes able to analyse the Groups of matters with Insight knowledge, he perceives the Earth element, Water element, Fire element and Air element with Ultimate characters (= *Lakkha **dhātu***).  Such kinds of the Earthelement with Ultimate character etc,etc, are somewhat like properly treated pure gold and liberated from the field of Conventional designation and broken down from Compactness of Materiality like Compactness of Continuity, Compactness of Grouping and Compaction of Function. These are the real elements and Ultimate elements. If a ***meditator*** is able to discern Ultimate real matters in a single unit group of matter systematically with Insight knowledge in terms of Character, Essence, Perception and Proximate cause, he has already broken down the Compactness of Continuity, Grouping and Function ; and escapes from dirty Conventional designation. So, if one is able discern the natural character of the Earth, Water, Fire and Air-elements in a single unit group of matter with analytical Insight knowledge, he will see the Utimate Character of Earth, Water, Fire and Air-elements. 
 
  That Water element with Ultimate Character (= ***Lakkhana** **āpo***) does not flow like ordinary natural water. It means that it flows, moisen and seeps into the remaining (3) Primary elements of the same group with it's nature of fluidity. That nature can organise , cohere and prevent scattering of the (3) Primary elements arising together in the same group of matter. So, an explanation like  \_\_\_\_\_ the Water element has the character of organizing the units of matter in the same group (= ***Yam abandhana lakkhanam, ayam** **āpodhātu***) (***Visuddhi***- 1- 346), is given again. It is to be noted that, the flowing, seeping or trickling of the natural water is also due to more and more aggregation of the groups of matter where the natural power of the Water element is in excess and repeated occurrance of the preceeding and following groups of matter in succession. 
 
@@ -740,7 +744,7 @@ All the foods and fluids, eaten, drunk, chewed and licked are digested by the po
 
  The taken up nutriment will change into Essence fluid only when it gets support of digestion by the Digestive Fire element of gastric heat, known as ***gahaṇī*** (Internal gastric heat = Digestive faculty). That Essence fluid when supported by the Digestive gastric heat, it becomes mature. Based on this mature Essence fluid, the blood arises. So, try to note this sequential changes until the development of semen (= *Sukka*). 
 
- That Digestive Fire element always occurs in the body. It exists in the neighbourhood of the stomach. It is the Fire element, included in the Life-nonad group of materiality (= ***Jīivitanavaka** **kalāpa***) in which Life-faculty (= ***Jīvita***) is the ninth factor. These are the Action produced materialities (= ***Kamma**ja **rūpa**)* formed by the Action of past life. According to the quality of that Action, this gastric heat is active and digest properly in some person. In some, it is defective and can not digest the foods properly. In some, it is overactive. The support by Digestive Fire element will be better, if some manipulation of the consciousness, Temperature and the Nutriment(= ***Citta, Utu, Āāhāra***) near the Digestive Fire element in over-active or defective person are made by expert medical persons who know the Consciousness, Temperature and Nutriment produced Fire elements. In manipulation of mind, if highly noble consciousness (= *Adhicitta)* like consciousness of Tranquility meditation and Insight meditation are occurring successively in the Mind continuum, these consciousness are Wholesome Impulsion consciousness. (in Ordinary and Noble learner = *Puthujjana, sekkha*). These are the Wholesome actions of the present life. Weak and faint Wholesome actions of the Past time will get chance to give effects when these are supported by strong Present Wholesome action. 
+ That Digestive Fire element always occurs in the body. It exists in the neighbourhood of the stomach. It is the Fire element, included in the Life-nonad group of materiality (= ***Jīivitanavaka** **kalāpa***) in which Life-faculty (= ***Jīvita***) is the ninth factor. These are the Action produced materialities (= ***Kamma**ja **rūpa***) formed by the Action of past life. According to the quality of that Action, this gastric heat is active and digest properly in some person. In some, it is defective and can not digest the foods properly. In some, it is overactive. The support by Digestive Fire element will be better, if some manipulation of the consciousness, Temperature and the Nutriment(= ***Citta, Utu, Āāhāra***) near the Digestive Fire element in over-active or defective person are made by expert medical persons who know the Consciousness, Temperature and Nutriment produced Fire elements. In manipulation of mind, if highly noble consciousness (= *Adhicitta)* like consciousness of Tranquility meditation and Insight meditation are occurring successively in the Mind continuum, these consciousness are Wholesome Impulsion consciousness. (in Ordinary and Noble learner = *Puthujjana, sekkha*). These are the Wholesome actions of the present life. Weak and faint Wholesome actions of the Past time will get chance to give effects when these are supported by strong Present Wholesome action. 
 
 
 ## **PAGE-20** 
@@ -781,7 +785,7 @@ If so, the Digestive Fire element = Digestive gastric heat will also have streng
 
  **Function of Pushing (= *Samudirana rasa)***  \_\_\_\_\_ The function to produce motion of the materialities in the same group means the nature of pushing these. Only when there is the pushing nature, there will be motion. Without pushing, there will be no motion. So, making motion is same as pushing. That is why Venerable Pyay sayadaw, translated in his ***Visuddhi** **magga** nissaya* (second volume- Page 521.) only as “Function of Pushing”= *Samudirana **rasa**.* 
 
- **Perception as Arising at newer places (= *Abhinīhāra paccupaṭṭhāna*) \_\_\_\_\_** By preventing the occurrence of 4 Conditions produced materialities arising together, at the same original site and causing occurrence of these at various newer places  \_\_\_\_\_ that phenomenon makes movement of various Primary elements arising together to other places. That is why this phenomenon is known as Air (= ***Vāyo**)* \_\_\_\_\_ according to ***Pāli*** phrase described in (***Visuddhi***-1-360). So, leaving the original site and slow gradual arising at never places of the Groups of matter is due to the special power of Air element included in the newly arising Groups of matter. There are some explanations for Materiality of Intimation (= ***Viññatti** **rūpa**)* written in ***Attasalini* Commentary** in Section of Materiality Meditation. Only the Impulsion consciousness of Mind-door Thought process can produce Materiality of Bodily Postures (= ***Iriyā paṭha** **rūpa***) = Materiality of Intimation (= ***Viññatti** **rūpa***). It is also to be noted that among the (7) Impulsion consciousness of Mind-door Thought process, the Air elements of first (6) Impulsion consciousness ie:-- starting from first to sixth Impulsion consciousness can not produce arising of matterialities at newer places in the periods their moments. 
+ **Perception as Arising at newer places (= *Abhinīhāra paccupaṭṭhāna*) \_\_\_\_\_** By preventing the occurrence of 4 Conditions produced materialities arising together, at the same original site and causing occurrence of these at various newer places  \_\_\_\_\_ that phenomenon makes movement of various Primary elements arising together to other places. That is why this phenomenon is known as Air (= ***Vāyo***) \_\_\_\_\_ according to ***Pāli*** phrase described in (***Visuddhi***-1-360). So, leaving the original site and slow gradual arising at never places of the Groups of matter is due to the special power of Air element included in the newly arising Groups of matter. There are some explanations for Materiality of Intimation (= ***Viññatti** **rūpa***) written in ***Attasalini* Commentary** in Section of Materiality Meditation. Only the Impulsion consciousness of Mind-door Thought process can produce Materiality of Bodily Postures (= ***Iriyā paṭha** **rūpa***) = Materiality of Intimation (= ***Viññatti** **rūpa***). It is also to be noted that among the (7) Impulsion consciousness of Mind-door Thought process, the Air elements of first (6) Impulsion consciousness ie:-- starting from first to sixth Impulsion consciousness can not produce arising of matterialities at newer places in the periods their moments. 
 
  Only the Fire elements produced by seventh Impulsion consciousness can make arising of materialities at newer places. 
 
@@ -809,7 +813,7 @@ If so, the Digestive Fire element = Digestive gastric heat will also have streng
 ### ***Pāli Quotation (Vs-1-361)*** 
 
 
- The Air element, moving along the various body parts large or small; having character of Pushing or Propping up;--when gets foundation on the Earth elements, cohered and organised by Water element and taken care by gaseous nature of Fire element, will give support and strength to all materialities or this Body-group (= ***Rūpa** **kāya***). Due to that support and strength given by Air element, this physical body is able to stand upright, not falling to the ground. Various body postures like walking, standing, sitting and lying are also maintained by the Air element. The phenomenon which maintains this Body = Body-groups = Corporealities in various above postures, is the Supporting Character (= *Vitthambhana **lakkhana**)* of the Air element. 
+ The Air element, moving along the various body parts large or small; having character of Pushing or Propping up;--when gets foundation on the Earth elements, cohered and organised by Water element and taken care by gaseous nature of Fire element, will give support and strength to all materialities or this Body-group (= ***Rūpa** **kāya***). Due to that support and strength given by Air element, this physical body is able to stand upright, not falling to the ground. Various body postures like walking, standing, sitting and lying are also maintained by the Air element. The phenomenon which maintains this Body = Body-groups = Corporealities in various above postures, is the Supporting Character (= *Vitthambhana **lakkhana***) of the Air element. 
 
 
 ## **PAGE-23** 
@@ -849,7 +853,7 @@ Impulsion consciousness can carries the materialities arising together from here
 
 \1. (a) The nature which deserves impingement, (striking) to Sense object of Sight, the nature which clears up the Primary elements      Character, 
 
-(b) The nature which cleans up the Primary elements produced by Action, based on craving of Visual object (= ***Rūpa** **taṇhā**)* and having desire to see Sense object of Sight  
+(b) The nature which cleans up the Primary elements produced by Action, based on craving of Visual object (= ***Rūpa** **taṇhā***) and having desire to see Sense object of Sight  
 
 `	  	 	 	 	 	 	 	 	 	`Character, 
 
@@ -864,7 +868,7 @@ Impulsion consciousness can carries the materialities arising together from here
 
 
 
- Discern the Ultimate true nature of (10) types of materialities included in the Eyedecad group of matter(= ***Cakkhu** dasaka **kalāpa**)* at the Eye-Door(=***Cakkhu** **dvāra***). Among these materialities, select the Eye transparent element and discern it. In the eye, there are (2) kinds of Transparent elements known as Eye transparent element and Body transparent element. Eye-transparent element is included in the Eye-decad group and Body-transparent element is included in the Body decad group. Between these two groups, the nature which clears up the (4) Primary elements included in the Eye decad group which deserves impingement and striking to Sense object of sight is the own natural Character  (= ***Sabhāva** **lakkhana**)* of the Eye transparent element. Whether really striking (= impinging) or not to the Sense of sight; the nature which deserves impigement is the Character of the Eye transparent element. 
+ Discern the Ultimate true nature of (10) types of materialities included in the Eyedecad group of matter(= ***Cakkhu** dasaka **kalāpa***) at the Eye-Door(=***Cakkhu** **dvāra***). Among these materialities, select the Eye transparent element and discern it. In the eye, there are (2) kinds of Transparent elements known as Eye transparent element and Body transparent element. Eye-transparent element is included in the Eye-decad group and Body-transparent element is included in the Body decad group. Between these two groups, the nature which clears up the (4) Primary elements included in the Eye decad group which deserves impingement and striking to Sense object of sight is the own natural Character  (= ***Sabhāva** **lakkhana***) of the Eye transparent element. Whether really striking (= impinging) or not to the Sense of sight; the nature which deserves impigement is the Character of the Eye transparent element. 
 
 
 
@@ -883,7 +887,7 @@ Impulsion consciousness can carries the materialities arising together from here
 
 `  `Both of these two types are known as Natural Character ( = ***Sabhāva** **lakkhana***). (Refer to ***Abhi-A***-1-157.). Here; the explanation to Character of Eye transparent element is according to the meaning of first type of classification. 
 
- **Second method of explanation\_\_\_\_** ***Daṭṭhukāmatanidānakamma samuṭṭhāna bhūtappasada lakkhanam vā** **cakkhu**.* = In another explanation of the Character of Eyetransparent element: \_\_\_\_\_ it is stated that it has the Character of clearing up the (4) Primary elements of same group, and the Eye transparent element which is produced by Action based on Craving of Visual object (= ***Rūpa** **taṇhā**)* and having desire to see Sense object of Sight. Regarding to this explanation, the Subcommentary teachers explained the essence as follow: \_\_\_\_\_ 
+ **Second method of explanation\_\_\_\_** ***Daṭṭhukāmatanidānakamma samuṭṭhāna bhūtappasada lakkhanam vā** **cakkhu**.* = In another explanation of the Character of Eyetransparent element: \_\_\_\_\_ it is stated that it has the Character of clearing up the (4) Primary elements of same group, and the Eye transparent element which is produced by Action based on Craving of Visual object (= ***Rūpa** **taṇhā***) and having desire to see Sense object of Sight. Regarding to this explanation, the Subcommentary teachers explained the essence as follow: \_\_\_\_\_ 
 
 
 
@@ -893,13 +897,13 @@ Impulsion consciousness can carries the materialities arising together from here
 ## **PAGE-26** 
 
 
- Desire to feel various living and non-living pleasurable worldy enjoyments (= ***Kāma vatthu***) known as Sensuous Cravings (= ***Kāma** **taṇhā***); basic cause of Action which in turn produce physical body (= ***Attabhāva**)* with complete or incomplete Bases (= ***āyatana***)-anddesire to perceive Sense of vision known as Craving of visual object (= ***Rūpa** **taṇhā***)(Craving of Auditory object, Olfactory object, Gustatory object, Tactile object, Mental object = ***Sadda, Gandha, Rusa, Photthabba,** **Dhamma**)*: \_\_\_\_\_ both of these desires lead to get existences = lives (= *Bhava*) with various Sense-Bases (= ***āyatana***) or Sense-Organs like Visual base, Auditory base, Olfactory base, Gustatory base, Tactile base, and Mind base (= consciousness)-(***Cakkhāyatana, Sotāyatana, Ghanāyatana, Jīvhāyatana, Kāyāyatana, Manāyatana**)*. So, the words striking or Impingement (= ***Abhi**ghata)* are used to express the desire to see sense object of sight. That is why Commentary teacher gave again, second explanation for own natural character of the Eye-transparent element. Note in similar way for other Transparent elements like Ear-transparent element etc, etc. (***Mūlaṭī-1-147. Mahāṭī-289.***)  
+ Desire to feel various living and non-living pleasurable worldy enjoyments (= ***Kāma vatthu***) known as Sensuous Cravings (= ***Kāma** **taṇhā***); basic cause of Action which in turn produce physical body (= ***Attabhāva***) with complete or incomplete Bases (= ***āyatana***)-anddesire to perceive Sense of vision known as Craving of visual object (= ***Rūpa** **taṇhā***)(Craving of Auditory object, Olfactory object, Gustatory object, Tactile object, Mental object = ***Sadda, Gandha, Rusa, Photthabba,** **Dhamma**)*: \_\_\_\_\_ both of these desires lead to get existences = lives (= *Bhava*) with various Sense-Bases (= ***āyatana***) or Sense-Organs like Visual base, Auditory base, Olfactory base, Gustatory base, Tactile base, and Mind base (= consciousness)-(***Cakkhāyatana, Sotāyatana, Ghanāyatana, Jīvhāyatana, Kāyāyatana, Manāyatana**)*. So, the words striking or Impingement (= ***Abhi**ghata)* are used to express the desire to see sense object of sight. That is why Commentary teacher gave again, second explanation for own natural character of the Eye-transparent element. Note in similar way for other Transparent elements like Ear-transparent element etc, etc. (***Mūlaṭī-1-147. Mahāṭī-289.***)  
 
- Performing Wholesome Action of Conditioning forces (= *Kusala **Saṅkhāra** **kamma**)* with desire to see or hear various senses \_\_\_\_\_ ie:- desire to see Sense-of sight, or to hear Sense of sound  \_\_\_\_\_ and performing Action of Conditioning forces (= ***Saṅkhāra** **kamma***) with desire to attain an existence (= *Bhava*) like Happy Course of Sensuous existence (= ***Kāma** sugati bhava*) with complete Bases (= ***āyatana***) (eg:- Visual object, Visual organs = 
+ Performing Wholesome Action of Conditioning forces (= *Kusala **Saṅkhāra** **kamma***) with desire to see or hear various senses \_\_\_\_\_ ie:- desire to see Sense-of sight, or to hear Sense of sound  \_\_\_\_\_ and performing Action of Conditioning forces (= ***Saṅkhāra** **kamma***) with desire to attain an existence (= *Bhava*) like Happy Course of Sensuous existence (= ***Kāma** sugati bhava*) with complete Bases (= ***āyatana***) (eg:- Visual object, Visual organs = 
 
-***Rūparammana***, *Cakkha **yatana***) or Brahma-existence (= *Brahma bhava*) with incomplete Bases; -- whatever it may be all these performances and desires are appropriate to accept as “Desire to see visual object or Desire to hear Auditory object etc”. The volitional action performed with desire to see Sense of sight or to attain an existence with complete or incomplete Bases, whatever it may be; the Action performed with such desires is based on Sensual Craving (= ***Kāma** **taṇhā**)* = Craving for Sensual existence and Craving for Finematerial existence (= ***Rūpa** **taṇhā***). The nature which clears the (4) Primary elements on which the Eye-decad group of matters (Ear-decad, Nose decad, Tongure decad and Body decad groups of matter etc etc)  \_\_\_\_\_ produced by that Volitional action (= ***Kamma***) depends; should have the name Eye transparent element (= ***Cakkhu** pasada*). (Understand in similar way how other Trasparent elements like Ear-transparent element etc, etc-get their names). 
+***Rūparammana***, *Cakkha **yatana***) or Brahma-existence (= *Brahma bhava*) with incomplete Bases; -- whatever it may be all these performances and desires are appropriate to accept as “Desire to see visual object or Desire to hear Auditory object etc”. The volitional action performed with desire to see Sense of sight or to attain an existence with complete or incomplete Bases, whatever it may be; the Action performed with such desires is based on Sensual Craving (= ***Kāma** **taṇhā***) = Craving for Sensual existence and Craving for Finematerial existence (= ***Rūpa** **taṇhā***). The nature which clears the (4) Primary elements on which the Eye-decad group of matters (Ear-decad, Nose decad, Tongure decad and Body decad groups of matter etc etc)  \_\_\_\_\_ produced by that Volitional action (= ***Kamma***) depends; should have the name Eye transparent element (= ***Cakkhu** pasada*). (Understand in similar way how other Trasparent elements like Ear-transparent element etc, etc-get their names). 
 
-**Desire to see (= *Datthukāmatā)*  \_\_\_\_\_** Craving to see Sense object of sight is known as Craving for visible objects (= ***Rūpa** **taṇhā***). Craving to hear Sense object of sound is known as Craving for audible objects (= *Sadda **taṇhā***). Try to understand in similar way for other cravings like Craving for Olfactory, Gustatory, Tactile and Mental objects (= *Gandha, **Rasa**, Photthabba, **Dhamma** **taṇhā***). These (6) kinds of Desires or Cravings like  \_\_\_\_\_ Craving for visible object etc, etc; when occur after the Action which can produce the Physical body with Corporeality and Mentality; their effects will be obvious. If these Craving do not occur after performing Action, which produces the physical body with Corporeality and Mentality; their effects will exist as dorment elements unless these are totally abolished by the appropriate Noble Path (= ***Ariya** **magga***). It means that, since the Vicious Circle of Defilements (= *Kilesa vatta*) which is known as Craving  (= ***Taṇhā***) can produce Vicious Circle of Actional process and Conditioning forces   (= ***Kamma** vatta)*, these Defilements (= *Kilesa*) like Craving for visible object etc naturally occur before performing respective Action. Before performing various Actions i.e.,: Vicious circle of Actional process and Conditioning forces (= ***Kamma** vatta*); if Vicious circle of Defilements (= *Kilesa vatta*) like Craving for visible object (= ***Rūpa** **taṇhā**)* do not occur; and if these Defilements are not yet abolished by Noble Path -- this non abolished dorment elements can produce various Vicious circle of Actional process and Conditioning forces (= ***Kamma** valta*). That Vicious circle of Actional process and Conditioning forces again is enough to produce in turn various Vicious circles of Defilements (= *Kilesa valta*) like various Existences with complete Bases and various Existence with incomplete Bases. (Refer to ***Mahāṭī***-2-89.) 
+**Desire to see (= *Datthukāmatā)*  \_\_\_\_\_** Craving to see Sense object of sight is known as Craving for visible objects (= ***Rūpa** **taṇhā***). Craving to hear Sense object of sound is known as Craving for audible objects (= *Sadda **taṇhā***). Try to understand in similar way for other cravings like Craving for Olfactory, Gustatory, Tactile and Mental objects (= *Gandha, **Rasa**, Photthabba, **Dhamma** **taṇhā***). These (6) kinds of Desires or Cravings like  \_\_\_\_\_ Craving for visible object etc, etc; when occur after the Action which can produce the Physical body with Corporeality and Mentality; their effects will be obvious. If these Craving do not occur after performing Action, which produces the physical body with Corporeality and Mentality; their effects will exist as dorment elements unless these are totally abolished by the appropriate Noble Path (= ***Ariya** **magga***). It means that, since the Vicious Circle of Defilements (= *Kilesa vatta*) which is known as Craving  (= ***Taṇhā***) can produce Vicious Circle of Actional process and Conditioning forces   (= ***Kamma** vatta)*, these Defilements (= *Kilesa*) like Craving for visible object etc naturally occur before performing respective Action. Before performing various Actions i.e.,: Vicious circle of Actional process and Conditioning forces (= ***Kamma** vatta*); if Vicious circle of Defilements (= *Kilesa vatta*) like Craving for visible object (= ***Rūpa** **taṇhā***) do not occur; and if these Defilements are not yet abolished by Noble Path -- this non abolished dorment elements can produce various Vicious circle of Actional process and Conditioning forces (= ***Kamma** valta*). That Vicious circle of Actional process and Conditioning forces again is enough to produce in turn various Vicious circles of Defilements (= *Kilesa valta*) like various Existences with complete Bases and various Existence with incomplete Bases. (Refer to ***Mahāṭī***-2-89.) 
 
 
 ## **PAGE-27** 
@@ -939,7 +943,7 @@ So, it is metaphorically expressed that the living being in whom Eye transparent
 
 2. Audible phenomenon, Touching phenomenon, 
 2. Tangible phenomenon, Touching phenomenon 
-2. Perceptible phenomenon, Perceiving phenomenon -- etc, etc,  \_\_\_\_\_there will be further continuous arising of Sensuous cravings later. There will be new occurrence of Immoral and Moral actions (= ***AbhiSaṅkhāra** **kamma***) based on these Sensuous cravings, all of these, having desire to feel Sense-objects and will produce new life or rebirth. Due to this Action, the Transparent elements (like Eye-transparent element etc, etc,) will occur again in the later new life. So, there will be Ceaseless cycles of Dependent origination with rebirths (= ***Paṭicca samuppāda** **samsāra cakka***) if Dorment defilement elements led by Ignorance, Craving and Obsession are not abrogated by the Insight Knowledge, Knowledge of the Path and Knowledge of the Fruition (= ***Vipassanā** **ñāṇa**, **Magga** **ñāṇa**, **Phala** **ñāṇa**)* in time. 
+2. Perceptible phenomenon, Perceiving phenomenon -- etc, etc,  \_\_\_\_\_there will be further continuous arising of Sensuous cravings later. There will be new occurrence of Immoral and Moral actions (= ***AbhiSaṅkhāra** **kamma***) based on these Sensuous cravings, all of these, having desire to feel Sense-objects and will produce new life or rebirth. Due to this Action, the Transparent elements (like Eye-transparent element etc, etc,) will occur again in the later new life. So, there will be Ceaseless cycles of Dependent origination with rebirths (= ***Paṭicca samuppāda** **samsāra cakka***) if Dorment defilement elements led by Ignorance, Craving and Obsession are not abrogated by the Insight Knowledge, Knowledge of the Path and Knowledge of the Fruition (= ***Vipassanā** **ñāṇa**, **Magga** **ñāṇa**, **Phala** **ñāṇa***) in time. 
 
 
 
@@ -982,9 +986,9 @@ surrounded by sclera of the Eye ball (ie:-Structural Eye), where the images of p
 2. Fire element, giving maturity and  
 2. Air element, taking the function of pushing and propping up. 
 
-` 	`By these (4) kinds of function, (4) Primary elements of same group     (= ***Kalāpa**)* give beneficial effect to Eye transparent elements. 
+` 	`By these (4) kinds of function, (4) Primary elements of same group     (= ***Kalāpa***) give beneficial effect to Eye transparent elements. 
 
- So, Eye-transparent element, is dispersed in an area about the size of a louse-head, supported by Temperature, consciousness and Nutriment produced materialities of different groups which are collectively known as Materialities arising together with structure Eye organ (= ***Sasambhāra** **cakkhu***); [ in other words  \_\_\_\_\_ supported by consciousness, Temperature and Nutriment which can form seperate groups of consciousness, Temperature and Nutriment produced Materialities arising with Eye-organ (***Mahāṭī***-2-93-94.) ]; and guarded by Life-faculty materiality (= ***Jīvita** **rūpa**)* and associated other materiality like “Form, Scent, Taste and Nutritive essence “of the same group of matter. That Eye transparent element is acting as Base matter (= *Vatthu*) for the Eye consciousness and the Eye-Door (= ***dvāra***) for the development of the Eye consciousness and associated other consciousness of Eye-door thought process. (***Vs***-2-75,76) 
+ So, Eye-transparent element, is dispersed in an area about the size of a louse-head, supported by Temperature, consciousness and Nutriment produced materialities of different groups which are collectively known as Materialities arising together with structure Eye organ (= ***Sasambhāra** **cakkhu***); [ in other words  \_\_\_\_\_ supported by consciousness, Temperature and Nutriment which can form seperate groups of consciousness, Temperature and Nutriment produced Materialities arising with Eye-organ (***Mahāṭī***-2-93-94.) ]; and guarded by Life-faculty materiality (= ***Jīvita** **rūpa***) and associated other materiality like “Form, Scent, Taste and Nutritive essence “of the same group of matter. That Eye transparent element is acting as Base matter (= *Vatthu*) for the Eye consciousness and the Eye-Door (= ***dvāra***) for the development of the Eye consciousness and associated other consciousness of Eye-door thought process. (***Vs***-2-75,76) 
 
 
 
@@ -1013,7 +1017,7 @@ In the Commentary, it is mentioned that, the Eye transparent elements spread thr
 
  Since there are two Eye-organs and, numerous Eye decad groups of matters in each Eye-organ; there are so many Eye transparent elements. And, again there is only one Adverting consciousness of (5) Sense-door (= *Panca **dvāravajjana***) which considers the Sense object of sight arises in one Eye door thought-process, and only one Eye transparent element is functioning as Base matter for Eye-consciousness in single Mind-moment; all Eye transparent elements are considered as single unit. In other words, although there are so many Eye-transparent elements, these are similar in nature and   denoted as single transparent unit in an ordinary way ( = *Samanna niddesa naya*). But, explanation for a single Eye transparent element among others, functioning as Base-matter for Eye consciousness should be further considered. 
 
- Among the numerous Eye-transparent elements; one Eye-transparent is very clear and suitable to take up the striking Sense-object of sight. So, to that Eye transparent element, it is to be assumed as a support (= *Nissaya*) for the Eye consciousness. It is similar to the assumption, that only one Body-transparent element among so many, is acting as a support for Body consciousness and suitable to take up the sense of peculiar Object of touch. Since there are so many Body decad groups of matter in whole body, there are so many Body transparent elements. Although there are numerous Body transparent elements all over the body; Body-consciousness does not arise by depending on all these Body-transparent elements. Body-consciousness arises by depending on the Body-transparent element where striking of Touch -element (= *Photthabba **dhātu**)* like Earth, Fire, and Air elements are obvious. Note in similar way.    (***Mahāṭī***-2-94.) 
+ Among the numerous Eye-transparent elements; one Eye-transparent is very clear and suitable to take up the striking Sense-object of sight. So, to that Eye transparent element, it is to be assumed as a support (= *Nissaya*) for the Eye consciousness. It is similar to the assumption, that only one Body-transparent element among so many, is acting as a support for Body consciousness and suitable to take up the sense of peculiar Object of touch. Since there are so many Body decad groups of matter in whole body, there are so many Body transparent elements. Although there are numerous Body transparent elements all over the body; Body-consciousness does not arise by depending on all these Body-transparent elements. Body-consciousness arises by depending on the Body-transparent element where striking of Touch -element (= *Photthabba **dhātu***) like Earth, Fire, and Air elements are obvious. Note in similar way.    (***Mahāṭī***-2-94.) 
 
 
 ## ` 	 	 	   `**It is better to Carry Out Practical Test**  
@@ -1025,9 +1029,9 @@ In the Commentary, it is mentioned that, the Eye transparent elements spread thr
 ## **PAGE-32** 
 
 
-**Proximate cause \_\_\_\_\_** The proximate cause of this Eye transparent element produced by Action (= ***Kamma***) based on Craving for visible objects (= ***Rūpa** **taṇhā***) with desire to see Sense object of sight (= ***Rūparammana***), is the (4) Primary great elements (= ***Mahābhuta** **dhātu**)* of same group of matters on which it depends. In the Eye, there are so many Eyedecad groups of matters. The Eye transparent element depends only on the (4) Primary elements of same group (= ***Kalāpa***). It does not depend on (4) Primary elements in other groups of matter; because the Eye-transparent elements mean, the matters which are able to clear up only the (4) Primary elements on which these depend. 
+**Proximate cause \_\_\_\_\_** The proximate cause of this Eye transparent element produced by Action (= ***Kamma***) based on Craving for visible objects (= ***Rūpa** **taṇhā***) with desire to see Sense object of sight (= ***Rūparammana***), is the (4) Primary great elements (= ***Mahābhuta** **dhātu***) of same group of matters on which it depends. In the Eye, there are so many Eyedecad groups of matters. The Eye transparent element depends only on the (4) Primary elements of same group (= ***Kalāpa***). It does not depend on (4) Primary elements in other groups of matter; because the Eye-transparent elements mean, the matters which are able to clear up only the (4) Primary elements on which these depend. 
 
- The Character noted in (b) of this Eye transparent element and Method of meditation of this Proximate cause are the methods which can be undertaken only by noble person who has already attained the Knowledge of Seizing on the Cause and Effect (= ***Paccaya** **pariggaha** **ñāṇa***); described in the Section of Dependent Origination (= ***Paticca samuppāda***). If a person performed an Action in the past life so as to be reborn in this human world and if that Action was based on the Sensuous Craving (= ***Kāma** **taṇhā***) with desire to attain Five aggregates of Human existence, and if that person attain the Five aggregates of Human Existence due to this Action based on Sensuous Craving; the Sense object of sight is also included in that Five Aggregates (= *Khandha*). So, in the desire of Human life and human body; the desire to attain Sense-object of sight is also included . In this case, some teachers accept that the desire to attain Sense-object of sight is a separate nature. So, you noble person may or may not have seperate desire to see the Sense object of singht in your Body and Mind Continuum of Past life, at the time of performing the Conditioning Fores of Moral Volitional Actions (= ***AbhiSaṅkhāra** kusala **kamma**)* based on Sensuous Craving to attain human-life. But desire to have Sensuous Craving (= ***Kāma** **taṇhā***) ie:-Desire to have existence as man or woman, is definitely present as Arising, Standing and Passing away phases or Dorment elements (= ***Uppāda**, **ṭhiti** , **Bhaṅga**, **Anusaya** **dhātu**)*. So, discern first with knowledge, that the (4) Primary elements on which the Eye transparent element depends are produced by the Past (5) causes or Formative Volitional Action (= ***Saṅkhāra** **kamma***) done in the past existence based on Ignorance, Craving and Clinging (= ***Abijjā, Taṇhā, Upādāna***). After seeing the Primary elements produced by the Action on which the Eye transparent element depends with Knowledge; further discern the nature which cleans these Primary element. At that time, the phenomena that Eye-transparent element which has the natural character to clear the Action produced Elements (= ***Kammaja mahābhuta***) (ie:--Action produced Element on which Eye-transparent element depends) formed by the Action based on Sensuous Craving; and the Proximate cause of that Eye-transparent is Action produced elements of same group, will be clearly seen by yourself with Knowledge of Right view. 
+ The Character noted in (b) of this Eye transparent element and Method of meditation of this Proximate cause are the methods which can be undertaken only by noble person who has already attained the Knowledge of Seizing on the Cause and Effect (= ***Paccaya** **pariggaha** **ñāṇa***); described in the Section of Dependent Origination (= ***Paticca samuppāda***). If a person performed an Action in the past life so as to be reborn in this human world and if that Action was based on the Sensuous Craving (= ***Kāma** **taṇhā***) with desire to attain Five aggregates of Human existence, and if that person attain the Five aggregates of Human Existence due to this Action based on Sensuous Craving; the Sense object of sight is also included in that Five Aggregates (= *Khandha*). So, in the desire of Human life and human body; the desire to attain Sense-object of sight is also included . In this case, some teachers accept that the desire to attain Sense-object of sight is a separate nature. So, you noble person may or may not have seperate desire to see the Sense object of singht in your Body and Mind Continuum of Past life, at the time of performing the Conditioning Fores of Moral Volitional Actions (= ***AbhiSaṅkhāra** kusala **kamma***) based on Sensuous Craving to attain human-life. But desire to have Sensuous Craving (= ***Kāma** **taṇhā***) ie:-Desire to have existence as man or woman, is definitely present as Arising, Standing and Passing away phases or Dorment elements (= ***Uppāda**, **ṭhiti** , **Bhaṅga**, **Anusaya** **dhātu**)*. So, discern first with knowledge, that the (4) Primary elements on which the Eye transparent element depends are produced by the Past (5) causes or Formative Volitional Action (= ***Saṅkhāra** **kamma***) done in the past existence based on Ignorance, Craving and Clinging (= ***Abijjā, Taṇhā, Upādāna***). After seeing the Primary elements produced by the Action on which the Eye transparent element depends with Knowledge; further discern the nature which cleans these Primary element. At that time, the phenomena that Eye-transparent element which has the natural character to clear the Action produced Elements (= ***Kammaja mahābhuta***) (ie:--Action produced Element on which Eye-transparent element depends) formed by the Action based on Sensuous Craving; and the Proximate cause of that Eye-transparent is Action produced elements of same group, will be clearly seen by yourself with Knowledge of Right view. 
 
  The Character shown in (a), is able to be discerned by a ***meditator*** who has not attained the Knowledge of Seizing on the Cause and Effect, as yet. But the Character shown in (b) and the Proximate cause are able to be discerned only by a ***meditator*** who has already attained the Knowledge of Seizing on the Cause and Effect (= ***Paccaya** **pariggaha** **ñāṇa**)*. So, in **this scripture of *Nibbānagāmini paṭipadā* (Practical Way to *Nibbāna*),** the method of meditation in accordance with Character-Essence Perception and Proximate cause is mentioned with consideration of some Ultimate elements for those who have already attained the Knowledge of Seizing on the Cause and Effect . After discerning the Conditioning forces on the Cause and Effect of Materiality and Mentality, (= ***nāmarūpa** **Saṅkhāra** **dhamma***) including the various constituent, of Dependent Origination; in terms of Character, Essence, Perception and Proximate cause, further practices should be continued as follow:  \_\_\_\_\_ 
 
@@ -1036,14 +1040,14 @@ In the Commentary, it is mentioned that, the Eye transparent elements spread thr
 
 
 1. Seizing on Corporeality (= ***Rūpa** **pariggaha***)  
-1. Seizing on Mentality (= *A**rūpa** **pariggaha**)*  
-1. Seizing on both Corporeality and Mentality (= ***Rūparūpa** **pariggaha**)* 
-1. Analytical determination of Corporeality and Mentality with Knowledge (= ***nāmarūpa** **vavaṭṭhana**)* 
-1. Seizing on the Causes and Effects in Present time (= ***Paccaya** **pariggaha**)* 
+1. Seizing on Mentality (= *A**rūpa** **pariggaha***)  
+1. Seizing on both Corporeality and Mentality (= ***Rūparūpa** **pariggaha***) 
+1. Analytical determination of Corporeality and Mentality with Knowledge (= ***nāmarūpa** **vavaṭṭhana***) 
+1. Seizing on the Causes and Effects in Present time (= ***Paccaya** **pariggaha***) 
 
 
 
-Knowledge of Distinction between Mind and Body (= ***nāmarūpa** **pariccheda** **ñāṇa***) and Knowledge of Seizing on the Cause and Effect (= ***Paccaya** **pariggaha** **ñāṇa**)* are not completely attainable with first time of discernment. Actually, these arise only after repeated and frequent penetrating awareness which is known as repeated attainment of these knowledges . It means that the required destination is not obtainable with one time of awareness; instead it is obtained only after repeated awareness. So, these two kinds of Knowledges are known as **Knowledges of Recognition ( = *Anubodha ñāṇa*).** (***Dī***-***ṭī***-2-89-
+Knowledge of Distinction between Mind and Body (= ***nāmarūpa** **pariccheda** **ñāṇa***) and Knowledge of Seizing on the Cause and Effect (= ***Paccaya** **pariggaha** **ñāṇa***) are not completely attainable with first time of discernment. Actually, these arise only after repeated and frequent penetrating awareness which is known as repeated attainment of these knowledges . It means that the required destination is not obtainable with one time of awareness; instead it is obtained only after repeated awareness. So, these two kinds of Knowledges are known as **Knowledges of Recognition ( = *Anubodha ñāṇa*).** (***Dī***-***ṭī***-2-89-
 
 90.) 
 

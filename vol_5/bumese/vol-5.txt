@@ -14,13 +14,13 @@ edAÁmefa&mufaMumif;usifhpOf - yÍörwGJ
 zm;atmufawm&q&mawmf
 oAÁ'geH "r®'geH Zdemwd?
 oAÁ&oH "r®&aom Zdemwd/
-oAÁ&wd H "r®&wd Zdemwd?
+oAÁ&wdH "r®&wd Zdemwd?
 wPSu©a,m oAÁ'ku©H Zdemwd/
 'getm;vkH;udk "r®'geu atmifEdkif\/
 t&omtm;vkH;udk w&m;t&omu atmifEdkif\/
 arGUavsmfzG,ftm;vkH;udk w&m;ü arGUavsmfjcif;u atmifEdkif\/
 'ku©tm;vkH;udk wPSmukefjcif;u atmifEdkif\/
-pd&H wd|wk o'¨ar®m? "ar® a[mEÅ K o*g&0g/
+pd&H wd|wk o'¨ar®m? "ar® a[mEÅK o*g&0g/
 bk&m;&Sif\ tqHk;tr omoemawmfonf
 t"GefY&SnfpGm wnfygapownf;/
 o'¨r®oHk;jzmü ½kdaoav;pm;jcif; &SdMuygapukefownf;/
@@ -485,7 +485,7 @@ o'd¨a`E´ tjzpfrsm;yHk 375
 'dGaum#dum oknwmEkyóem 349
 pwkaum#dum oknwmEkyóem 350
 1/ em[H uGped 351
-2/ uópd udÍöewo®d H 351
+2/ uópd udÍöewo®dH 351
 twå twåed, oknw 352
 3/ e p (rr) uGped 352
 4/ rr udod®Ídö udÍöewwd¬ 352
@@ -955,7 +955,7 @@ xifvif;aom owdr&dSonfh owdvGwfuif;aom yk*¾dKvf\ oEÅmefü þavmukwå&mw&m; udk;
 rjynfhpHkEdkif/ taMumif;rl trSwf (7) tjzpf a[mMum;xm;awmfrlaom 0dyóemÓPfonf wpfenf;
 um,mEkyóem a0'emEkyóem pdwåmEkyóem "r®mEkyóemonf owdESifhuif;í rjzpfEdkifaomaMumifhyif
 jzpf\/
-orm"d ------ orm"d H bdu©a0 bma0x? orm[dawm bdu©a0 bdu©K ,xmblwH yZmemwd/
+orm"d ------ orm"dH bdu©a0 bma0x? orm[dawm bdu©a0 bdu©K ,xmblwH yZmemwd/
 (oH-2-12/ oH-3-363/)
 &[ef;wdkY ...orm"dudk yGm;rsm;Muyg xlaxmifMuyg/ &[ef;wdkY ...orm"d&dSaom &[ef;onf
 [kwfwdkif;rSefpGm uGJuGJjym;jym; od\/ (oH-2-12/ oH-3-363/)
@@ -1073,7 +1073,7 @@ ESifh jynfhpHkvma&;twGuf &nf&G,fawmifhwí þ 0dyóemydkif;wGif a&;om;wifjyxm;ygo
 wxm*w trnf&awmfrljcif;
 oHk;avmuxG#fxm; oAÁnKor®morÁK'¨bk&m;&Sifudk wxm*w[lí ac:qdk&jcif;ü taMumif;-
 w&m;rsm; rsm;pGm &dSae\/ xdktaMumif;w&m; rsm;pGmwdkYteuf taMumif;w&m; wpfrsKd;rSm þodkY jzpf\/
-,Íö bdu©a0 &wdå H wxm*awm tEkwå&H or®moarÁm"d H tbdorÁKZÑwd? ,Íö &wåd H tEkyg'daoom,
+,Íö bdu©a0 &wdåH wxm*awm tEkwå&H or®moarÁm"dH tbdorÁKZÑwd? ,Íö &wådH tEkyg'daoom,
 edAÁme"mwk,m y&dedAÁm,wd? ,H {wod® HtEÅa& bmowd vywd ed'´dowd? oAÁH wH wax0
 a[mwd aem tnxm/ wo®m “wxm*awm”wd 0kpöwd/ ('D-3-111/ tH-1-332/)
 &[ef;wdkY ...wxm*w trnf&awmfrlaom oifwdkYq&m igbk&m;onf tMuifnOfhüvnf;
@@ -1371,7 +1371,7 @@ edAÁme*grdedy#dy'g -- yÍörwGJ
 8
 0dyóem½I&ef (r[m#D-2-391/)ü xyfqifhñTefMum;xm;awmfrlojzifh ,if; taMumif;Oyg,fwHrsOfrsm;udk
 qufvufí aqG;aEG;wifjytyfygonf/
-orm"d H bdu©a0 bma0x? orm[dawm bdu©a0 bdu©K ,xmblwH yZmemwd/
+orm"dH bdu©a0 bma0x? orm[dawm bdu©a0 bdu©K ,xmblwH yZmemwd/
 (oH-2-12/ oH-3-363/)
 1/ þtxufyg orm"dokwåefrsm;ü bk&m;&Sif\ ñTefMum;xm;awmfrlcsufESifh tnD -----
 (u) cE¨mig;yg;udk [kwfwdkif;rSefpGm y&rw¬odkY qdkufatmif od&Sda&;ç
@@ -1663,7 +1663,7 @@ cspfom; arCd, ... tedpöonm&Sdaom a,m*g0p&yk*¾dKvf\ oEÅmefü tewåonmonf
 aumif;pGm wnfvm\/ (O'ge-120/)
 þodkY bk&m;&Sif a[mMum;awmfrljcif; jzpf\/ O'gef;t|uxmuvnf; atmufygtwdkif; zGifhqdkxm;\/
 ----
-tedpövu©aP [d 'da| tewåvu©PH 'd|ar0 a[mwd/ wDok [d vu©aPok {uo®d H 'da|
+tedpövu©aP [d 'da| tewåvu©PH 'd|ar0 a[mwd/ wDok [d vu©aPok {uo®dH 'da|
 £w&'G,H 'd|ar0 a[mwd/ (O'ge-|-214/)
 tedpövu©Pmudk aumif;pGm jrifaomf tewåvu©Pmudkvnf; aumif;pGm jrifEdkifonfomvQif
 jzpf\/ rSefayonf ---- vu©Pma&;oHk;wefwdkYwGif vu©Pmwpfyg;udk jrifu usefvu©Pm ESpfyg;udk
@@ -2732,7 +2732,7 @@ tjcif;t&mtm;jzifh wnfaeaom ½kyf-a0'em-onm-ocFg&-0dnmPf[laom cE¨mig;yg;wdkYudk 
 wpfyg;pD jcHKikHí twdwfrSonf tem*wfqkH;onfhwdkifatmif wdk;vQKdayguf vu©Pma&;okH;wef wpfvSnfhpD
 wifí 0dyóem½IEdkifyguvnf; om0uyg&rDÓPft&mü vkHavmufonfyif jzpfonf[k þusrf;u
 vufcHvsufyif &dSygonf/ ,H udÍöd ork',"r®H? oAÁH wH eda&m""r®H = jzpfaomw&m; rSeforQ tm;vkH;
-ysu\f [ k awbrl u ocgF &w&m;tm;v;Hku kd jcKH½aI om ½uI uG uf kd axmuyf g/ (o-H 3-397/) (uo d H ak umyr
+ysu\f [K awbrl u ocgF &w&m;tm;v;Hku kd jcKH½aI om ½uI uG uf kd axmuyf g/ (o-H 3-397/) (uo dH ak umyr
 okwåef/) awblru ur®|medu &[EÅmrax&fjrwfBuD;\ ½IuGuf jzpfonf/
 vu©P00w¬me 0g& = tedpöor®oeç 'ku©or®oeç tewåor®oe
 þodkYvQif twdwfç tem*wfç ypöKyÜefç tZÑwåç A[d'¨ç MoVm&duç okckrç [Deç yPDwç 'l&ç
@@ -3530,8 +3530,8 @@ edAÁme*grdedy#dy'g -- yÍörwGJ
 tZÑwåA[d'¨g 0g uma, um,mEkyóD 0d[&wd/ (r-1-73-74/ e0od0xduyAÁ/)
 £wd tZÑwåH 0gwd {0H O'¨Krmwm'dy&d*¾[aPe twåaem 0g uma,ç y&ó 0g uma, umave
 0g twåaemç umave 0g y&ó uma, um,mEkyóD 0d[&wd/ (r-|-1-277/)
-ork',"r®mEkyóD 0g um,o®d H 0d[&wd? 0,"r®mEkyóD 0g um,o®d H 0d[&wd? ork',0,-
-"r®mEkyóD 0g um,o®d H 0d[&wd/ (r-1-73-74/ e0od0xduyAÁ/)
+ork',"r®mEkyóD 0g um,o®dH 0d[&wd? 0,"r®mEkyóD 0g um,o®dH 0d[&wd? ork',0,-
+"r®mEkyóD 0g um,o®dH 0d[&wd/ (r-1-73-74/ e0od0xduyAÁ/)
 þtxufyg ygVdawmf t|uxmwdkYESifhtnD toifolawmfaumif;onf txufwGif a&;om;cJhonhftwdkif;
 t0dnmPutokb = aotokbudkvnf;aumif;ç o0dnmPu tokb = &Siftokbudk
 vnf;aumif; ½INyD;aomtcg ---
@@ -3555,7 +3555,7 @@ oabmudkvnf; tm½kH,lí ½kyfy&rwftppfwdkYudkvnf; tokb[k½I&ef azPyd@Lyrokwåef (
 twdkif; vm&dSayonf/ ----
 {0H ½lyrÜd edpöEÅd 0g "k0EÅd 0g t[EÅd 0g rrEÅd 0g *a[wkH e ouúm? *[dwrÜd e wxm wd|wd? tedpöH
 'ku©H tewåm tokban0 a[mwDwd {0H azPyd@o'doar0 a[mwd/ (oH-|-2-294/)
-'k*¾E¨H tokpd H Asm"d H? Z&H r&PyÍörH/
+'k*¾E¨H tokpdH Asm"d H? Z&H r&PyÍörH/
 tew¬m a[mEÅd yaÍöaw? rDV§vdawå0 yEéa*/ (oH-|-3-59/)
 r*¾gr*¾ÓP'óe0dok'¨d eda'´o -- or®oeÓPfcef;
 71
@@ -3755,7 +3755,7 @@ t'¨K0awmç twmPawmç tavPawmç to&Pawmç &dwåawmç wkpäawmç oknawmç tewåaw
 tm'De0awmç 0dy&dPmr"r®awmç tom&uawmç tCrlvawmç 0"uawmç 0db0awmç omo0awmç
 ocFwawmç rm&mrdoawmç Zmwd"r®awmç Z&m"r®awmç Asm"d"r®awmç r&P"r®awmç aomu"r®awmç
 y&da'0"r®awmç Oyg,mo"r®awmç oHudavodu"r®awm/ (y#doH-411/) (0dok'¨d-2-246/)
-yÍöu©aE¨ tedpöawm yóaEÅm tEkavmrduH cEÅd H y#dvbwd/ yÍöEéH cE¨meH eda&ma"m edpöH edAÁmeEÅd
+yÍöu©aE¨ tedpöawm yóaEÅm tEkavmrduH cEÅdH y#dvbwd/ yÍöEéH cE¨meH eda&ma"m edpöH edAÁmeEÅd
 yóaEÅm or®wåed,mrH Mouúrwd/ ... (y#doH-411/) (0dok'¨d-2-246/)
 þvu©Por®oeÓPfydkif;wGif 0dok'¨dr*¾t|uxmu txufyg y#dorÇd'gr*fygVdawmfBuD;udk
 udk;um;í awm (40) ½IuGufrsm;udk zGifhqdkxm;awmfrl\/ þ awm (40) ½IuGufrsm;udk rSwfom;vG,ful
@@ -4271,7 +4271,7 @@ aumif; tavPH = uG,fumrJhvQif; ab;\ toif;tyif;omwnf;/ þoabmw&m;udk
 ÓPfjzifh jrifatmifMunfhí tavP tavP [k ½Iyg/
 13/ to&Pawm
 edódwmeH b,om&uwåmbma0e to&Pawm/ (0dok'¨d-2-247/)
-Zmwdtm'db,meH [d H oeH 0d"reH b,om&uwåH/ (r[m#D-2-396/)
+Zmwdtm'db,meH [dH oeH 0d"reH b,om&uwåH/ (r[m#D-2-396/)
 cE¨mig;yg; = ½kyfemrfw&m;wdkYonf rdrdwdkYudk,fwdkifu Zmwd-Z&m-Asm"d-r&Ppaom oabmw&m;
 xif&Sm;&dSaeMuojzifh Zmwd-Z&m-Asm"d-r&Ppaom ab;'ku©udk aMumufí rSDckduyf&yfukefaom olwdkY\
 Zmwd-Z&m-Asm"d-r&Ppaom ab;'ku©udk n§Of;qJwwf y,fazsmufwwfaomoabm\ xif&Sm;r&dSjcif;-
@@ -4540,7 +4540,7 @@ ac:qdk\/ rSefayonf ---- avmuü tenf;i,fudkaomfvnf; wkpä = tcsnf;ESD;[lí ac:a0:
 jzpfMu\/ ,if;oabmw&m;udk 0dyóemÓPfjzifh jrifatmifMunfhí wk pä wk pä [lívnf; ½Iyg/
 5/ oknawm
 omrd-ed0god-um&u-a0'um-"d|m,u0d&[dwwm, oknawm/ (0dok'¨d-2-247/)
-"k0om&mbm0g'D[d o'¨d H twåom&mbm0H &dwåya'e 0wGm edAÁwådwrwåom&mbm0ar0 oknya'e
+"k0om&mbm0g'D[d o'¨dH twåom&mbm0H &dwåya'e 0wGm edAÁwådwrwåom&mbm0ar0 oknya'e
 'aówHk “omrd/ y / oknawm”wd 0kwåH/ (r[m#D-2-396/)
 twå0g'Dorm;wdkYum; omrdtwåç ed0godtwåç um&utwåç a0'utwåç t"d|m,utwå
 &Sd\[k pGJ,lMu\/ cE¨mig;yg; ½kyfemrfw&m;wdkYü ,if;uJhodkYaom y&rw¬ÓPfynmrsufpd uif;olwdkY MuHqxm;
@@ -5033,7 +5033,7 @@ r*¾gr*¾ÓP'óe0dok'¨d eda'´o -- or®oeÓPfcef;
 vaAÇx p 0dnmaP “{0H ar 0dnmPH a[mwk? {0H ar 0dnmPH rm ta[moD”wd/ ,o®m p acg
 bdu©a0 0dnmPH tewåm? wo®m 0dnmPH tmAm"m, oH0wåwd? e p vAÇwd 0dnmaP “{0H ar
 0dnmPH a[mwk? {0H ar 0dnmPH rm ta[moD”wd/
-7/ wH ud H rnx bdu©a0? ½lyH edpHö 0g tedpöH 0gwd/ tedpöH baEÅ/ ,H yemedpöH? 'ku©H 0g wH okcH 0gwd/
+7/ wH udH rnx bdu©a0? ½lyH edpHö 0g tedpöH 0gwd/ tedpöH baEÅ/ ,H yemedpöH? 'ku©H 0g wH okcH 0gwd/
 'ku©H baEÅ/ ,H yemedpöH 'ku©H 0dy&dPmr"r®H? uv’H Ek wH orEkyódwkH “{wH rr? {aom[ro®d? {aom
 ar twåm”wd/ aem a[wH baEÅ/ a0'em/ onm/ ocFg&m/ 0dnmPH edpöH 0g tedpöH 0gwd/ tedpöH baEÅ/
 ,H yemedpöH ? 'ku©H 0g wH okcH 0gwd/ 'ku©H baEÅ/ ,H yemedpöH 'ku©H 0dy&dPmr"r®H? uv’H Ek wH orEkyódwkH
@@ -5054,10 +5054,10 @@ ar twåm”wd/ aem a[wH baEÅ/ a0'em/ onm/ ocFg&m/ 0dnmPH edpöH 0g tedpöH 0gwd
 yPDwH 0g ,H 'la& oEÅdau 0g? oAÁH 0dnmPH “aewH rr? aeaom[rod®? e araom twåm”wd
 {0arwH ,xmblwH or®yÜnm, '|AÁH/
 13/ {0H yóH bdu©a0 okw0g t&d,om0aum ½lyod®rdÜ edAÁdE´wd? a0'em,yd edAÁdE´wd? onm,yd
-edAÁdE´wd? ocFga&okyd edAÁdE´wd? 0dnmPod®rdÜ edAÁdE´wd? edAÁdE´H 0d&ZÆwd? 0d&m*g 0drkpöwd? 0drkwåo®d H “0drkwå”rdwd
+edAÁdE´wd? ocFga&okyd edAÁdE´wd? 0dnmPod®rdÜ edAÁdE´wd? edAÁdE´H 0d&ZÆwd? 0d&m*g 0drkpöwd? 0drkwåo®dH “0drkwå”rdwd
 ÓPH a[mwd/ “ cDPm Zmwd 0kodwH jA[®p&d,H? uwH u&PD,H? emy&H £w¬wåm,m”wd yZmemwDwd/
 £'ra0gp b*0g ? twårem yÍö0*¾d,m bdu©L b*0awm bmodwH tbdeE´KH/
-£rod® H p ye a0,smu&Pod® H bnrmae yÍö0*¾d,meH bdu©LeH tEkyg'g, tmoa0[d pdwåmed
+£rod®H p ye a0,smu&Pod®H bnrmae yÍö0*¾d,meH bdu©LeH tEkyg'g, tmoa0[d pdwåmed
 0drkpdö oH lwd/ (oH-2-55-56/)
 ,cktcg ,if;tewåvu©Pokwåef a'oemawmfjrwf\ jrefrmjyefudk qufvufí a&;om;wifjytyfygonf/
 edAÁme*grdedy#dy'g -- yÍörwGJ
@@ -5330,7 +5330,7 @@ a0'eH/ onH/ ocFga&/ 0dnmPH Oyg'g, ]to®D}wd a[mwd aem tEkyg'g,/
 0g y&doka'¨ y&da,m'gaw tapä 0g O'uyawå ouH rkcedrdwåH ypöa0u©rmaem Oyg'g, yaó,s
 aem tEkyg'g,/ {0ar0 acg tm0kaom tmeE´ ½lyH Oyg'g, ]to®D}wd a[mwd aem tEkyg'g,/
 a0'eH/ onH/ ocFga&/ 0dnmPH Oyg'g, ]to®D}wd a[mwd aem tEkyg'g,/
-4/ wH ud H rnod tm0kaom tmeE´? ½lyH edpöH 0g tedpöH 0gwd/ tedpöH tm0kaom/ a0'em/ onm/
+4/ wH udH rnod tm0kaom tmeE´? ½lyH edpöH 0g tedpöH 0gwd/ tedpöH tm0kaom/ a0'em/ onm/
 ocFg&m/ 0dnmPH edpöH 0g tedpöH 0gwd/ tedpöH tm0kaom/ wo®m wd[/ y / {0H yóH/ y / emy&H
 £w¬wåm,mwd yZmemwD”wd/ ykaPÖm emr tm0kaom tm,o®m rEÅmPdykawåm trSmuH e0umeH
 owH A[lyuma&m a[mwd? aom tarS £rdem Mo0ga'e Mo0'wd/ £'Íö ye ar tm,o®awm
@@ -5742,7 +5742,7 @@ xdkrjrJaom tedpöoabmjzifhyifvQif ,if; ocFg&"r® = tedpö"r®wdkYudk odukefaom a
 ,if;ocFg&"r®wdkY\ jrJjcif; edpötjzpfudk jiif;y,fonf rnfukef\/ ,if;taMumif;aMumifhyifvQif
 edpö r[kwfí tedpö [lvdkonf/ (0dok'¨d-2-253/ r[m#D-2-406/)
 'ku©tjcif;t&m
-,o®m ye OyÜEém ocFg&m Xdwd H ygykPEÅd? Xdwd,H Z&m, udvrEÅd? Z&H ywGm t0óH bdZÆEÅd? wo®m
+,o®m ye OyÜEém ocFg&m XdwdH ygykPEÅd? Xdwd,H Z&m, udvrEÅd? Z&H ywGm t0óH bdZÆEÅd? wo®m
 tbdPSorÜ#dyDVeawmç 'ku©rawmç 'ku©0w¬Kawmç okcy#dau©yawm p 'ku©m/ (0dok'¨d-2-253/)
 ½kyfemrf"r® ocFg&w&m; rSeforQwdkYonf jrJonfh edpöw&m;rsm; r[kwfjcif;aMumifh rjrJonfh
 tedpöw&m;wdkYom jzpfMuukef\/ ,if;tedpöjzpfMuonfh ocFg&w&m;wdkif;ü ----
@@ -5770,7 +5770,7 @@ xdkaMumifh ---
 134
 edAÁme*grdedy#dy'g -- yÍörwGJ
 tewå tjcif;t&m
-,o®m p “OyÜEém ocFg&m Xdwd H rm ygykPEÅK? XmeyÜwåm rm ZD&EÅ K? Z&yÜwåm rm bdZÆ EÅL”wd £arok
+,o®m p “OyÜEém ocFg&m XdwdH rm ygykPEÅK? XmeyÜwåm rm ZD&EÅ K? Z&yÜwåm rm bdZÆ EÅL”wd £arok
 wDok Xmaeok uópd 0o0wådbma0g ew¬d? oknm awe 0o0wåemuma&e? wo®m oknawmç
 tómrduawmç t0o0wådawmç twåy#dau©yawm p tewåmwd/ (0dok'¨d-2-253-254/)
 (u) wpfzef ---- jzpfay:vmMuukefaom Oyg'fcPESifh jynfhpHkMuukefaom ocFg&w&m;wdkYonf XD
@@ -6198,7 +6198,7 @@ udk awGU&dSEdkif\/ tESpf (100)jzifh ydkif;jcm;xm;tyfaom tcsdefumvtwGif;ü wnf&dS
 tm;vkH;udk &nfñTef;xm;aomaMumifh jzpf\/ ,if;½kyfw&m;tm;vkH;udk avmuD0dyóempdwf wpfckwnf;u
 wpfNydKifeuf wpfcsufwnf; avmuD0dyóem aZmpdwåu©P wpfcktwGif;üum; rodEdkif/
 (tnxm) {auae0 avmud,pdawåe yÍöEéH cE¨meH y&d*¾[y&dZmeem'DdeH torÇ0awm/ e [d
-oed'óeoyÜ#dCm'd H {uZÑH tm&r®PH umwkH ouúm/ (r[m#D-2-470/)
+oed'óeoyÜ#dCm'dH {uZÑH tm&r®PH umwkH ouúm/ (r[m#D-2-470/)
 ykxkZeftqifhwGifom wnf&dSaeao;aom toifolawmfaumif;\oEÅmefü jzpfEdkifaom 0dyóem
 pdwfwdkYrSm r[mukodkvfraem'Gg&du aZm0DxdpdwftpOfwdkYom jzpfMu\/ wpfckwnf;aom avmuD
 0dyóempdwfjzifh = avmuD0dyóem pdwåu©P wpfcsufwnf;jzifh cE¨mig;yg;wdkYudk odrf;qnf;jcif;
@@ -6424,10 +6424,10 @@ rmeork *¢ga#m emr a[mwd/
 aw OyÜg'0,y#dyDVea|e 'ku©m? [kwGm tbm0a|e tedpöm? t0o0wåea|e tewåmwd yóawm
 eduEÅdy&d,m'geH emr a[mwd/
 4/ {0H ocFga& tewåawm yóEÅó 'd|dork *¢g#eH emr a[mwd/ tedpöawm yóEÅó rme
-ork*¢g#eH emr a[mwd/ 'ku©awm yóEÅó eduEÅdy&d,m'ge H emr a[mwd/ £wd t,H 0dyóem
+ork*¢g#eH emr a[mwd/ 'ku©awm yóEÅó eduEÅdy&d,m'geH emr a[mwd/ £wd t,H 0dyóem
 twåaem twåaem Xmaea,0 wd|wDwd/ (0dok'¨d-2-263-264/)
 ,o®m 'd|dork*¢g#eH emarw¬ 0daooawm tewåmEkyóem, a[mwd? wo®m wH 'aóaEÅe
-“oap ocFg&m”wdtm'dem tewåmEkyóem0d"d H 0wGm ,o®m ye tewåawm tEkyóaEÅe ocFg&m
+“oap ocFg&m”wdtm'dem tewåmEkyóem0d"dH 0wGm ,o®m ye tewåawm tEkyóaEÅe ocFg&m
 tedpöawmyd 'ku©awmyd tEkyódwAÁm {0 w'kyjAL[eawm? wo®m “[kwGm tbm0a|em”wdtm'd
 0kwåH/
 ,o®m rmeork*¢g#eH emr tedpömEkyóem, a[mwd/ caP caP bdZÆeau ocFga& yóEÅó
@@ -6436,7 +6436,7 @@ ukawm rmeó t0oa&m/ tedpöonm bma0wAÁm tod®rmeork*¢g#m,mwd [d 0kwåH/
 r*¾gr*¾ÓP'óe0dok'¨d eda'´o -- or®oeÓPfcef;
 ,o®m eduEÅdy&d,m'geH emr 'ku©mEkyóem, a[mwd/ e [d obm0awmç 'ku©0w¬Kawm p
 'ku©blaw ocFga& yóEÅó ww¬ þourÜd tbd&awm a[mwd/ tóm'gEkyódaem [d ww¬
-wPmS OyaÜ Z,Æ s/ aoo H tewvå ua© P 0wk eå ,ar0/ t, H yaew ¬ oacyF awm¬ --- 0kwåea,e
+wPmS OyaÜ Z,Æ s/ aooH tewvå ua© P 0wk eå ,ar0/ t,H yaew ¬ oacyF awm¬ --- 0kwåea,e
 y#dyg#dawm or®oeH yokwó a,m*daem ,'g tewåmEkyóem wdu©m ol&m 0do'g y0wåwd?
 £w&m a'Gyd w'Ek*wdum? w'gaee 'd|dO*¢g#eH uwH a[mwd/ twå'd|drlvdum [d oAÁm 'd|da,m/
 tewåmEkyóem p twå'd|d,m OZky#dyu©m/
@@ -6845,7 +6845,7 @@ jrifvmwwf ,lqvmwwf\? {uwå onmwnf;/ oP²mefj'yf&dSaom w&m; rSeforQ o0d*¾["r® r
 edrdwå"r®wdkYom jzpfMu\/ ,if;edrdwå"r®wdkYudk 0dyóem½Iaeaomf tedrdwåmEkyóem rrnfojzifh tedpöm-
 Ekyóemvnf; rrnf&um; 0dyóem tppftrSefvnf; r[kwfao;onfom[k rSwfom;av&monf/
 tyÜPd[dwmEkyóem
-yPd"dEÅd okcyw¬eH? &m*g'dyPd"d H 0g ? tw¬awm wPSm0aoe ocFga&ok edEéwH/
+yPd"dEÅd okcyw¬eH? &m*g'dyPd"dH 0g ? tw¬awm wPSm0aoe ocFga&ok edEéwH/
 (r[m#D-2-417/)
 csrf;omokcudk vdkvm;awmifhwjcif;udk yPd"d[k ac:qdkonf/ wpfenf; --- &m*paom awmifhwjcif;
 udk = &m*[laom awmifhwjcif;udk yPd"d[k ac:qdkonf/ y&rw¬ w&m;udk,f teufoabmjzifhum;
@@ -7008,7 +7008,7 @@ edAÁme*grdedy#dy'g -- yÍörwGJ
 £'ged teEÅ&H 0kwåó or®oeÓPó ememea,[d bm0emxd&u&aPe yg&H *EÉm Xdawe
 tedpöm'dawm 'da| ocFga& O',AÁa,e y&d pädE´dwGm tedpöm'dawm 0dyóew¬H 0kwåó O',AÁ,mEkyóem
 ÓPó eda'´ao ZmwH ½lyEÅdtm'Dok oEÅwd0aoe ,xmouH ypöa,[d edAÁwåH ½lyH/ wó Zmwó
-½lyó edAÁwådvu©PH Zmwd H OyÜg'H tbde0gum&H O'a,mwdç 0dy&dPmrvu©PH c,H b*ø 0a,mwdç
+½lyó edAÁwådvu©PH ZmwdH OyÜg'H tbde0gum&H O'a,mwdç 0dy&dPmrvu©PH c,H b*ø 0a,mwdç
 tEkyóem ykeyÜKeH edomrem? O',AÁ,mEkyóem ÓPEÅd taw¬m/ a0'em'Dokyd {ao0 ea,m/
 (y#doH-|-1-234/)
 ,cktcg tjcm;rJhü a[mawmfrltyf zGifhqdktyfcJhaom or®oeÓPf\ txl;xl;aom enf;wdkYjzifh
@@ -7302,7 +7302,7 @@ P[k qdkvdkonf/ y&rw¬opömwnf;/
 Zmwd-Z&m-r&P = jzpf-wnf-ysuf &dSMuukefaom ocFww&m;wdkY\omvQif jzpfjcif;-ysufjcif; =
 O',-0,udk odrf;qnf;tyf odrf;qnf;Edkifonf\ tjzpfaMumifh y#dpöorkyÜg'ft*Fg&yfwdkYwGif yg0ifaom
 Zmwd-Z&m-r&PwdkY\ O',-0, = jzpf-ysuf oabm r&dSjcif;aMumifh (ZmwdESifh O',um; wl\? 0,ESifh
-r&Pum; wl\/) Zmwd-Z&m-r&Pudk roHk;oyfrlí --- Zmw H puK© / y/ Zmawm ba0g - [ k ay,smvukd
+r&Pum; wl\/) Zmwd-Z&m-r&Pudk roHk;oyfrlí --- ZmwH puK© / y/ Zmawm ba0g - [K ay,smvukd
 jyKawmfrlonf/ (y#doH-|-1-234/)
 þodkY wdkifatmifaom pum;&yfwdkYjzifh O',AÁ,mEkyóemÓPfjzifh 0dyóem ½IyGm;okH;oyf&rnfh
 t½IcHtm½kHw&m;rsm;udk pdppfwifjyí NyD;avNyD/ tu,fí toifolawmfaumif;onf ypöKyÜefw&m;
@@ -8734,15 +8734,15 @@ A[d'¨[laom oEÅmefESpfyg; twGif;ü txufygtwkdif; 0Dxdpdwf 0Dxdrkwfpdwf[laom pdw
 toD;ü cE¨mig;yg;pD zJGUí cE¨mwpfyg; wpfyg;ü O',oabm 0,oabmwdkYukd tm;&yg;& ausaus
 eyfeyf ½IEkdifygu atmufyg r[mowdy|meokwåef usifhpOfydkif;ü a[mMum;xm;awmfrlaom ½IuGufwdkYwGif
 trSwf (1-2) ½IuGufwdkYukd oabmaygufEkdifavmufayNyD/
-1/ ork',"r®mEkyóD 0g um,o®d H 0d[&wd/
-2/ 0,"r®mEkyóD 0g um,o®d H 0d[&wd/
-3/ ork',0,"r®mEkyóD 0g um,o®d H 0d[&wd/ ('D-2-232/)
+1/ ork',"r®mEkyóD 0g um,o®dH 0d[&wd/
+2/ 0,"r®mEkyóD 0g um,o®dH 0d[&wd/
+3/ ork',0,"r®mEkyóD 0g um,o®dH 0d[&wd/ ('D-2-232/)
 1/ ork',"r®mEkyóD 0g a0'emok 0d[&wd/
 2/ 0,"r®mEkyóD 0g a0'emok 0d[&wd/
 3/ ork',0,"r®mEkyóD 0g a0'emok 0d[&wd/ ('D-2-237/)
-1/ ork',"r®mEkyóD 0g pdwåo®d H 0d[&wd/
-2/ 0,"r®mEkyóD 0g pdwåo®d H 0d[&wd/
-3/ ork',0,"r®mEkyóD 0g pdwåo®d H 0d[&wd/ ('D-2-237/)
+1/ ork',"r®mEkyóD 0g pdwåo®dH 0d[&wd/
+2/ 0,"r®mEkyóD 0g pdwåo®dH 0d[&wd/
+3/ ork',0,"r®mEkyóD 0g pdwåo®dH 0d[&wd/ ('D-2-237/)
 220
 edAÁme*grdedy#dy'g -- yÍörwGJ
 1/ ork',"r®mEkyóD 0g "ar®ok 0d[&wd/
@@ -8814,7 +8814,7 @@ O',-0,ukdvnf; jrifatmifMunfhí vu©Pm,mOf oHk;csufukd wpfvSnfhpD wifí 0dyóem½
 222
 edAÁme*grdedy#dy'g -- yÍörwGJ
 y#doaE¨ - ½lyu©E¨mü O',-0, ½IyHk
-(ork',0,"r®mEkyóD 0g um,o®d H 0d[&wd/)
+(ork',0,"r®mEkyóD 0g um,o®dH 0d[&wd/)
 1/ t0dZÆm jzpfjcif;aMumifh (ur®Z) ½kyf jzpf\/
 t0dZÆm csKyfjcif;aMumifh (ur®Z) ½kyf csKyf\/
 t0dZÆm ---- jzpf-ysuf - tedpö/
@@ -8944,7 +8944,7 @@ usef emrfcE¨m oHk;yg; csKyfjcif;aMumifh ocFg& csKyf\/
 usef emrfcE¨m oHk;yg; ---- jzpf-ysuf - tedpö/
 ocFg& ---- jzpf-ysuf - tedpö/
 y#doaE¨ - 0dnmPu©E¨mü O',-0,½IyHk
-(ork',0,"r®mEkyóD 0g pdwåo®d H 0d[&wd/)
+(ork',0,"r®mEkyóD 0g pdwåo®dH 0d[&wd/)
 1/ t0dZÆm jzpfjcif;aMumifh 0dnmPf jzpf\/
 t0dZÆm csKyfjcif;aMumifh 0dnmPf csKyf\/
 t0dZÆm ---- jzpf-ysuf - tedpö/
@@ -9013,7 +9013,7 @@ tMum;ü wnf&Sdaom b0if pdwåu©P tcsKdUwdkYüvnf;aumif; cE¨mig;yg;zJGUí ork',o
 ork',0,oabmwdkYukd ukefpifatmif ½Iyg/ ½lyg½Hkvdkif;ponfh (6) vdkif;vHk;ü vkdif;wdkif; vkdif;wkdif;0,f
 taumif;tkyfpk raumif;tkyfpk emrfw&m;wdkYukd ukefpifatmif ½Iyg/ þrQqdkvQif y#dpöorkyÜg'f yÍörenf;
 ½IuGufukd ausyGefpGm avhvmxm;NyD; ½Ixm;NyD;jzpfaom toifolawmfaumif;onf ---- ork',0,"r®m-
-EkyóD 0g um,o®d H 0d[&wd-ponfjzifh owdy|mefykdif; usifhpOfwGif xnfhoGif;í bk&m;&Sifukd,fawmfwkdif
+EkyóD 0g um,o®dH 0d[&wd-ponfjzifh owdy|mefykdif; usifhpOfwGif xnfhoGif;í bk&m;&Sifukd,fawmfwkdif
 a[mMum;xm;awmfrlaom ork',0,"r® ½IuGufukd em;vnf oabmayguf EkdifavmufayNyD? ½Iwwf
 EdkifavmufayNyD/
 þ½IuGuf0,f - “t0dZÆm jzpfjcif;aMumifh ½kyf jzpf\? t0dZÆm csKyfjcif;aMumifh ½kyf csKyf\” - þodkY
@@ -9177,7 +9177,7 @@ odkYaomf ,if;ememu©Pduur®owådwdkY\ jrpfzsm;cH&m rlvpwifí jzpfyGm;cJhonfh jzp
 jzpfyGm;vwåHU jzpfonfh t0dZÆm wPSm Oyg'gef ocFg& uHwdkYum;ç Oyg'f-XD-biftm;jzifh xif&Sm;jzpfckduf
 wnf&Sdckduftcgudk &nf&G,fí qdk&rl twdwf tem*wf ypöKyÜef[k a0zef cGJjcrf;í &Edkifayonf/
 twDaw a[wa0g yÍö? £'ged zvyÍöuH/
-£'ged a[wa0g yÍö? tm,w d H zvyÍöuH/ (0dok'¨d-2-214/)
+£'ged a[wa0g yÍö? tm,w dH zvyÍöuH/ (0dok'¨d-2-214/)
 = twdwftaMumif;w&m; ig;yg;aMumifh ypöKyÜeftusKd;w&m; ig;yg; jzpf\/
 ypöKyÜeftaMumif;w&m; ig;yg;aMumifh tem*wftusKd;w&m; ig;yg; jzpf\/
 þodkYpaom a'oemawmfrsm;ukd axmuf½Iyg/ wpfzef y0wådypö, trnf&aom pdwf-Owk-tm[m&
@@ -9639,7 +9639,7 @@ yrm- tp&SdonfwdkYuJhodkY tESpfuif;ukefonfjzpfí tESpfrJhukef\ - [kvnf; xifvmukef
 w½kP 0dyóemÓPf
 {wåm0wmaee “0,"r®ar0 OyÜZÆwd? OyÜEéÍö 0,H OaywD”wd £rdem tmuma&e orynmovu
 ©Pmed y#d0dZÑdwGm XdwH O',AÁ,mEkyóeH emr w½kP0dyóemÓPH t"d*wH a[mwd/ ,óm"d*rm
-tm&'¨0dyóaumwd ocF H *päwd/ (0dok'¨d-2-269/)
+tm&'¨0dyóaumwd ocFH *päwd/ (0dok'¨d-2-269/)
 þrQ twkdif;t&Snf &Sdaom ocFg&wdkY\ jzpfjcif; ysufjcif; = O',AÁ,ukd 0dyóembm0emÓPfjzifh
 ukd,fwdkif rsufarSmuf xGif;azmuf odjrifonfh wdkifatmifaom bm0em tpDt&ifjzifh þa,m*g0p&
 yk*¾dKvfonf “ocFg&w&m; rSeforQonf ysufjcif;oabmw&m; &Sdonf jzpfíomvQif jzpfay:vm\?
@@ -9737,7 +9737,7 @@ aou©bHkodkY a&muf&Sda&;twGufvnf;aumif;ç taou©bHkodkY a&muf&Sda&;twGufvnf;aumi
 aou©t&d,m olawmfaumif; jzpfa&;twGuf vnf;aumif;ç taou©&[EÅmolawmfaumif; jzpfa&;
 twGufvnf;aumif; ---- tZÑwåjzpfapç A[d'¨jzpfapç MoVm&dujzpfapç okckrjzpfapç [Dejzpfapç
 yPDwjzpfapç 'l&jzpfapç oEÅdujzpfapç twdwf tem*wf ypöKyÜef jzpfonfh ½kyftm;vHk;udkç a0'emtm;vHk;udkç
-onmtm;vHk;udkç ocFg&tm;vHk;udkç 0dnmPftm;vHk;udk --- “aew H rr? aeaom[ro?d® e araom twmå ”
+onmtm;vHk;udkç ocFg&tm;vHk;udkç 0dnmPftm;vHk;udk --- “aewH rr? aeaom[ro?d® e araom twmå ”
 [k = tedpö[k 'ku©[k tewå[k ½I&rnfom jzpfayonf/
 þñTefMum;csufrsm;ESifhtnD toifolawmfaumif;onfvnf; O',AÁ,mEkyóemÓPf &ifhoefa&;
 twGuf ----
@@ -9768,12 +9768,12 @@ tmemygeówdorm"dydkif;ç ½kyfur®|mef;ydkif; emrfur®|mef;ykdif;wdkYwGif a&;om;
 ,cktcg owdy|mefusifhpOf wwd,qifhukd a&;om;wifjyaeqJ jzpf\/ xkdwwd,qifhwGif ----
 (u) y#dpöorkyÜg'fykdif;ç (c) or®oeÓPfykdif;ç (*) O',AÁ,ÓPfydkif;[k tykdif;BuD; oHk;ykdif; yg0if\?
 ,if;wwd,qifhukd ñTefMum;xm;awmfrlaom a'oemawmfrSm atmufygtwdkif; jzpf\/ ----
-3/ ork',"r®mEkyóD0g um,o®d H 0d[&wd? 0,"r®mEkyóD 0g um,o®d H 0d[&wd? ork',0,"r®m-
-EkyóD 0g um,o®d H 0d[&wd/ (r-1-71/)
+3/ ork',"r®mEkyóD0g um,o®dH 0d[&wd? 0,"r®mEkyóD 0g um,o®dH 0d[&wd? ork',0,"r®m-
+EkyóD 0g um,o®dH 0d[&wd/ (r-1-71/)
 ork',"r®mEkyóD0g a0'emok 0d[&wd? 0,"r®mEkyóD 0g a0'emok 0d[&wd? ork',0,-
 "r®mEkyóD 0g a0'emok 0d[&wd/ (r-1-75/)
-ork',"r®mEkyóD0g pdwåo®d H 0d[&wd? 0,"r®mEkyóD 0g pdwåo®d H 0d[&wd? ork',0,"r®m-
-EkyóD 0g pdwåo®d H 0d[&wd/ (r-1-76/)
+ork',"r®mEkyóD0g pdwåo®dH 0d[&wd? 0,"r®mEkyóD 0g pdwåo®dH 0d[&wd? ork',0,"r®m-
+EkyóD 0g pdwåo®dH 0d[&wd/ (r-1-76/)
 ork',"r®mEkyóD0g "ar®ok 0d[&wd? 0,"r®mEkyóD 0g "ar®ok 0d[&wd? ork',0,"r®m-
 EkyóD 0g "ar®ok 0d[&wd/ (r-1-77-78/)
 þa'oemawmfwdkYum;-um,-a0'em-pdwå-"r® trnf&aom owd\ uyfíwnf&m tm½Hk"r®
@@ -9819,7 +9819,7 @@ tedpöawm reodua&mawm Mobmaom OyÜZÆwd? “Mobmaom "ar®m”wd MobmoH tm0ZÆwd?
 wawm 0dau©ayg O'¨pHö/ awe O'¨apöe 0d*¾[dwrmeaom tedpöawm Oy|meH ,xmblwH eyÜZmemwd/
 'ku©awm/ tewåawm Oy|meH ,xmblwH eyÜZmemwd/
 tedpöawm reodua&mawm ÓPH OyÜZÆwd/ y/ yDwd/ yó'¨d/ okcH/ t"darmau©m/ y*¾a[m/
-Oy|meH/ Oayu©m/ eduEÅd OyÜZÆwd/ “eduEÅd "ar®m”wd eduEÅd H tm0ZÆwd? wawm 0dau©ayg O'¨pöH/ awe
+Oy|meH/ Oayu©m/ eduEÅd OyÜZÆwd/ “eduEÅd "ar®m”wd eduEÅdH tm0ZÆwd? wawm 0dau©ayg O'¨pöH/ awe
 O'¨apöe 0d*¾[dwrmeaom tedpöawm Oy|meH ,xmblwH eyÜZmemwd/ 'ku©awm/ tewåawm Oy|meH
 ,xmblwH eyÜZmemwd/ (y#doH-291/ 0dok'¨d-2-269/)
 Mobmom'Dok “t&d,"ar®m”wd y0wåH O'¨pöH 0dau©ayg "r®K'¨pöH? awe "r®K'¨apöe 0dyóem0Dxdawm
@@ -10295,7 +10295,7 @@ ynwfç oP²meynwf ponfhynwfwdkY ruGmao;ojzifh ynwfe,frSmom wnf&dSaeao;aom Ce
 twHk;tcJ jzpf\/ CerNydKao;onfh ,if;Mobmo twHk;tcJudkum; 0dyóem r½Iaumif;? y&rwfudkom
 0dyóem ½Iaumif;\/ owd&Sdap/
 ww¬ yXrea, tedpövu©P0dbm0ear0 'ódwH?
-wo®d H oda'¨ £w&rÜd vu©P'G,H od'¨ar0 a[mwd/ (r[m#D-2-433/)
+wo®dH oda'¨ £w&rÜd vu©P'G,H od'¨ar0 a[mwd/ (r[m#D-2-433/)
 0dok'd¨r*¾t|uxmwGif Mobmoudk 0dyóem ½I&mü enf;ESpfenf; zGifhqdkxm;awmfrl\/ txufwGif
 a&;om;wifjyxm;aom 0dyóem½Ienf;rSm yxrenf;jzpf\/ ,if;yxrenf;ü tedpörSonf eda&m""r®odkY
 wdkifatmif (7)rsKd;aom ½IuGufrSm tedpövu©PmudkomvQif xifxif&Sm;&Sm; azmfjyjcif;jzpf\/ xdktedpö
@@ -10454,7 +10454,7 @@ wpdk;wpdrQ r&Sdonfh tewåoabmudkvnf;aumif; ÓPftjrif ouf0ifawmhonfom [lvdkonf/
 þtjcif;t&m oHk;rsKd;vHk;onf txl;ojzifh xif&Sm;vm\/ xdkYaMumifh ocFg&w&m;wdkY\ jzpfrIysufrI
 O',AÁ,udk ESvHk;oGif;rIonf vu©Pma&;oHk;wef xif&Sm;vmzdkY&ef taMumif;&if;ppf {uefyif
 jzpf\/ xdkYodkY vu©Pma&;oHk;wef xif&Sm;rI\ taMumif;&if;ppf jzpfaomaMumifh O',AÁ,ÓPfü
-tm;xwk jfci;f \ vuP© ma&;o;kH yg;uk daumi;f pmG yikd ;f jcm;rwS of m;jci;f tusK;d &odS n\f tjzpuf k do&d ydS gav/
+tm;xwk jfci;f \ vuP© ma&;o;kH yg;uk daumi;f pmG yikd ;f jcm;rwS of m;jci;f tusK;d &odS n\f tjzpufK do&d ydS gav/
 ocFg&w&m;wdkY\ jzpfjcif; ysufjcif; O',AÁ,udk ypöu©ÓPfjzifh udk,fwdkifrsufarSmuf jyKEdkif½kHrQom odtyfonf
 r[kwfay/ (ocFg&w&m;wdkY\ jzpf-ysufudk jrif½kHrQom ½Iaeonf r[kwf? vu©Pma&;oHk;wef
 xif&Sm;atmif ½Ijcif; jzpfonf[k od&Sdyg [lvdkonf/) (r[m#D-2-436/)
@@ -10783,8 +10783,8 @@ b*FgEkyóemÓPfcef;
 b*FgEkyóemÓPf[lonf
 waó0H ov’au©wGm ykeyÜKeH “tedpHö 'ku©rewåm”wd ½lyg½ly"ar® wkv,awm wD&,awm wH
 ÓPH wdu©H [kwGm 0[wd? ocFg&m v[Hk Oy|[EÅd? ÓaP wdau© 0[aEÅ ocFga&ok v[kH Oy|[aEÅok
-OyÜg'H 0g Xdwd H 0g y0wåH 0g edrdwåH 0g e orÜmykPmwd/ c,0,ab'eda&ma"a,0 owd oEÅd|wd/
-wó “{0H OyÜZÆdwGm {0H emr ocFg&*wH ed½kZöswD”wd yóawm {wod® H Xmae b*FgEkyóeH emr
+OyÜg'H 0g XdwdH 0g y0wåH 0g edrdwåH 0g e orÜmykPmwd/ c,0,ab'eda&ma"a,0 owd oEÅd|wd/
+wó “{0H OyÜZÆdwGm {0H emr ocFg&*wH ed½kZöswD”wd yóawm {wod®H Xmae b*FgEkyóeH emr
 0dyóemÓPH OyÜZÆwd/ (0dok'¨d-2-277/)
 þodkYvQif ½kyfemrf"r® ocFg&w&m;wdkY\ tedpötjcif;t&mç 'ku©tjcif;t&mç tewåtjcif;t&mwdkYudk
 aumif;pGm ydkif;jcm;rSwfom;vsuf tzefwvJvJ “tedpö[k 'ku©[k tewå[k” ½kyfw&m; emrfw&m;wdkYudk
@@ -11744,7 +11744,7 @@ aom oknwoabmonf a,m*g0p&yk*¾dKvf\ ÓPf0ü xifaeonf [lvdk/ xdkaMumifh a&S; t|uxm
 q&mawmfwdkYonf þodkY rdefYqdkawmfrlMuonf/ -----
 cE¨m ed½kZÑEÅd e pw¬d tanm? cE¨me aba'g r&PEÅd 0kpöwd/
 awoH c,H yówd tyÜrawåm? rPd H0 0dZÑH 0Zda&e a,medaom/ (0dok'¨d-2-281/)
-cE¨m = cE¨mjzpfaom ocFg&w&m;wdkYonfomvQif/ ed½kZÑEÅd = csKyfukef\/ £ro d® H avmau =
+cE¨m = cE¨mjzpfaom ocFg&w&m;wdkYonfomvQif/ ed½kZÑEÅd = csKyfukef\/ £ro d®H avmau =
 þavmuü/ tanm = cE¨mrSwpfyg;aom csKyfwwfaomw&m; aowwfaomol rnfonf/ e p tw¬d
 = r&SdonfomvQifwnf;/ cE¨meH = cE¨mwdkY\/ aba'g = ysufjcif;udk/ r&PEÅd = r&P[lí/ 0kpöwd =
 qdktyf\/ awoH cE¨meH = xdkcE¨mjzpfaom w&m;wdkY\/ c,H = cPwdkif; cPwdkif; xifvSmaom bifudk/
@@ -11854,7 +11854,7 @@ vGefuJjrifhjrwfaom ukodkvfw&m;wdkYü rarGUavsmfjcif;ç umr*kPfwdkYü arGUavsmfay
 EdSrfeif;zsufqD;Edkifjcif; -----
 þum; b*FgEkyóemÓPfü jcH&Hxm;tyfaom tusKd;tmedoif (8)rsKd;wnf;/ (0dok'd¨-2-281/)
 xdkaMumifh a&S;a&S; t|uxmq&mawmfwdkYonf þodkY rdefYqdkxm;awmfrlMuukef\/
-£rmed t|*¾KPrkwårmed? 'doGm w[d H or®oaw ykeyÜKeH/
+£rmed t|*¾KPrkwårmed? 'doGm w[dH or®oaw ykeyÜKeH/
 tm'dwåapvód&olyarm rked? b*FgEkyóD trwó ywåd,m/ (0dok'd¨-2-282/)
 w[d H= xdkb*FgEkyóemü/ £rmed t|*¾KPrkwårmed = b0'd|dudk y,fjcif;tp&Sdaom þ&Spfyg;aom
 jrwfaom tusKd;tmedoifwdkYudk/ 'doGm = awGUjrifí/ tm'dwåapvód&olyarm = OD;acgif;ü wajymif
@@ -12283,7 +12283,7 @@ qefYusifbufw&m;wdkYrS vGwfajrmufapvsuf 0ifoufavudk jzpfaptHh? xGufoufavudk jzpfa
 usifh\”[lí bk&m;&Sifonf a[mMum;awmfrlayonf/ þodkYvQif pdwåmEkyóem\ tpGrf;jzifh þwwd,
 pwkuúudk a[mMum;awmfrl\[k od&dSygav/ (0dok'd¨-1-281/)
 pdwfwpfckwnf;udkyif ½I&rnfavm¿
-,ó 0dnmPH ygu#H a[mwd? aom “e au0vH 0dnmPar0 OyÜZÆwd? awe o'd¨ H wa'0g-
+,ó 0dnmPH ygu#H a[mwd? aom “e au0vH 0dnmPar0 OyÜZÆwd? awe o'd¨H wa'0g-
 &r®PH zkormaem zaómyd OyÜZÆwd? tEkb0rmem a0'emydç oÍÆmeermem onmydç apw,rmem
 apwemyd OyÜZÆwD”wd zóyÍöraua,0 y&d*¾PSmwd/ ('D-|-1-314/ r-|-1-280-281/ tbd-|-2-
 252/)
@@ -12584,7 +12584,7 @@ tm½kH&dSaom b*FgEkyóemÓPfudk ½kd½dkaoao av;av;pm;pm; rSD0Jaom jzpfapaom yGm
 rsm;pGm tavhtvmjyKaom xdka,m*g0p&yk*¾dKvf\ oEÅmefü (31)bHktwGif;ü wnf&dSaom ocFg&w&m;
 rSeforQwdkYonf BuD;pGmaom aMumufrufzG,f jzpfí xifvmukef\/
 wó “twDwm ocFg&m ed½k'¨g? ypöKyÜEém ed½kZösEÅd? tem*aw edAÁwåeuocFg&myd {0ar0 ed½kZösdóEÅD”
-wd yóawm {wo®d H Xmae b,wky|meÓPH emr OyÜZÆwd/ (0dok'd¨-2-282/)
+wd yóawm {wo®dH Xmae b,wky|meÓPH emr OyÜZÆwd/ (0dok'd¨-2-282/)
 “vGefukefNyD;aom twdwfocFg&w&m;wdkYonf csKyfcJhNyD;ukefNyD? ypöKyÜefocFg&w&m;wdkYonf csKyfukefqJ
 jzpfMuukef\? tem*wfocFg&w&m;wdkYonf csKyfukefvwåHU/”
 þodkY ½Iaom a,m*g0p&yk*¾dKvf\ oEÅmefü ocFg&w&m;wdkY\ tysufudk tOD;rlojzifh ocFg&
@@ -13322,7 +13322,7 @@ wpfyg;aom twåudk rdrd\ aMumifhMuzG,fjzpfí jzpfonfudkvnf;aumif;ç tZöswå A[d'
 ñTefMum;aom ½IuGufjzpf\/
 353
 y#dy'gÓP'óe0dok'¨d eda'´o -- ocFg½kayu©mÓPfcef;
-2/ uópd udÍöewo d® H ----- þ'kwd,½IuGufrSm rdrdtwå\yifvQif wpfpHkwpfa,mufaom ol\
+2/ uópd udÍöewo d®H ----- þ'kwd,½IuGufrSm rdrdtwå\yifvQif wpfpHkwpfa,mufaom ol\
 twåed, r[kwfonfukd = twåESifhqufpyfrI r&dSonfudk jrifatmif½I&ef ñTefMum;aom ½IuGufjzpf\/
 3/ e p (rr) uGped ----- þ wwd,½IuGufrSm ocFg&w&m;wdkYü olwpfyg;\ twår&dSrIudk jrifatmif
 ½I&ef ñTefMum;aom ½IuGuf jzpf\/
@@ -13351,7 +13351,7 @@ vnf;aumif;ç
 5/ tcgcyfodrf; xif&Sm;&dSonf\ tjzpf[laom oów oabmrSvnf;aumif;ç
 6/ azmufjyefjcif; uif;onf\ tjzpf[laom t0dy&dPmr"r® oabmrSvnf;aumif; ----
 qdwfokOf;rI uif;qdwfrI oknwoabmudk ,if;ocFg&w&m;wdkYü 0dyóemÓPfjzifh jrifatmif
-Muníhf onk H onk H - [k ½Iyg/ wpfenf; ----- tewå tewå ç tedpö tedpö - [k ½Iyg/
+Muníhf onkH onkH - [k ½Iyg/ wpfenf; ----- tewå tewå ç tedpö tedpö - [k ½Iyg/
 (1) (2) wdkYum; tewåmEkyóemyif jzpf\/ (3 - 4 - 5 - 6) wdkYum; tedpömEkyóemwdkY
 jzpfMu\/ þ txufazmfjyyg ocFg&w&m; toD;toD;ü þoabmw&m; (6)rsKd;rS uif;qdwfrI oknw
 354
@@ -13527,11 +13527,11 @@ ysufrI 0,oabmoufoufudkom tm½kH,lí 0dyóem½I&\/ þrQom xl;onf/
 y#dy'gÓP'óe0dok'¨d eda'´o -- ocFg½kayu©mÓPfcef;
 &Sifaorif; rjrifEdkifol
 oknawm avmuH ta0u©ók? armC&mZ o'g oawm/
-twåmEk'd|d H OD[pö? {0H rpöKwa&m od,m/
+twåmEk'd|dH OD[pö? {0H rpöKwa&m od,m/
 {0H avmuH ta0u©EÅH? rpöK&mZm e yówd/
 (ck-1-448/ plVed-180/)
 armC&mZ = 'g,umawmf armC&mZ&aoh/ o'g = aeYa&mnOfhyg tcgcyfodrf;/ oawm =
-owdy|mef av;yg; rjywfyGm;vsuf xifaom owdESifh jynfhpHkonf jzpfí/ twåmEk'd|d H = twå[lí
+owdy|mef av;yg; rjywfyGm;vsuf xifaom owdESifh jynfhpHkonf jzpfí/ twåmEk'd|dH = twå[lí
 tpOfajy;oGm;aom ESpfq,faom wnf&m0w¬K &dSaom ouúm,'d|dudk/ OD[pö = emr½lyy&dapä'ÓPf
 ypö,y&d*¾[ÓPfwdkYjzifh EIwfypfy,fcGmí/ oknawm = edpö okc twå okbpaom tESpfom&rS
 qdwfokOf;aomtm;jzifh/ avmuH = 'ku©opöm ork',opöm[lonfh ½kyfemrf"r® ocFg&avmuudk/ ta0-
@@ -13793,7 +13793,7 @@ trnf&onfh rjzpfrysufonfh tNidrf;"mwf e,fbufodkY ul;wufoGm;Edkifrnf jzpfayonf/
 {0H ar okwH/ {uH or,H tm,o®m tmeaE´m aumorÁd,H 0d[&wd aCmodwm&mar/ wMw
 acg tm,o®m tmeaE´m bdu©L tmraEÅod “tm0kaom bdu©a0”wd/ “tm0kaom”wd acg aw bdu©L
 tm,o®awm tmeE´ó ypöaómokH/ tm,o®m tmeaE´m {w'a0gp -----
-a,m [d aumpd tm0kaom bdu©K 0g bdu©KeD 0g rr oEÅdau t&[wåyÜwåd H Asmua&mwd? oaAÁm
+a,m [d aumpd tm0kaom bdu©K 0g bdu©KeD 0g rr oEÅdau t&[wåyÜwådH Asmua&mwd? oaAÁm
 aom pwl[d ra*¾[d {awoH 0g tnwa&e/ uwar[d pwl[d/
 1/ £" tm0kaom bdu©K orxykAÁ*FrH 0dyóeH bma0wd? wó orxykAÁ*FrH 0dyóeH bm0,-
 awm ra*¾g oÍÆm,wd? aom wH r*¾H tmao0wd bma0wd A[kvDua&mwd/ wó wH r*¾H
@@ -13812,7 +13812,7 @@ a[mEÅd/
 pdwåH tZöswåar0 oEÅd|wd oEédoD'wd {aum'd a[mwd orm"d,wd? wó ra*¾g oÍÆm,wd?
 aom wH r*¾H tmao0wd bma0wd A[kvDua&mwd/ wó wH r*¾H tmao0awm bm0,awm
 A[kvDua&mawm oHa,mZemed y[D,EÅd? tEko,m AsEÅD a[mEÅd/
-a,m [d aumpd tm0kaom bdu©K 0g bdu©KeD 0g rr oEÅdau t&[wåyÜwåd H Asmua&mwd? oaAÁm
+a,m [d aumpd tm0kaom bdu©K 0g bdu©KeD 0g rr oEÅdau t&[wåyÜwådH Asmua&mwd? oaAÁm
 aom £ar[d pwl[d ra*¾[d {awoH 0g tnwa&emwd/ (tH-1-475-476/)
 bmomjyefESifh t"dyÜg,f &Sif;vif;csuf
 wynfhawmfonf þodkY Mum;emcJh&ygonf/ tcgwpfyg;ü t&SiftmeE´monf aumorDÁjynf
@@ -13886,7 +13886,7 @@ Budrfzefrsm;pGm tavhtvmjyK\/ xdkr*fudk rDS0Jaom yGm;rsm;aom Budrfzefrsm;pGm tavh
 jyKaom xdk&[ef;tm; oHa,mZOfwdkYonf aysmufysufukef\ = y,fNyD; jzpfukef\/ tEko,wdkYonf
 uif;aysmuf ½kyfodrf; csKyfNidrf;ukef\/ (tH-1-475/)
 0dyóemykAÁ*FrEÅd 0dyóeH ykAÁ*FrH yka&pm&duH uwGm orxH bma0wd? yuwd,m 0dyóemvmbD
-0dyóem, XwGm orm"d H OyÜga'wDwd taw¬m/ (tH-|-2-346/)
+0dyóem, XwGm orm"dH OyÜga'wDwd taw¬m/ (tH-|-2-346/)
 0dyóemykAÁ*FrH orxH bma0wDwd £'H ye 0dyóem,meduó 0aoe 0kwåH/ aom wH 0kwåyÜum&
 H orxH torÜma'wGm yÍöKyg'geu©aE¨ tedpöm'D[d 0dyówd/ (tH-#D-2-344/)
 trSwf(1) yk*¾dKvfum; orx,medu yk*¾dKvf jzpf\/ þ trSwf(2) yk*¾dKvfum; ok'¨0dyóem,medu
@@ -13908,7 +13908,7 @@ t|uxm #DumtzGifhwdkYudk Munfhyg/
 bma0wD”wd/ (r-|-1-113/)
 370
 edAÁme*grdedy#dy'g -- yÍörwGJ
-orxH tEkyÜga'wGm0gwd t0"m&aPe Oypm&orm"d H ed0awåwd? e cPduorm"d H/ e [d
+orxH tEkyÜga'wGm0gwd t0"m&aPe Oypm&orm"dH ed0awåwd? e cPduorm"d H/ e [d
 cPduorm"d H0dem 0dyóem orÇ0wd/ 0dyóemyg&dyl&d,mwd 0dyóem, y&dykPÖwm, 0k|me*grdedbm0yÜwåd,
 m/ (r-#D-1-204/)
 þomoemawmfü tcsKdUaom ok'¨0dyóem,medu yk*¾dKvfonf qdktyfchJNyD;aom Oypm&orm"d
@@ -13950,7 +13950,7 @@ avmud,r*fonf ) xif&Sm;jzpfay:vm\/ xdk&[ef;onf xdkr*fudk rDS0J\ yGm;rsm;\ Budrfze
 tavhtvmjyK\/ xdkr*fudk rDS0Jaom yGm;rsm;aom Budrfzefrsm;pGm tavhtvmjyKaom xdk&[ef;-
 awmftm; oHa,mZOfwdkYonf aysmufysufukef\ = y,fNyD; jzpfukef\? tEko,wdkYonf uif;aysmuf
 ½kyfodrf; csKyfNidrf;ukef\/ (tH-1-475/)
-,k*e'¨H bma0wDwd ,k*e'¨H uwGm bma0wd/ ww¬ awae0 pdawåe ormywåd H ormyZÆdwGm
+,k*e'¨H bma0wDwd ,k*e'¨H uwGm bma0wd/ ww¬ awae0 pdawåe ormywådH ormyZÆdwGm
 awae0 ocFga& or®odwHk e ouúm/ t,H ye ,m0wm ormywåda,m ormyZÆwd? wm0wm ocFga&
 or®owd/ ,m0wm ocFga& or®owd? wm0wm ormywåda,m ormyZÆwd/ uxH¿ yXrZösmeH ormyZÆwd?
 wawm 0k|m, ocFga& or®owd? ocFga& or®odwGm 'kwd,ZösmeH ormyZÆwd/ wawm 0k|m, yke
@@ -14562,7 +14562,7 @@ qdkufa&mufwwfaomaMumifh 0k|me*grdeD rnf\/ t&d,r*fÓPfESifh twlwuG qufpyfrd\[k qd
 tb,fodkYvQif t&d,r*fonf 0dyóemÓPf\ t½IcHtm½kHjzpfaom Oyg'geu©E¨mig;yg; taygif;-
 wnf;[laom ocFg&edrdwfrS xoenf;? tb,fodkYum; rdrd ½kyfemrfoEÅmef tpOfü rjywfjzpfaeaom
 udavomt,OfESifh Oyg'dEéu©E¨mt,Of = 0dygufcE¨mt,Of [laom tZöswåy0wårS xoenf;[lrl¿----
-0k|[eÍö aeoH tm&r®Pmu&PHç tm,wd H tEkyÜwåd"r®wmyg'eÍö/ (r[m#D-2-469/)
+0k|[eÍö aeoH tm&r®Pmu&PHç tm,wdH tEkyÜwåd"r®wmyg'eÍö/ (r[m#D-2-469/)
 0k|me*grdeD 0dyóem trnf&aom ocFg½kayu©mÓPf tEkavmrÓPf a*gMwbkÓPfwdkYonf
 r*¾0DxdtwGif;ü wpfckNyD;wpfck qufwdkuf jzpfay:oGm;Mu\/ ,if;0k|me*grdeD 0dyóemÓPf\ tjcm;rJhü
 (a*gMwbkÓPf\ tjcm;rJhü) t&d,r*fÓPfonf jzpfay:vm\/ xdkaMumifh 0dyóemÓPfESifh t&d,
@@ -14724,7 +14724,7 @@ ma&e yÍö[d caE¨[d 0k|mwd emr/ (0dok'¨d-2-300/)
 ,xmOy|daw ye ½lyg½ly"ar®ç awoÍö ypöa, y&d*¾a[wGm oacFayae0 0dyóemÓPH pma&aEÅm
 ÓPkwåa&m ,xmedodaEém0 ÓPy#dyg#d,m cdyÜar0 opömed y#d0dZösaEÅm {uyÜ[ma&e yÍö[d caE¨[d
 0k|mwd emr/ tnxm {auae0 avmud,pdawåe yÍöEéH cE¨meH y&d*¾[y&dZmeem'DeH torÇ0awm/ e
-[d oed'óeoyÜ#dCm'd H {uZösH tm&r®PH umwHk ouúm/ ,ó ye {u0g&H ÓaPe zódwH? yke wH
+[d oed'óeoyÜ#dCm'dH {uZösH tm&r®PH umwHk ouúm/ ,ó ye {u0g&H ÓaPe zódwH? yke wH
 zódwAÁar0/ wm'doó 0aoe 0kwåEÅd 0'EÅd/ (r[m#D-2-470/)
 ,H udÍdö ork',"r®H oAÁH wH eda&m""r®H/ ('D-1-102 ...)
 “trSwfr&Sd tvHk;pHkaom bkHoHk;yg; twGif;ü wnf&Sdaom awblru ocFg&w&m; taygif;onf
@@ -15039,7 +15039,7 @@ jcif; -- [k t|uxmu rdefYqdkjcif; jzpfonf/
 trw&oH um,*wmowdabmZeH
 um,*wmowd {0 abmZeH um,*wmowdabmZeH/ om yaew¬ r*¾orÜ,kwåm or®mowd
 um,mEkyóem'd udpöom"e0aoe trw&oy&dabm*wm, p “trw&oH um,*wmowdabmZe”
-EÅd 0kwåm/ awem[ b*0g “ trwH aw bdu©a0 y&dbkÍÆEÅd? a, um,*wmowd H y&dbkÍÆ-
+EÅd 0kwåm/ awem[ b*0g “ trwH aw bdu©a0 y&dbkÍÆEÅd? a, um,*wmowdH y&dbkÍÆ-
 EÅD”wdtm'd/ (r[m#D-2-472/)
 xdkum,*wmowdum; þü t&d,r*fESifh ,SOfaom or®mowdwnf;/ xdkowdudk um,mEkyóem
 a0'emEkyóem pdwåmEkyóem "r®mEkyóem[laom udpöudk NyD;aponf\ tpGrf;jzifh jzpfay:vmaomaMumifhvnf;
@@ -15047,7 +15047,7 @@ aumif;ç rao&m tNrdKufedAÁmef w&m;awmfjrwfBuD;\ trw&o = tNrdKuft&omudk
 oHk;aqmifaomtm;jzifh jzpfay:vmaomaMumifhvnf;aumif; ----- trw&oH um,*wmowdabmZeH
 = rao&m tNrdKuft&om &Sdaom um,*wmowd abmZOf - [lí qdktyfownf;/ xdkaMumifh bk&m;&Sifonf
 t*FkwåKd&fygVdawmf {uedygwf trw0*fü -----
-“trwH aw bdu©a0 y&dbkÍÆEÅd? a, um,*wmowd H y&dbkÍÆEÅd/” (tH-1-47/)
+“trwH aw bdu©a0 y&dbkÍÆEÅd? a, um,*wmowdH y&dbkÍÆEÅd/” (tH-1-47/)
 = “&[ef;wdkY ...tMuifolwdkYonf um,*wmowdudk oHk;aqmifMuukef\? xdkolwdkYonf rao&m
 tNrdKuf edAÁmefudk oHk;aqmifMuonf rnfukef\” --- þodkY a[mMum;xm;awmfrl\/
 (r[m#D-2-472/)
@@ -15666,7 +15666,7 @@ wdkifwdkif cGmojzifh qif;&Jyifyef;NidKjiifrI&Sdaom 0g&udk 'ku©my#dy'g[lí t|uxm
 edAÁme*grdedy#dy'g -- yÍörwGJ
 oufawmfrlMuaMumif;udk rlv#Dumq&mjrwfwdkY zGifhqdkawmfrlMuonfum; rSefygayukef\? odkYaomf
 t|omvdeDt|uxm (261)ü -----
-0dyóemÓaP wdau© ola& yoaEé 0[aEÅ OyÜEéH 0dyóemeduEÅd H y&d,m'd,rmaem 'kau©e
+0dyóemÓaP wdau© ola& yoaEé 0[aEÅ OyÜEéH 0dyóemeduEÅdH y&d,m'd,rmaem 'kau©e
 uoda&e udvraEÅm y&d,m'd,wd/ (tbd-|-1-261/)
 0dyóemÓPfonf xufjrufpl;&Sonfjzpfí &J&ifhonfjzpfí Munfvifonfjzpfí 0dyóem0efudk
 &GufaqmifEdkifvwfonf&Sdaomf rdrdoEÅmefwGif jzpfay:vmaom Mobmoponfü ESpfoufaeaom
@@ -15832,7 +15832,7 @@ owfrSwfay;\/ (0dok'¨d-2-307-308/)
 y#doaE¨usKd;udk ay;Edkifonfh ocFg½kayu©mrsKd;
 uxH ykxkZÆeó p aou©ó p ocFg½kayu©m, pdwåó tbdeD[ma&m {uwåH a[mwd/
 ykxkZÆeó ocFg½kayu©H tbdeE´awm pdwåH udvdówd? bm0em, y&dyaE¦m a[mwd? y#da0"ó
-tEÅ&ma,m a[mwd? tm,wd H y#doE¨d,m ypöa,m a[mwd/ aou©ómyd ocFg½kayu©H tbdeE´awm
+tEÅ&ma,m a[mwd? tm,wdH y#doE¨d,m ypöa,m a[mwd/ aou©ómyd ocFg½kayu©H tbdeE´awm
 pdwåH udvdówd? bm0em, y&dyaE¦m a[mwd? Owå&d y#da0"ó tEÅ&ma,m a[mwd? tm,wð
 y#doE¨d,m ypöa,m a[mwd/ {0H ykxkZÆeó p aou©ó p ocFg½kayu©m, pdwåó tbdeD[ma&m
 {uwåH a[mwd tbdeE´ea|e/ (y#doH-60/)
@@ -16435,7 +16435,7 @@ ukodkvfcE¨mwdkYtm; jzpfay:vmatmif aus;Zl;jyKay;jcif;[laom) teEÅ&ypö,owådjzif
 þodkYvQif y|mef;a'oemawmfü þ0k|me*grdeD 0dyóemudk tEkvHk a*gMwbk a0g'gef[laom
 trnf oHk;rsKd;wdkYjzifh a[mMum;xm;awmfrl\/ (0dok'¨d-2-310/)
 8/ y#dy'gÓP'óe 0dok'¨d
-ud H yem0kaom y#dy'gÓP'óe0dok'¨w¬H b*0wd jA[®p&d,H 0kówd/ (r-1-201/)
+udH yem0kaom y#dy'gÓP'óe0dok'¨w¬H b*0wd jA[®p&d,H 0kówd/ (r-1-201/)
 = igh&Sif ...todkYenf;? y#dy'gÓP'óe0dok'¨d tusKd;iSm bk&m;&Sif\ txHawmfü jA[®p&d,
 trnf&aom jrwfaomtusifhudk usifhoHk;oavm/ (r-1-201/)
 þodkYvQif &x0deDwokwåefü þ 0k|me*grdeD 0dyóemudk y#dy'gÓP'óe0dok'¨d [lí a[m
@@ -17803,7 +17803,7 @@ w&m; rnfukef\/ avmuD0dyóemykdif;üvnf; 0dyóemtcdkuf0,f þ aAm"dyud©,w&m;wdkYu
 xdkufovdk &&dSEdkifayonf/
 tmemygeówd bdu©a0 bm0dwm A[kvDuwm pwåma&m owdy|mae y&dyla&EÅd/ pwåma&m
 owdy|mem bm0dwm A[kvDuwm owå aAmZösa*F y&dyla&EÅd/ owå aAmZös*Fg bm0dwm A[kvDuwm
-0dZÆm0drkwdå H y&dyla&EÅd/ (r-3-124/)
+0dZÆm0drkwdåH y&dyla&EÅd/ (r-3-124/)
 &[ef;wdkY ...tmemygeówdudk yGm;rsm;avhvmonf&dSaomf owdy|mef av;yg;wdkYudk jynfhapukef\?
 owdy|mefav;yg;wdkYudk yGm;rsm;avhvmukefonf&dSaomf aAmZösif ckepfyg;wdkYudk jynfhapukef\/
 aAmZösif ckepfyg;wdkYudk yGm;rsm;avhvmukefonf&dSaomf t&[wår*f t&[wåzdkvfudk jynfhapukef\/
@@ -17830,7 +17830,7 @@ tm½kH&dSonf\ tjzpfaMumifh ocFg&edrdwfrSvnf; xukef\/ ork',opömudk t<uif;rJh y,f
 aMumifh y0wårSvnf; xukef\/ xdkaMumifh Obawm0k|me = edrdwå y0wå ESpfyg;pHkrS xajrmufaomw&m;wdkY
 jzpfukef\/ (0dok'¨d-2-321/)
 edrdwå-y0wå --- ww¬ edrdwåawm 0k|meH ocFg&edrdwåH edóZdÆwGm edAÁmem&r®Pu&PH/ y0wåawm
-0k|meH a[wkeda&ma"e tm,wd H 0dyguyÜ0wåó tEkyÜwåd"r®wmyg'eH/ awem[ “ork',ó torkpädE
+0k|meH a[wkeda&ma"e tm,wdH 0dyguyÜ0wåó tEkyÜwåd"r®wmyg'eH/ awem[ “ork',ó torkpädE
 ´eawm y0wåm e 0k|mwD”wd/ (r[m#D-2-494/)
 ocFg&edrdwfudk pGefYí edAÁmefudk tm½kHjyKjcif;onf edrdwåawm 0k|me = ocFg&edrdwfrS xonf rnf\/
 t0dZÆm wPSm Oyg'gef ocFg& uH[laom taMumif; ork',opömw&m;wdkY\ t<uif;rJh csKyfjcif;aMumifh
@@ -19174,7 +19174,7 @@ t&d,r*fÓPfonf rdpäm0gpm rdpämur®EÅ rdpämtmZD0wdkYudk vGefusL;aMumif; udavo
 <uif;rhJ y,fowf\/ or®m'd|d or®mouFyÜ[laom ynmr*¾ifç or®m0g,mr or®mowd or®morm"d
 [laom orm"dr*¾ifwdkYudk rodatmif zHk;vTrf;xm;wwfaom arm[udkvnf; t<uif;rJh y,fowf\/
 zdkvfÓPfonf xdkt&d,r*fu y,fowftyfaom udavomwdkYudk wpfzef xyfí Nidrf;oxuf Nidrf;atmif
-y#dyórÇe\ tpGrf;jzif h Nid§rf;owf\/ xdkodkY r*fÓPf zdkvfÓPfwdkYu orkpädE´e y#dyórÇe\ tpGrf;jzifh
+y#dyórÇe\ tpGrf;jzifH Nid§rf;owf\/ xdkodkY r*fÓPf zdkvfÓPfwdkYu orkpädE´e y#dyórÇe\ tpGrf;jzifh
 521
 ÓP'óe0dok'¨d eda'´o --
 jzpfaptyfukefaom avmuwå&m jzpfukefaom oDvr*¾if orm"dr*¾if ynmr*¾ifwdkYjzifh t&d,yk*¾dKvfonf
@@ -19495,7 +19495,7 @@ onD p ye tómwd tx p yeó ormywåd o0dwuúormywåda,0 tómwd 0kpöwd/
 {wH oEÅH {wH yPDwEÅd oEÅH oEÅ EÅd tayÜwGm edodEéó 'd0orÜd pdwåKyÜga'g “oEÅH oEÅ”aEÉ0 y0wåwd?
 yPDwH yPDwEÅd tayÜwGm edodEéó 'd0orÜd pdwåKyÜga'g “yPDwH yPDw”aEÉ0 y0wåwd/ ,'d'H
 oAÁocFg&oraxmwd edAÁmeH edAÁmeEÅd tayÜwGm edodEéó 'd0orÜd pdwåKyÜga'g “edAÁmeH edAÁme”aEÉ0 y0-
-wåwDwd oAÁarÜwH zvormywådorm"d H oE¨m, 0kwåH/ y/ opdwåum ar om ormywåd ta[mod/
+wåwDwd oAÁarÜwH zvormywådorm"dH oE¨m, 0kwåH/ y/ opdwåum ar om ormywåd ta[mod/
 (tH-|-3-288/)
 þ zvormywfum; onm&Sdaom ormywf jzpf\? pdwf&Sdaom opdwåu ormywf jzpf\/
 “{wH oEÅH {wH oEÅH = þedAÁmefw&m;awmfjrwfonf Nidrf;at;\? þedAÁmefw&m;awmfjrwfonf Nidrf;-
@@ -19928,7 +19928,7 @@ a,m*g0p&yk*¾dKvf\ pdwfudk vlüjzpfaom tm½kHwdkYudk xm;bdOD;? ewfüjzpfukefaom 
 avmb\ tpGrf;jzifh xuf0ef;usifrS rqGJaqmifEdkifukef/ (0dok'¨d-1-94/)
 {0H A[lyum&wåm oAÁw¬ tw¬,dwAÁH £pädwAÁEÅd p t"dayÜwó a,m*gEka,m*ur®ó XmeÍömwd
 oAÁw¬uur®|meEÅd 0kpöwd/ (0dok'¨d-1-94/)
-oAÁw¬ oAÁo®d H orPu&PDa,? oAÁo®d H0g ur®|memEka,ma*/ ykAÁmao0e0aoe tw¬,dwAÁH/
+oAÁw¬ oAÁo®dH orPu&PDa,? oAÁo®d H0g ur®|memEka,ma*/ ykAÁmao0e0aoe tw¬,dwAÁH/
 a,m*ó bm0em, tEk,kÍÆeH a,m*gEka,ma*g? wa'0 u&PD,a|e ur®H? wó a,m*gEka,
 m*ur®ó XmeH edyæwåda[wk/ (r[m#D-1-119/)
 543
@@ -20203,7 +20203,7 @@ aum|momeH y*kPumvawm y|m, wDok rkacok {aue rkace 0drkpödówd? ur®|meH 0PÖawm
 ,H ,H £päwd? wH wH ypwd/ ,xm 0g ye oar blrdyÜa'ao XydwH O'uyl&H ukrÇH ,awm ,awm
 tm0dO ä EÅd? wawm wawm0 O'uH edu©rwd? {0ar0 aum|momeH y*kPumvawm y|m, wDok
 rkacok {aue rkace 0drkpödówd/ tmucFrmeó 0PÖawmç tmucFrmeó y#dulvawmç tmucFrmeó
-oknawm ur®|meH Oy|[dówda,0/ t,H {wåaum O*¾[oE¨d emr/ £ro®d H O*¾[-
+oknawm ur®|meH Oy|[dówda,0/ t,H {wåaum O*¾[oE¨d emr/ £ro®dH O*¾[-
 oE¨do®ð XwGm t&[wåH ywåm bdu©L *PeyxH 0Dwd0wåm/ (tbd-|-2-242-243/)
 (32)aum|mowdkYudk t0g;0pGm avhvmNyD;&m tcgrSpí ----
 1/ 0PÖ = 0PÖuodkPf;vrf; = ta&mifuodkPf;vrf;ç
@@ -20267,7 +20267,7 @@ oAÁmum&awm y#duúLv0aoe Oy|meH y#dbm*edrdwåH/ wH tmao0awm bm0,awm 0kwåea,e
 tokbur®|maeok 0d, yXrZösme0aoae0 tyÜem OyÜZÆwd/ (0dok'¨d-1-257/)
 auom avmrmwd yPÖwåð 0dóaZÆwGm y#dulvH y#dulvEÅd owd XaywAÁm/ yXrHa,0 ye
 y#dulvawm e Oy|mwd/ ,m0 e Oy|mwd? wm0 yPÖwåd e 0dóaZÆwAÁm/ ,'g Oy|mwd? w'g
-yPÖwåd H 0dóaZÆwGm y#dulvEÅd reodumwAÁH/ (tbd-|-2-245/)
+yPÖwådH 0dóaZÆwGm y#dulvEÅd reodumwAÁH/ (tbd-|-2-245/)
 {w¬ ye twåaem ZD0rmeuo&Da& y#dulvEÅd y&dur®H ua&mEÅó tyÜemyd Oypm&rÜd Zm,wd/
 y&ó ZD0rmeuo&Da& y#dulvEÅd reodua&mEÅó ae0 tyÜem Zm,wd? e Oypm&H/ eEk p 'ook
 tokabok Ob,arÜwH Zm,wDwd/ tmr Zm,wd/ wmed [d tEkyg'dEéuyau© Xdwmed? wo®m ww¬
@@ -20276,7 +20276,7 @@ tokbmEkyóemocFgwm ye 0dyóembm0em a[mwDwd a0'dwAÁm/ (tbd-|-2-248/)
 tEkyg'dEéuyau© XdwmeDwd {awe apwd,yAÁw0goD r[mwdóaw¬a&m 0d,ç oHC&u©dwaw
 ¬½ky|muomraPa&m 0d, p tEkyg'dEéuyau© XaywGm *a[wHk oauúmEÅó 'o0d"mokb0aoe
 ZD0rmeuo&Da&yd Oy|daw Oypm&yÜwåd 'ódwm a[mwDwd a0'dwAÁm/ “tw¬d uma,”wd ye
-owå0aoe auom'Dok *,Srmaeok ,xm “£rod® H uma,”wd owå*¾[P&[daw t[Hum&0w¬KrSd
+owå0aoe auom'Dok *,Srmaeok ,xm “£rod®H uma,”wd owå*¾[P&[daw t[Hum&0w¬KrSd
 0d'¨oåm[Huma& o'g oEéd[daw ygua# p twåaem uma, Oy|meH a[mwd? e wxm ww¬mwd
 tyÜeH tyÜwåm tm'De0gEkyóem0 ww¬ a[mwDwd t"dyÜga,em[ “tokbmEkyóemocFgwm ye
 0dyóembm0em a[mwDwd a0'dwAÁm”wd/ (rlv#D-2-156/)
@@ -20308,7 +20308,7 @@ aum|moudk tEkyg'dEéu oufrJhtzdkYtpkü xm;í tm½kH,ljcif;iSm pGrf;Edkifaom a,m*
 oEÅmefü (10)yg; tjym;&Sdaom tokb\ tjzpfjzifh touf&SifqJjzpfaom olwpfyg;\ udk,füvnf;
 &GH&SmpufqkyfzG,f y#dulvtjcif;t&monf xifvmvwfaomf Oypm&psmefodkY a&mufjcif;udk jytyfonf[k
 odxdkuf\/ (rlv#D-2-156/)
-owå0g\ tjzpfjzifh qHyiftp&Sdaom aum|mowdkYudk ,ltyfukefvwfaomf -- £ro®d H uma, =
+owå0g\ tjzpfjzifh qHyiftp&Sdaom aum|mowdkYudk ,ltyfukefvwfaomf -- £ro®dH uma, =
 þudk,f[k ,lonf? rnfol\ udk,f[k r,l/ xdkodkY owå0g[k ,ljcif;rSuif;aom ig[k jyKtyfaom udk,fü
 “ig\ udk,f”[k rqdkaomaMumifh zsufqD;tyfNyD;aom ig[k ESvHk;oGif;jcif;&Sdaom tcgcyfodrf; teD;ü
 wnfaeaom xif&Sm;onfvnf;jzpfaom rdrd\ um,ü y#dulvtjcif;t&mtm;jzifh xifvmjcif;onf
@@ -21105,7 +21105,7 @@ Mo'gwuodkPf;
 edAÁme*grdedy#dy'g -- yÍörwGJ
 edrdwå0×ee, = edrdwfudk wdk;yGm;atmif jyKvkyfenf;
 pdwåbm0ema0ykv’w¬Íö ,xmv'¨H y#dbm*edrdwåH 0a×wAÁH/ wó a'G 0×emblrda,m Oypm&H
-0g tyÜeH 0g/ Oypm&H ywGmyd [d wH 0a×wHk 0¥wd tyÜeH ywGmyd/ {uod® H ye Xmae t0óH 0a×wAÁH/
+0g tyÜeH 0g/ Oypm&H ywGmyd [d wH 0a×wHk 0¥wd tyÜeH ywGmyd/ {uod®H ye Xmae t0óH 0a×wAÁH/
 awe 0kwåH “,xmv'¨H y#dbm*edrdwåH 0a×wAÁ”EÅd/ (0dok'¨d-1-147/)
 pdwåbm0em[k ac:qdktyfaom bm0empdwf\ jyefYajymBuD;us,fjcif; tusKd;iSm rdrd&&dSxm;NyD;
 jzpfaom y#dbm*edrdwfudk wdk;yGm;atmif BuD;us,fjyefYajymatmif jyKvkyfoifh jyKvkyfxdkufayonf/
@@ -21486,7 +21486,7 @@ tm½kHudkyifvQif tjzL tjzL [k tzefzef txyfxyf ESvHk;oGif;aom xdka,m*g0p&yk*¾dKv
 tcsdefumv twGif;rSmyifvQif pwkw¬psmeform"dodkY qdkufa&mufEdkifayonf/ þpwkw¬psmeform"dudk
 vnf; 0oDabmfig;wefwdkYjzifh Edkifeif;atmif avhusifhyg/ (0dok'¨d-1-159/)
 okcó p y[mem 'ku©ó p y[mem ykaAÁ0 aomreóa'greómeH tw¬*Frm t'ku©rokcH
-Oayu©mowdyg&dok'¨d H pwkw¬H psmeH OyorÜZÆ 0d[&wd/ t,H 0kpöwd bdu©a0 or®morm"d/ (r-1-89/)
+Oayu©mowdyg&dok'¨dH pwkw¬H psmeH OyorÜZÆ 0d[&wd/ t,H 0kpöwd bdu©a0 or®morm"d/ (r-1-89/)
 csrf;om qif;&Judk y,fjcif;aMumifhvnf;aumif;ç a&S;OD;uyif 0rf;omjcif; ESvHk;rom,mjcif;wdkY\
 csKyfjcif;aMumifhvnf;aumif; qif;&J csrf;omuif;aom Oayu©maMumifhjzpfaom owd\ pifMu,fjcif;
 &Sdaom pwkw¬psmefodkY a&mufíae\/ &[ef;wdkY ...þorm"dudk rSefpGm wnfMunfjcif; or®morm"d[lí
@@ -21865,7 +21865,7 @@ xifonfESifh twlwuGomvQif Oypm&psmefodkYvnf;aumif; tyÜempsmefodkYvnf;aumif; a&mu
 597
 orxur®|mef;ydkif; --
 0ga,muodkPf; = avuodkPf;
-0ga,muodPH bma0wkumaremyd 0g,ko®d H edrdwåH *PSdwAÁH/ wÍö acg 'd|0aoe 0g zk|0aoe
+0ga,muodPH bma0wkumaremyd 0g,ko®dH edrdwåH *PSdwAÁH/ wÍö acg 'd|0aoe 0g zk|0aoe
 0g/ (0dok'¨d-1-167/)
 0ga,muodkPf;udk yGm;rsm;tm;xkwfvdkaom a,m*g0p&yk*¾dKvfonfvnf; avü edrdwfudk ,ltyf
 \/ xdk 0ga,muodkPf;edrdwfudkvnf; ----
@@ -22976,10 +22976,10 @@ xdkodkY &tyfNyD;aom wwd,psmef&dSaom a,m*g0p&yk*¾dKvfonf t0g;0pGm avhvmtyfNyD;ao
 arwåmjA[®0d[m& wwd,psmefodkY qdkufatmif arwåmbm0emur®|mef;udk pD;jzef;jcif;onf ,if;
 wwd,psmef\ owå0gwdkY tay:ü jrwfEdk;wem jyKaomtm;jzifh ESvHk;oGif;jcif;ESifh ,SOfonf\
 tjzpfaMumifhvnf;aumif;ç
-2/ 'ku©m rkpöEÅ K = owå0gwdkYonf qif;&J'ku©rS vGwfMuygapukefownf; -- þodkY u½kPmjA[®-
+2/ 'ku©m rkpöEÅK = owå0gwdkYonf qif;&J'ku©rS vGwfMuygapukefownf; -- þodkY u½kPmjA[®-
 0d[m& bm0emudk wwd,psmefodkY qdkufonhfwdkifatmif pD;jzef;jcif;onf ,if; wwd,psmef\
 rkef;jcif; cspfjcif;\ teD;ü usifvnfonf\ tjzpfaMumifhvnf;aumif;ç
-3/ ,xmv'¨ orÜwådawm rm0d*pä EÅ K = owå0gwdkYonf &&dSNyD;aom pnf;pdrfcsrf;omrS ra&GUavsm
+3/ ,xmv'¨ orÜwådawm rm0d*pä EÅK = owå0gwdkYonf &&dSNyD;aom pnf;pdrfcsrf;omrS ra&GUavsm
 Muygapukefownf; -- þodkY rk'dwmjA[®0d[m& bm0emudk wwd,psmefodkY qdkufonfhwdkifatmif
 pD;jzef;jcif;onf ,if; wwd,psmef\ 0rf;ajrmufjcif; aomreóESifh ,SOfonf\ tjzpfaMumifh
 ½kefY&if;onf\ tjzpfaMumifhvnf;aumif; ---
@@ -23055,7 +23055,7 @@ Nidrf;jcif;onf xdkarwåm\ jynfhpHkjcif; rnf\? aumif;pGm udpöNyD;jcif; rnf\/ wG,
 wPSmodae[\ jzpfjcif;onf xdkarwåm\ ysufpD;jcif; rnf\/ (0dok'¨d-1-311/)
 1/ 'ku©mye,emum&yÜ0wådvu©Pm u½kPm?
 2/ y&'ku©mo[e&om?
-3/ t0d[d H omypöKy|mem?
+3/ t0d[dH omypöKy|mem?
 4/ 'ku©mbdblwmeH temxbm0'óey'|mem/
 0d[d oH lyoarm wóm orÜwåd? aomuorÇa0g 0dywåd/ (0dok'¨d-1-311/)
 1/ u½kPmonf ---- owå0gwdkY\ qif;&J'ku©udk y,f&Sm;vdkaom tjcif;t&mtm;jzifh jzpfjcif;oabm
@@ -23753,7 +23753,7 @@ u½kPmbm0em 627
 uvmytm;jzifh ½Ienf; 144
 uvmyor®oe 101, 110, 120
 uvmyor®oe ac: e,0dyóem 1
-uópd udÍöewo®d H 351
+uópd udÍöewo®dH 351
 uodPzka|mumo 603
 uodP0d0dwåmumo 603
 uodPk*¢g#drmumo 603
@@ -23948,7 +23948,7 @@ oknwmEkyóem 354
 'ku©[k ½IykH 344
 'ku©mEkyóemÓPf 23, 516
 'ku©mEkyóem = tyÜPd[dw0darmu© 376
-'ku©m rkpöEÅ K 629
+'ku©m rkpöEÅK 629
 'ku©H b,a|e 49
 'k*¾E¨ 71
 'kwd, pwkuú 310
@@ -24487,7 +24487,7 @@ okc 558
 okcy#dy'g 415
 okc y#doHa0'D 311
 okc = 0dyóemokc 258
-okcdwm a[mEÅ K 629
+okcdwm a[mEÅK 629
 okckr 29
 oknw 550
 oknw trnf&ykH 379
