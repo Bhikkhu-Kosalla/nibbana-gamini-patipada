@@ -537,11 +537,19 @@ So, only the Burmese translation is written in this scripture.
 ## ` 	 	 	 	     `**Method of Meditation** 
 
 
- The Earth element is always incorporated in every Groups of matter of (6) Doors (= ***dvāra***) and (42) Body-parts (= ***Koṭṭhāsa***) and the consciousness produced groups of matter, Temperature produced groups of matter, and Nutriment produced groups of matter (= ***Cittaja kalāpa, Utuja kalāpa, Āhāraja kalāpa***) which are included in the  secondary matters. You, disciple can not discern completely each and every Earth elements included in each and every groups of matter amounting to about a quarter of a viz (= Approx408 gram) in the body. But so as the perceive the Ultimate nature of the existence of the solid matters in Compacted state (= ***Rūpa** **ghana***) with Insight Knowledge, a ***meditator*** should be able to discern with Knowledge all Earth elements included in every Groups of matter incorporated in (6) Doors and (42) types of Body parts in terms of Character-EssencePerception and Proximate cause.  
+ The Earth element is always incorporated in every Groups of matter of (6) Doors (= ***dvāra***) and (42) Body-parts (= ***Koṭṭhāsa***) and the consciousness produced groups of matter, Temperature produced groups of matter, and Nutriment produced groups of matter (= ***Cittaja kalāpa, Utuja kalāpa, Āhāraja kalāpa***) which are included in the  secondary matters. 
+ You, disciple can not discern completely each and every Earth elements included in each and every groups of matter amounting to about a quarter of a viz (= Approx408 gram) in the body. 
+ But so as the perceive the Ultimate nature of the existence of the solid matters in Compacted state (= ***Rūpa** **ghana***) with Insight Knowledge, a ***meditator*** should be able to discern with Knowledge all Earth elements included in every Groups of matter incorporated in (6) Doors and (42) types of Body parts in terms of Character-EssencePerception and Proximate cause.  
 
 So, a ***meditator*** should analyse the Group of matter in which the Earth element you want to seize on is included. Only after you perceive the Ultimate real matter, select the Earth element you want to seize on and discern it, in terms of Character-Essence-Perception and Proximate cause. 
 
-`  `But, the better method is to discern completely, the nature of 8 types, 9 types, or 10 types, in respective Groups of matters in which (8), (9) or (10) types of matter are included. In Eye-door (= ***Cakkhu** **dvāra***), there are (6) types of Group of matters and (54) kinds of Corporeality. A ***meditator*** should discern each and every kinds of these (54) Corporealities in term of Character-Essence-Perception and Proximate Cause. After discerning the (54) Corporealities in interior (= *Ajjhata*), discern External (54) corporealities (= *Bahiddha **rūpa***) in similar method. Then similar method in applied to other Doors like Ear-door etc, or (42) types of Body parts. To be able to discern in this way, a noble ***meditator*** should learn by heart; the Character, Essence, Perception and Proximate causes of the (28) types of Corporeality at first. Only after then, you will be able to discern the Ultimate nature of the various materialities in single Group of matter (= ***Rūpa** **Kalāpa***) completely, after recognition of their existence in Compacted state (= ***Ghana***) with the Knowledge. 
+But, the better method is to discern completely, the nature of 8 types, 9 types, or 10 types, in respective Groups of matters in which (8), (9) or (10) types of matter are included. 
+In Eye-door (= ***Cakkhu** **dvāra***), there are (6) types of Group of matters and (54) kinds of Corporeality. 
+A ***meditator*** should discern each and every kinds of these (54) Corporealities in term of Character-Essence-Perception and Proximate Cause. 
+After discerning the (54) Corporealities in interior (= *Ajjhata*), discern External (54) corporealities (= *Bahiddha **rūpa***) in similar method. 
+Then similar method in applied to other Doors like Ear-door etc, or (42) types of Body parts. 
+To be able to discern in this way, a noble ***meditator*** should learn by heart; the Character, Essence, Perception and Proximate causes of the (28) types of Corporeality at first. 
+Only after then, you will be able to discern the Ultimate nature of the various materialities in single Group of matter (= ***Rūpa** **Kalāpa***) completely, after recognition of their existence in Compacted state (= ***Ghana***) with the Knowledge. 
 
 
 
@@ -549,15 +557,36 @@ So, a ***meditator*** should analyse the Group of matter in which the Earth elem
 ## **PAGE-12** 
 
 
- Example  \_\_\_\_\_ If a ***meditator*** wants to seize on each and every types of matter included in the Eye-decad group of matter (= ***Cakkhu**dasaka **kalāpa***) of the Eye door (= ***Cakkhu** **dvāra***) in terms of Character, Essence, Perception and Proximate Cause;\_\_\_ discern the (10) Ultimate real matters included in the Eye-decad group first. There are so many Eyedecad groups of matter in the eye. But, a ***meditator*** should discern first, the (10) Ultimate real matters in the Eye- decad group he wants to discern. Only after then, select the Earth-element included in that (10) types of matter and discern that Earth-element in terms of Character, Essence, Perception and Proximate Cause. Then, sequencially discern further, the remaining (9) types of matter like Water-element, Fire element, Air element, Color, Odour, Taste, Nutritive essence, Life faculty and Eye transparent element (= ***Āpo, Tejo, Vāyo, Vanna, Gandha, Rasa, Oja, Jīvita; Cakkhupasāda***) one by one excluding the Earth element in that particular Eye-decad group of matter. Next, sequencially discern various groups of matter like the Body-decad group, Sex-decad group, consciousness produced octad group, Temperature produced octad group, and Nutriment produced octad group in similar way. Again, completely discern the (54) types of Corporeality in both interior and exterior (= *Ajjhatta, Bahiddha*) according to the tables of Material Meditation, mentioned in the section of Material Meditation. Similar method of discernment is also applied in (6) Doors, (42) 
+ Example  \_\_\_\_\_ If a ***meditator*** wants to seize on each and every types of matter included in the Eye-decad group of matter (= ***Cakkhu**dasaka **kalāpa***) of the Eye door (= ***Cakkhu** **dvāra***) in terms of Character, Essence, Perception and Proximate Cause;\_\_\_ discern the (10) Ultimate real matters included in the Eye-decad group first. 
+ There are so many Eyedecad groups of matter in the eye. 
+ But, a ***meditator*** should discern first, the (10) Ultimate real matters in the Eye- decad group he wants to discern. 
+ Only after then, select the Earth-element included in that (10) types of matter and discern that Earth-element in terms of Character, Essence, Perception and Proximate Cause. 
+ Then, sequencially discern further, the remaining (9) types of matter like Water-element, Fire element, Air element, Color, Odour, Taste, Nutritive essence, Life faculty and Eye transparent element (= ***Āpo, Tejo, Vāyo, Vanna, Gandha, Rasa, Oja, Jīvita; Cakkhupasāda***) one by one excluding the Earth element in that particular Eye-decad group of matter. 
+ Next, sequencially discern various groups of matter like the Body-decad group, Sex-decad group, consciousness produced octad group, Temperature produced octad group, and Nutriment produced octad group in similar way. 
+ Again, completely discern the (54) types of Corporeality in both interior and exterior (= *Ajjhatta, Bahiddha*) according to the tables of Material Meditation, mentioned in the section of Material Meditation. 
+ Similar method of discernment is also applied in (6) Doors, (42) 
 
 Body-parts etc,etc                  	 	 	 	 	 	 	    
 
 
 
-**The Earth Element  \_\_\_\_\_** Among the (10) Ultimate real matters in the Eye-decad group, select the Earth-element and discern the nature of toughness = hardness of the Earth element. That is the natural Character of the Earth element. In the Discourse of *Mahārahulovada* etc;- that Earth element is mentioned, having two Characters like hardness and roughness (= *Kakkhalam kharigatam*). A ***meditator*** can discern both kinds of Character. Again, that Earthelement performs supportive function for the remaining (9) types of matter in the same groups. Discern also that nature. There are so many Eye-decad groups in the Eye-door. That Earth-element performs supportive function only for the matter in the same group. It can not perform supportive function for those matters, not in the same group. Instead, it supports the matters in the same group excepting by itself. Try to understand in similar way in other remaing groups of matters. 
+**The Earth Element  \_\_\_\_\_** Among the (10) Ultimate real matters in the Eye-decad group, select the Earth-element and discern the nature of toughness = hardness of the Earth element. 
+That is the natural Character of the Earth element. 
+In the Discourse of *Mahārahulovada* etc;- that Earth element is mentioned, having two Characters like hardness and roughness (= *Kakkhalam kharigatam*). 
+A ***meditator*** can discern both kinds of Character. 
+Again, that Earthelement performs supportive function for the remaining (9) types of matter in the same groups. 
+Discern also that nature. 
+There are so many Eye-decad groups in the Eye-door. 
+That Earth-element performs supportive function only for the matter in the same group.
+ It can not perform supportive function for those matters, not in the same group. 
+ Instead, it supports the matters in the same group excepting by itself. 
+ Try to understand in similar way in other remaing groups of matters. 
 
-Since, the Earth element performs supportive function to the materialities in the same group excepting itself, a ***meditator*** discerning that Earth element perceives, in his Knowledge as a phenomenon which supports the units of matters in the same group excepting of itself. This is the Perception. This kind of Perception is Taken-up Perception (= ***Upaṭṭhānākāra paccupaṭṭhana***). So, since the Earth element is acting supportive function for existence of units of matter in the same group excepting itself, a ***meditator*** discerning the Earth element will perceive in his knowledge as a phenomena where the Earth element exists at the bottom, on which the remaining matters in the same group depend and situated on top of it. Try to perceive in this way with Insight Knowledge. 
+Since, the Earth element performs supportive function to the materialities in the same group excepting itself, a ***meditator*** discerning that Earth element perceives, in his Knowledge as a phenomenon which supports the units of matters in the same group excepting of itself. 
+This is the Perception. 
+This kind of Perception is Taken-up Perception (= ***Upaṭṭhānākāra paccupaṭṭhana***). 
+So, since the Earth element is acting supportive function for existence of units of matter in the same group excepting itself, a ***meditator*** discerning the Earth element will perceive in his knowledge as a phenomena where the Earth element exists at the bottom, on which the remaining matters in the same group depend and situated on top of it. 
+Try to perceive in this way with Insight Knowledge. 
 
  ***Pathavīdhātu** **āposaṅgahitā tejoanupālitā vāyoviṭṭhambhitā tiññam mahābhūtānam paṭiṭṭhā hutvā paccayo hoti. (Vs- 1-365.)*** 
 
@@ -565,29 +594,45 @@ Since, the Earth element performs supportive function to the materialities in th
 ## **PAGE-13** 
 
 
- The nearest cause of the Earth element is the remaining (3) types of great elements in the same group. Only when the Water element enhances the cohesion of the matters in the same group, the Fire element looks after the maturation of the matters in the same group with it's heat and the Air element pushes or moves the matters in the same group; the Earth element will be able beneficial as a support for other Great elements and associated materialities in the same group. Only then, it will be able to perform supportive function for the matters in same group. Without other (3) Primarty great elements, it can't perform the supportive function in the same group. That is why, the nearest cause for the  Earth element is the remaining (3) Primary element in the same unit group of matters. That is the Proximate cause. (= *Padaṭṭhāna*). 
+ The nearest cause of the Earth element is the remaining (3) types of great elements in the same group. 
+ Only when the Water element enhances the cohesion of the matters in the same group, the Fire element looks after the maturation of the matters in the same group with it's heat and the Air element pushes or moves the matters in the same group; the Earth element will be able beneficial as a support for other Great elements and associated materialities in the same group. 
+ Only then, it will be able to perform supportive function for the matters in same group. 
+ Without other (3) Primarty great elements, it can't perform the supportive function in the same group. 
+ That is why, the nearest cause for the  Earth element is the remaining (3) Primary element in the same unit group of matters. 
+ That is the Proximate cause. (= *Padaṭṭhāna*). 
 
- Again, the Earth element which is organised by the Water element, looked after by the heat of Fire element, and supported by the Air element, performs as a foundation for the remaining Water, Fire and Air elements in the same group of matter. So it is benificial for those (3) Primary elements as a foundation. By getting the foundation on the Earth element, the Water element is able to organise the matters in the same group. The Fire element is able to give heat and cold to the matters in the same for maturation. The Air element, getting firm base on the Earth element, also becomes able to support the matters in the same group. When a house is propped up with a buttress-wood block, that block of wood may need support on the firm ground. When a wooden block is pushed from place to place, people who are pushing the block may need support on the firm ground. Take these examples in mind when considering the Earth element. 
+ Again, the Earth element which is organised by the Water element, looked after by the heat of Fire element, and supported by the Air element, performs as a foundation for the remaining Water, Fire and Air elements in the same group of matter. 
+ So it is benificial for those (3) Primary elements as a foundation. 
+ By getting the foundation on the Earth element, the Water element is able to organise the matters in the same group. 
+ The Fire element is able to give heat and cold to the matters in the same for maturation. 
+ The Air element, getting firm base on the Earth element, also becomes able to support the matters in the same group. 
+ When a house is propped up with a buttress-wood block, that block of wood may need support on the firm ground. 
+ When a wooden block is pushed from place to place, people who are pushing the block may need support on the firm ground. 
+ Take these examples in mind when considering the Earth element. 
 
- That is how the (4) Primary or Fundamental Elements are mutually beneficial among each others. Like “the island and the land formed by the process of silting” are intimately related. Aiming to this mutual reliance, the Buddha teaches in the ***Paṭṭhana*** Discourse as follow: \_\_\_\_\_ 
+ That is how the (4) Primary or Fundamental Elements are mutually beneficial among each others. 
+ Like “the island and the land formed by the process of silting” are intimately related. 
+ Aiming to this mutual reliance, the Buddha teaches in the ***Paṭṭhana*** Discourse as follow: \_\_\_\_\_ 
 \***
 
 ### ***Cattāro mahābhūtā aññamaññam sahajāta paccayena paccayo.* (*Paṭṭhana*-1-5.)** 
 
 
-` 	`(The 4 Primary Elements are conditioned among each others by way of  
+` 	`(The 4 Primary Elements are conditioned among each others by way of  Mutuality and Co- nascence)   
 
-Mutuality and Co- nascence)  
-
- So, the nature of conditioning among each other of the Ultimate phenomena by ways of Co-nascence, Mutuality, Support etc,etc., (= ***Sahajāta, Aññamañña, Nissaya***) is termed as Proximate cause (= *Padaṭṭhāna)* by Commentary teachers. If you noble person accept the concept that “the Buddha does not mention the Proximate cause”, the great opportunity will be lost by you. Your knowledge which has great power in the perception of very delicate phenomena of Ultimate truth field will lose opportunity to perceive. Even the wise man may miss it. 
+So, the nature of conditioning among each other of the Ultimate phenomena by ways of Co-nascence, Mutuality, Support etc,etc., (= ***Sahajāta, Aññamañña, Nissaya***) is termed as Proximate cause (= *Padaṭṭhāna)* by Commentary teachers. 
+If you noble person accept the concept that “the Buddha does not mention the Proximate cause”, the great opportunity will be lost by you. 
+Your knowledge which has great power in the perception of very delicate phenomena of Ultimate truth field will lose opportunity to perceive. 
+Even the wise man may miss it. 
 
 
 
 **2. Water Element** 
 ### **(*Āpo dhātu)*** 
-\1. ***Āpodhātu** **paggharaṇa** **lakkhana***,  2. ***Bruhana** **rasa***, 3. ***Saṅgaha paccupaṭṭhāna*,**  
-
-\4. ***Avasesadhātuttaya padaṭṭhāna*** .  
+1. ***Āpodhātu** **paggharaṇa** **lakkhana***,  
+2. ***Bruhana** **rasa***, 
+1. ***Saṅgaha paccupaṭṭhāna*,**  
+3. ***Avasesadhātuttaya padaṭṭhāna*** .  
 
 ` 	 	 	 	`***(Abhi-A-1-368. Vs-1-362. Vs-2-73.)***  
 
@@ -601,7 +646,8 @@ Mutuality and Co- nascence)
 
 1. The nature of flowing            \_\_\_\_\_ \_\_\_\_\_ \_\_\_\_\_ \_\_\_\_\_ \_\_\_\_\_ \_\_\_\_\_ Character, 
 1. Multiplication of the materialities arising together  \_\_\_\_\_ \_\_\_\_\_ \_\_\_\_ (Function) Essence, 
-1. Organisation and Cohesion of the materialities arising together  \_\_\_\_  Perception,   4. Remaining (3) Promary elements in the same group of matters  \_\_\_\_\_ Proximate cause.. 
+1. Organisation and Cohesion of the materialities arising together  \_\_\_\_  Perception,   
+2.  Remaining (3) Promary elements in the same group of matters  \_\_\_\_\_ Proximate cause.. 
 
 
 
@@ -611,39 +657,74 @@ Mutuality and Co- nascence)
 ### ***Pāli Quotation (Mahāṭī-1-430)*** 
 
 
- Water Element moves to various directions (i.e., to the remaining (3) Primary elements) by flowing and trickling. So it is named ***Āpo*** in ***Pāli***. These words are based on the quality of water element in natural aggregation (= ***Sasambhāra** **āpo** **dhātu***). That is right  \_\_\_\_\_ That Water element in aggregation moves to various direction where the Earth element etc, etc, in aggregation exist; by the nature of liquid or by flowing. 
+ Water Element moves to various directions (i.e., to the remaining (3) Primary elements) by flowing and trickling. 
+ So it is named ***Āpo*** in ***Pāli***. 
+ These words are based on the quality of water element in natural aggregation (= ***Sasambhāra** **āpo** **dhātu***). 
+ That is right  \_\_\_\_\_ That Water element in aggregation moves to various direction where the Earth element etc, etc, in aggregation exist; by the nature of liquid or by flowing. 
 
  If so, since all the Ultimate truth phenomena pass away at the same place where these arise, there is a question that “Is it possible of moving to other place ?”. For that question it is explained that, “the Subcommentary teacher mentioned above words based on the quality of Water element in aggregation.(= ***Sasambhāra** **āpo** **dhātu***)”. 
 
 
 
- **Water element in natural aggregation (= *Sasambhāra āpo*)  \_\_\_\_\_ t**hat water is not completely broken down into Conventional designation (= *Pannatti*) like Compactness of Continuity (= ***Santati** **ghana***) etc, etc . If so, there is another question. “Does the Water element with Ultimate true character (= ***Lakkhana** **āpo***) not have the nature of flowing or seeping ?”. To answer that question  \_\_\_\_\_ the Great Subcommentary teacher again explains as  \_\_\_\_\_ “***Lakkhanapavaseneva va**”* etc, etc. 
+ **Water element in natural aggregation (= *Sasambhāra āpo*)  \_\_\_\_\_ t**hat water is not completely broken down into Conventional designation (= *Pannatti*) like Compactness of Continuity (= ***Santati** **ghana***) etc, etc . 
+ If so, there is another question. “Does the Water element with Ultimate true character (= ***Lakkhana** **āpo***) not have the nature of flowing or seeping ?”. 
+ To answer that question  \_\_\_\_\_ the Great Subcommentary teacher again explains as  \_\_\_\_\_ “***Lakkhanapavaseneva va**”* etc, etc. 
 
-` 	`The Water-element which is Ultimate true element, integrated in a group of mater (= ***Rūpa** **kalāpa**)*, not designated and broken down into Compactness of materiality (= ***Rūpa** **ghana***) like Compactness of Continuity, Compactness of Grouping and Compactness of Function (= ***Santati** **ghana**, **Samuha** **ghana** , **Kicca** **ghana***); is known as Water element with Ultimate Character (= ***Lakkhana** **āpo***). That Water element of Ultimate Character is beneficial to remaining (3) Primary elements of the same unit group by ways of Co-nascence, Mutuality and Support Conditions. (= ***Sahajāta, Aññamañña, Nissaya**)*. So, it is able to organise, cohere and prevent scattering of remaining (3) Primary elements in same group to form a whole with it's nature of fluidity and flowing . That is why it is stated as moving to various places.  	 (***Mahāṭī***-1-430.)  
+` 	`The Water-element which is Ultimate true element, integrated in a group of mater (= ***Rūpa** **kalāpa**)*, not designated and broken down into Compactness of materiality (= ***Rūpa** **ghana***) like Compactness of Continuity, Compactness of Grouping and Compactness of Function (= ***Santati** **ghana**, **Samuha** **ghana** , **Kicca** **ghana***); is known as Water element with Ultimate Character (= ***Lakkhana** **āpo***). 
+That Water element of Ultimate Character is beneficial to remaining (3) Primary elements of the same unit group by ways of Co-nascence, Mutuality and Support Conditions. (= ***Sahajāta, Aññamañña, Nissaya**)*. So, it is able to organise, cohere and prevent scattering of remaining (3) Primary elements in same group to form a whole with it's nature of fluidity and flowing . That is why it is stated as moving to various places.  	 
+(***Mahāṭī***-1-430.)  
 
 
 ## **PAGE-15** 
 
 
- According to above statements in the Commentaries and sub commentaries, if you see the nature of flowing like natural or ordinary water, it means that you see the Water element in natural aggregation (= ***Sasambhāra** **āpo***). It is in the field of Conventional designation (= ***Paññatti**)*. If a ***meditator*** develops Concentration (=***Smādhi***) with meditation of Elements (= ***Dhātu** **kammaṭṭhāna***) or develops Concentration up to the Fourth-Absorption Concentration (= ***Catuttha jhanasmādhi***) or Neighbourhood Concentration (= ***Upacāra smādhi*, *Appanā smādhi***) with one kind of meditation like Mindfulness of Breathing (= ***Ānāpāna** **kammaṭṭhāna***), and when he further discerns (4) Primary elements ( = ***Mahābhūta***) so as to seize on the Materiality, then before seeing the various unit-groups of matter with Insight knowledge, he will have to start the development of concentration with the Earth element, Water element, Fire element and Air element in natural aggregations. (= ***Sasambhāra pathavī dhātu, Sasambhāra āpo dhātu, Sasambhāra tejo dhātu, Sasambhāra vayo** **dhātu***). When the degree of Concentration reaches higher levels, and when the ***meditator*** becomes able to analyse the Groups of matters with Insight knowledge, he perceives the Earth element, Water element, Fire element and Air element with Ultimate characters (= *Lakkha **dhātu***).  Such kinds of the Earthelement with Ultimate character etc,etc, are somewhat like properly treated pure gold and liberated from the field of Conventional designation and broken down from Compactness of Materiality like Compactness of Continuity, Compactness of Grouping and Compaction of Function. These are the real elements and Ultimate elements. If a ***meditator*** is able to discern Ultimate real matters in a single unit group of matter systematically with Insight knowledge in terms of Character, Essence, Perception and Proximate cause, he has already broken down the Compactness of Continuity, Grouping and Function ; and escapes from dirty Conventional designation. So, if one is able discern the natural character of the Earth, Water, Fire and Air-elements in a single unit group of matter with analytical Insight knowledge, he will see the Utimate Character of Earth, Water, Fire and Air-elements. 
+ According to above statements in the Commentaries and sub commentaries, if you see the nature of flowing like natural or ordinary water, it means that you see the Water element in natural aggregation (= ***Sasambhāra** **āpo***). It is in the field of Conventional designation (= ***Paññatti**)*. 
+ If a ***meditator*** develops Concentration (=***Smādhi***) with meditation of Elements (= ***Dhātu** **kammaṭṭhāna***) or develops Concentration up to the Fourth-Absorption Concentration (= ***Catuttha jhanasmādhi***) or Neighbourhood Concentration (= ***Upacāra smādhi*, *Appanā smādhi***) with one kind of meditation like Mindfulness of Breathing (= ***Ānāpāna** **kammaṭṭhāna***), and when he further discerns (4) Primary elements ( = ***Mahābhūta***) so as to seize on the Materiality, then before seeing the various unit-groups of matter with Insight knowledge, he will have to start the development of concentration with the Earth element, Water element, Fire element and Air element in natural aggregations. (= ***Sasambhāra pathavī dhātu, Sasambhāra āpo dhātu, Sasambhāra tejo dhātu, Sasambhāra vayo** **dhātu***). 
+ When the degree of Concentration reaches higher levels, and when the ***meditator*** becomes able to analyse the Groups of matters with Insight knowledge, he perceives the Earth element, Water element, Fire element and Air element with Ultimate characters (= *Lakkha **dhātu***).  
+ Such kinds of the Earthelement with Ultimate character etc,etc, are somewhat like properly treated pure gold and liberated from the field of Conventional designation and broken down from Compactness of Materiality like Compactness of Continuity, Compactness of Grouping and Compaction of Function. 
+ These are the real elements and Ultimate elements. 
+ If a ***meditator*** is able to discern Ultimate real matters in a single unit group of matter systematically with Insight knowledge in terms of Character, Essence, Perception and Proximate cause, he has already broken down the Compactness of Continuity, Grouping and Function ; and escapes from dirty Conventional designation. 
+ So, if one is able discern the natural character of the Earth, Water, Fire and Air-elements in a single unit group of matter with analytical Insight knowledge, he will see the Utimate Character of Earth, Water, Fire and Air-elements. 
 
- That Water element with Ultimate Character (= ***Lakkhana** **āpo***) does not flow like ordinary natural water. It means that it flows, moisen and seeps into the remaining (3) Primary elements of the same group with it's nature of fluidity. That nature can organise , cohere and prevent scattering of the (3) Primary elements arising together in the same group of matter. So, an explanation like  \_\_\_\_\_ the Water element has the character of organizing the units of matter in the same group (= ***Yam abandhana lakkhanam, ayam** **āpodhātu***) (***Visuddhi***- 1- 346), is given again. It is to be noted that, the flowing, seeping or trickling of the natural water is also due to more and more aggregation of the groups of matter where the natural power of the Water element is in excess and repeated occurrance of the preceeding and following groups of matter in succession. 
+ That Water element with Ultimate Character (= ***Lakkhana** **āpo***) does not flow like ordinary natural water. 
+ It means that it flows, moisen and seeps into the remaining (3) Primary elements of the same group with it's nature of fluidity. 
+ That nature can organise , cohere and prevent scattering of the (3) Primary elements arising together in the same group of matter. 
+ So, an explanation like  \_\_\_\_\_ the Water element has the character of organizing the units of matter in the same group (= ***Yam abandhana lakkhanam, ayam** **āpodhātu***) (***Visuddhi***- 1- 346), is given again. 
+ It is to be noted that, the flowing, seeping or trickling of the natural water is also due to more and more aggregation of the groups of matter where the natural power of the Water element is in excess and repeated occurrance of the preceeding and following groups of matter in succession. 
 
- This Water element has the function (Essence) of multiplication of the materialities arising together. Consider that, the increasing number of trees in forest, and the growth of living beings due to multiplication of the materialities are caused by this function of the Water element. The trees are developed by the Fire element. That Fire element can produce new generations of successive Temperature produced nutritive- essence- octad group (= ***Utuja- ojaṭṭhamaka kalāpa***), only when it gets supports from the Earth, Water, and Air- elements which are beneficial factors by way of Co-nascence condition (= *Sahajata **paccaya***). The trees grow by using the Earth essence and drinking the Water- element fluid essence. Similarly, the multiplication of Nutriment produced materialities in continuum of the living beings taking up the nutrition, can occur only when it gets support from beneficial factor of the Water element- fluid essence. 
+ This Water element has the function (Essence) of multiplication of the materialities arising together. 
+ Consider that, the increasing number of trees in forest, and the growth of living beings due to multiplication of the materialities are caused by this function of the Water element. 
+ The trees are developed by the Fire element. 
+ That Fire element can produce new generations of successive Temperature produced nutritive- essence- octad group (= ***Utuja- ojaṭṭhamaka kalāpa***), only when it gets supports from the Earth, Water, and Air- elements which are beneficial factors by way of Co-nascence condition (= *Sahajata **paccaya***). 
+ The trees grow by using the Earth essence and drinking the Water- element fluid essence. 
+ Similarly, the multiplication of Nutriment produced materialities in continuum of the living beings taking up the nutrition, can occur only when it gets support from beneficial factor of the Water element- fluid essence. 
 
 
 ## **PAGE-16** 
 
 
- The Water element is perceived by a ***meditator*** who is discerning it with Insight knowledge as a phenomenon which organises and prevents scattering of various units of matter arising together in the same group, somewhat like the natural water prevents scattering and produce cohesion of the flour for making bread. This is the Perception    (= *Paccupaṭṭhama*). To this Collective and Concise Perception (= ***Sangaha paccupaṭṭhana***) it is mentioned as:   \_\_\_\_\_”the natural character of organizing and grouping the matters arising together in the same group = *Abandhana **lakkhana*** “\_\_\_\_\_in ***Visuddhi***- ***magga*** Commentary which is described above. 
+ The Water element is perceived by a ***meditator*** who is discerning it with Insight knowledge as a phenomenon which organises and prevents scattering of various units of matter arising together in the same group, somewhat like the natural water prevents scattering and produce cohesion of the flour for making bread. 
+ This is the Perception    (= *Paccupaṭṭhama*). 
+ To this Collective and Concise Perception (= ***Sangaha paccupaṭṭhana***) it is mentioned as:   \_\_\_\_\_”the natural character of organizing and grouping the matters arising together in the same group = *Abandhana **lakkhana*** “\_\_\_\_\_in ***Visuddhi***- ***magga*** Commentary which is described above. 
 
 
 ### ***Pāli Quotation (Vs-1-365)*** 
 
 
- The Water element; which gets support from the Earth element, looked after by the Fire element with heat and cold and propped up by the Air element; is beneficial to remaining (3) Primary elements by the process of organisation. It prevents scattering of these Earth, Fire and Air elements by Cohesion. To this function, it is stated that the Water element gives beneficial effect to the remaining (3) elements of same group by way of Co-nascence, Mutuality and Support condition. 
+ The Water element; which gets support from the Earth element, looked after by the Fire element with heat and cold and propped up by the Air element; is beneficial to remaining (3) Primary elements by the process of organisation. 
+ It prevents scattering of these Earth, Fire and Air elements by Cohesion. 
+ To this function, it is stated that the Water element gives beneficial effect to the remaining (3) elements of same group by way of Co-nascence, Mutuality and Support condition. 
 
- Again, the Water element can perform organisation only when there are (3) Primary elements to be organised in the same group of matters. The nature of organisation is possible only when there are phenomena to be organised. So, remaining (3) Elements of same group again support the Water element to stand. The Earth element gives foundation. The Fire element makes mature with heat and cold. It prevents decaying. The Air element pushes and props up. That's why, Water element can stand, and able to perform it's function for multiplication of materialities. And on this ground, Water element is the nearest cause or Proximate cause of the remaining (3) Primary elements in the same group. Like in case of Earth element; seize on the Water element after analysing the group of matter which the ***meditator*** wants to discern and choose the Water element to be discerned from these Ultimate real materialities. 
+ Again, the Water element can perform organisation only when there are (3) Primary elements to be organised in the same group of matters. 
+ The nature of organisation is possible only when there are phenomena to be organised. 
+ So, remaining (3) Elements of same group again support the Water element to stand. 
+ The Earth element gives foundation. 
+ The Fire element makes mature with heat and cold. 
+ It prevents decaying. 
+ The Air element pushes and props up. 
+ That's why, Water element can stand, and able to perform it's function for multiplication of materialities. 
+ And on this ground, Water element is the nearest cause or Proximate cause of the remaining (3) Primary elements in the same group. 
+ Like in case of Earth element; seize on the Water element after analysing the group of matter which the ***meditator*** wants to discern and choose the Water element to be discerned from these Ultimate real materialities. 
 
 
 
@@ -651,17 +732,18 @@ Mutuality and Co- nascence)
 ### **(*Tejo* *dhātu*)** 
 ** 
 
-\1. ***Tejodhātu unhatta lakkhana,*** 2. ***Paripacanarasa,*** 3. ***Maddavanuppādana paccupaṭṭhana,*** 
-### ***Avasesa dhātuttaya padaṭṭhāna. 	 (Abhi-A-1-360. Vs-1-362, Vs-2-73)*** 
+1. ***Tejodhātu unhatta lakkhana,*** 
+2. ***Paripacanarasa,*** 
+1. ***Maddavanuppādana paccupaṭṭhana,*** 
+
+ ***Avasesa dhātuttaya padaṭṭhāna. 	 (Abhi-A-1-360. Vs-1-362, Vs-2-73)*** 
 
 
 ` 	 	 	 	 	 	`**3. Fire Element** 
 ## `                `**(*Tejo dhātu*)** 
 1. The nature of heat (= the nature of Cold)  	 	 	Character, 
 1. Gives maturity to other materialities of same group 	 	(Function) Essence, 
-1. The nature which gives softness to other materialities of same group accordingly  
-
-`	 	 	 	 	 	 	 	 	 	`Perception, 
+1. The nature which gives softness to other materialities of same group accordingly   Perception, 
 
 1. Remaining (3) Primary elements of same group   	 	Proximate cause. 
 
@@ -673,7 +755,8 @@ Mutuality and Co- nascence)
 
  ***Tejeti paripācetiti tejo***  \_\_\_\_\_ Like various substances are cooked, heated and burnt by natural fire, the gaseous element which cooks, heats up and burns the materialities of the same group is known as Fire element. 
 ###  ***Tejodhātu paṭṭhavipatitthitā āpo sangahitā vāyovitthambhitā tiññam mahābhutānam paripācanam hutvā paccayo hoti.        (Vs-1-365.)*** 
- That Fire element can give maturity to remaining (3) Primary elements only when it gets support (like inflammable material) on the Earth element; moistened and organised (like fuel) by the Water element and pushed (like blowing wind) by the Air element. So, the remaining (3) Primary elements of the same group are the Proximate cause (= *Padaṭṭhāna*) of the Fire element. 
+ That Fire element can give maturity to remaining (3) Primary elements only when it gets support (like inflammable material) on the Earth element; moistened and organised (like fuel) by the Water element and pushed (like blowing wind) by the Air element. 
+ So, the remaining (3) Primary elements of the same group are the Proximate cause (= *Padaṭṭhāna*) of the Fire element. 
 
 
 
@@ -681,29 +764,48 @@ Mutuality and Co- nascence)
 ### ***Pāli Quotation (Vs-1-361)*** 
 
 
- The Fire element, which has character of heat, exists as heat element and has ability to digest the swallowed foods, drunk fluids and will cook, warm and make alert all materialities (= All materialities exist in same group with every Fire elements) only when it gets support from the Earth element, organised by the Water element, pushed and propped up by Airelement. It also give color and brightness to all these materialities. The special effect is that, these materialities = Body groups (=***Rūpa** **kāya***) which are cooked, warmed and made alert by the Fire element having qualities described above; never grossly decompose.                      (***Vs***-1-361.) 
+ The Fire element, which has character of heat, exists as heat element and has ability to digest the swallowed foods, drunk fluids and will cook, warm and make alert all materialities (= All materialities exist in same group with every Fire elements) only when it gets support from the Earth element, organised by the Water element, pushed and propped up by Airelement. 
+ It also give color and brightness to all these materialities. 
+ The special effect is that, these materialities = Body groups (=***Rūpa** **kāya***) which are cooked, warmed and made alert by the Fire element having qualities described above; never grossly decompose.             
+  (***Vs***-1-361.) 
 
 
 
- That Fire element is perceived in the knowledge of a medifactor who is discerning it, as a nature which soften the materialities in the same group, like the natural fire can soften the sealing wax and candle wax. That is the Taken up Perception (= ***Upaṭṭhanakara paccupaṭṭhana**)*. Due to this power of the Fire element, those with good body temperature have delicate skin and good complexion. 
+ That Fire element is perceived in the knowledge of a medifactor who is discerning it, as a nature which soften the materialities in the same group, like the natural fire can soften the sealing wax and candle wax. 
+ That is the Taken up Perception (= ***Upaṭṭhanakara paccupaṭṭhana**)*. 
+ Due to this power of the Fire element, those with good body temperature have delicate skin and good complexion. 
 
- The natural temperature in the body is known as Normal body heat (= *Usma**tejo***) which makes the body warm in the winter and cold in the summer. Apart from that Normal body heat there are (4) types of Fire element like Alternate-day heat (= Temperature) = the heat that makes the body hotter (= ***Santappana** **tejo***) etc, etc. 
+ The natural temperature in the body is known as Normal body heat (= *Usma**tejo***) which makes the body warm in the winter and cold in the summer. 
+ Apart from that Normal body heat there are (4) types of Fire element like Alternate-day heat (= Temperature) = the heat that makes the body hotter (= ***Santappana** **tejo***) etc, etc. 
 
 
 ## **PAGE-18** 
 
 
- When the natural temperature or Normal body heat (= ***Usama** **tejo***) becomes abnormal, the temperature is increased and febrile episode occurs every one or two alternate day. That is the Alternate day heat = Heat that makes the body hotter (= ***Santappana** **tejo***). If the degree of heat is more than this Alternate-day heat, there will be very hot Fire element known as Excessive Heat of fever (= ***Dāha tejo***), when the sufferer is groaning from unbearable rising temperature so much so that he or she may ask for application of butter (100) times cooked and cooled in cold water, or Sandalwood paste all over the body and fanning with hand-fan to make a current of air blow over the body. It burns like fire. The Fire element which makes a person's hair white, teeth lost, vision blurred, skin wrinkled and age older  \_\_\_\_\_ is known as Heat that causes maturing and ageing process   (= ***Ziraṇa** **tejo***).  All these (3) types of Fire elements known as; Alternate-day heat, Excessive heat, and Heat that causes ageing process are not always present in the body. The Alternate-day heat and Excessive heat are the Fire elements occurring at the onset of fever, when the normal body heat is lost and degree of temperature arises. For the Heat for ageing process, it is explained as follow:  \_\_\_\_\_ ***Pāli Quotation (Vs-1-435)*** 
+ When the natural temperature or Normal body heat (= ***Usama** **tejo***) becomes abnormal, the temperature is increased and febrile episode occurs every one or two alternate day. 
+ That is the Alternate day heat = Heat that makes the body hotter (= ***Santappana** **tejo***). 
+ If the degree of heat is more than this Alternate-day heat, there will be very hot Fire element known as Excessive Heat of fever (= ***Dāha tejo***), when the sufferer is groaning from unbearable rising temperature so much so that he or she may ask for application of butter (100) times cooked and cooled in cold water, or Sandalwood paste all over the body and fanning with hand-fan to make a current of air blow over the body. 
+ It burns like fire. 
+ The Fire element which makes a person's hair white, teeth lost, vision blurred, skin wrinkled and age older  \_\_\_\_\_ is known as Heat that causes maturing and ageing process   (= ***Ziraṇa** **tejo***).  
+
+ All these (3) types of Fire elements known as; Alternate-day heat, Excessive heat, and Heat that causes ageing process are not always present in the body. 
+ The Alternate-day heat and Excessive heat are the Fire elements occurring at the onset of fever, when the normal body heat is lost and degree of temperature arises. 
+ For the Heat for ageing process, it is explained as follow:  \_\_\_\_\_ 
+ 
+ ***Pāli Quotation (Vs-1-435)*** 
 ### ` 	 	`***(Mahāṭī-1-430)*** 
 
 
 
 
-This Heat for ageing process (= ***Ziraṇa** **tejo***) produces ageing and deterioration of the materialities of Body groups (= ***Rūpa** **kāya***). The various faculties become defective like, the vision is blurred, the hearing is deafened. The body is weakened, the skin is wrinkled and the hairs are whitened.              (***Vs***-1-345) 
+This Heat for ageing process (= ***Ziraṇa** **tejo***) produces ageing and deterioration of the materialities of Body groups (= ***Rūpa** **kāya***). 
+The various faculties become defective like, the vision is blurred, the hearing is deafened. The body is weakened, the skin is wrinkled and the hairs are whitened.              (***Vs***-1-345) 
 
 ` 	`The commentary teacher explained the above description so as to know that the occurrence of ageing process in the Body groups (= ***Rūpa** **kāya***) produced by the Fire element should be known by means of the Obvious ageing phenomena (= ***Pākata** **jarā***). (***Mahāṭī***-1-430.) 
 
- So, the Great Subcommentary teacher explained that the Heat for ageing process (= ***Ziraṇa tejo***) is meant for the Obvious ageing phenomena (= ***Pākata jarā***). This Fire element is nothing but, abnormality in the natural body heat existing in the material groups of this physical body, when a person gets a disease or becomes older. But, it is also to be noted that the ageing process is always occurring. 
+ So, the Great Subcommentary teacher explained that the Heat for ageing process (= ***Ziraṇa tejo***) is meant for the Obvious ageing phenomena (= ***Pākata jarā***). 
+ This Fire element is nothing but, abnormality in the natural body heat existing in the material groups of this physical body, when a person gets a disease or becomes older. 
+ But, it is also to be noted that the ageing process is always occurring. 
 
 
 
@@ -729,7 +831,9 @@ This Heat for ageing process (= ***Ziraṇa** **tejo***) produces ageing and det
 ## **PAGE-19** 
 
 
-All the foods and fluids, eaten, drunk, chewed and licked are digested by the power of Digestive Fire element, also known as Action produced Digestive faculty = Internal gastric heat (= *Gahani*) which equally digests all these nutritions. If all these nutritions taken are not fully digested by the above Digestive Fire element, these will be partially digested by Internal gastrie heat. These digested nutriments when mature and purified, will become:  \_\_\_\_\_ 
+All the foods and fluids, eaten, drunk, chewed and licked are digested by the power of Digestive Fire element, also known as Action produced Digestive faculty = Internal gastric heat (= *Gahani*) which equally digests all these nutritions. 
+If all these nutritions taken are not fully digested by the above Digestive Fire element, these will be partially digested by Internal gastrie heat. 
+These digested nutriments when mature and purified, will become:  \_\_\_\_\_ 
 
 1. Essence (= ***Rasa***) = Nutritive fluid essence  
 1. If this nutritive fluid essence becomes mature, it will change into Blood (= *Rudhira)*  
@@ -740,21 +844,44 @@ All the foods and fluids, eaten, drunk, chewed and licked are digested by the po
 1. If this bone becomes nature, it will change into Bone marrow (= *Atthiminja)*  
 1. If this bone narrow becomes mature, it will change into Semen (= *Sukka*) 
 
- So, sequential changes of matters occurs in this way. This is the statement of Conventional designated world. (In, Ultimate truth sense, this is sequential changes of particles in the groups of matter. It is the repeated and sequential occurrence of the preceeding and following groups of matter.) 
+ So, sequential changes of matters occurs in this way. 
+ This is the statement of Conventional designated world. 
+ (In, Ultimate truth sense, this is sequential changes of particles in the groups of matter.
+  It is the repeated and sequential occurrence of the preceeding and following groups of matter.) 
 
- The taken up nutriment will change into Essence fluid only when it gets support of digestion by the Digestive Fire element of gastric heat, known as ***gahaṇī*** (Internal gastric heat = Digestive faculty). That Essence fluid when supported by the Digestive gastric heat, it becomes mature. Based on this mature Essence fluid, the blood arises. So, try to note this sequential changes until the development of semen (= *Sukka*). 
+ The taken up nutriment will change into Essence fluid only when it gets support of digestion by the Digestive Fire element of gastric heat, known as ***gahaṇī*** (Internal gastric heat = Digestive faculty). 
+ That Essence fluid when supported by the Digestive gastric heat, it becomes mature. 
+ Based on this mature Essence fluid, the blood arises. 
+ So, try to note this sequential changes until the development of semen (= *Sukka*). 
 
- That Digestive Fire element always occurs in the body. It exists in the neighbourhood of the stomach. It is the Fire element, included in the Life-nonad group of materiality (= ***Jīivitanavaka** **kalāpa***) in which Life-faculty (= ***Jīvita***) is the ninth factor. These are the Action produced materialities (= ***Kamma**ja **rūpa***) formed by the Action of past life. According to the quality of that Action, this gastric heat is active and digest properly in some person. In some, it is defective and can not digest the foods properly. In some, it is overactive. The support by Digestive Fire element will be better, if some manipulation of the consciousness, Temperature and the Nutriment(= ***Citta, Utu, Āāhāra***) near the Digestive Fire element in over-active or defective person are made by expert medical persons who know the Consciousness, Temperature and Nutriment produced Fire elements. In manipulation of mind, if highly noble consciousness (= *Adhicitta)* like consciousness of Tranquility meditation and Insight meditation are occurring successively in the Mind continuum, these consciousness are Wholesome Impulsion consciousness. (in Ordinary and Noble learner = *Puthujjana, sekkha*). These are the Wholesome actions of the present life. Weak and faint Wholesome actions of the Past time will get chance to give effects when these are supported by strong Present Wholesome action. 
+ That Digestive Fire element always occurs in the body. It exists in the neighbourhood of the stomach. 
+ It is the Fire element, included in the Life-nonad group of materiality (= ***Jīivitanavaka** **kalāpa***) in which Life-faculty (= ***Jīvita***) is the ninth factor. 
+ These are the Action produced materialities (= ***Kamma**ja **rūpa***) formed by the Action of past life. 
+ According to the quality of that Action, this gastric heat is active and digest properly in some person. 
+ In some, it is defective and can not digest the foods properly. 
+ In some, it is overactive. 
+ The support by Digestive Fire element will be better, if some manipulation of the consciousness, Temperature and the Nutriment(= ***Citta, Utu, Āāhāra***) near the Digestive Fire element in over-active or defective person are made by expert medical persons who know the Consciousness, Temperature and Nutriment produced Fire elements. 
+ In manipulation of mind, if highly noble consciousness (= *Adhicitta)* like consciousness of Tranquility meditation and Insight meditation are occurring successively in the Mind continuum, these consciousness are Wholesome Impulsion consciousness.
+  (in Ordinary and Noble learner = *Puthujjana, sekkha*). 
+  These are the Wholesome actions of the present life. 
+  Weak and faint Wholesome actions of the Past time will get chance to give effects when these are supported by strong Present Wholesome action. 
 
 
 ## **PAGE-20** 
 
 
-If so, the Digestive Fire element = Digestive gastric heat will also have strength if it is supported by the Wholesome action. But it is to be noted that the Past action is not changeable. Only by performing numerous strong Wholesome actions in Present time, one can give pathway to give effect for Past actions which are still not gaining chance to give their effects. When getting support by Present action, the Actions which do not have chance to give effects will attain chance to give effect. When, Past action gets chance to give it effect, the Digestive fire element which is included in the Action produced materialities (= ***Kamma**ja **rūpa***), formed by Past action will become strong. That Digestive Fire element or Digestive gastric heat is concerned only with Past action. 
+If so, the Digestive Fire element = Digestive gastric heat will also have strength if it is supported by the Wholesome action. 
+But it is to be noted that the Past action is not changeable. 
+Only by performing numerous strong Wholesome actions in Present time, one can give pathway to give effect for Past actions which are still not gaining chance to give their effects. 
+When getting support by Present action, the Actions which do not have chance to give effects will attain chance to give effect. 
+When, Past action gets chance to give it effect, the Digestive fire element which is included in the Action produced materialities (= ***Kamma**ja **rūpa***), formed by Past action will become strong. 
+That Digestive Fire element or Digestive gastric heat is concerned only with Past action. 
 
- When, the Mind is manipulated with Wholesome deeds, especially with Tranquility and Insight meditation, there will be numerous occurrence of noble (= *Panita*) consciousness produced materialities (= *Cittaja **rūpa***). Similarly, living in suitable weather and having appropriate medicines and diet, will give support for occurrence of better Temperature and Nutriment produced materialities. Only when noble consciousness, and better Temperature, Nutriment produced materialities give their support, the Action produced Fire element or Digestive Gastric fire element will become strong. 
+ When, the Mind is manipulated with Wholesome deeds, especially with Tranquility and Insight meditation, there will be numerous occurrence of noble (= *Panita*) consciousness produced materialities (= *Cittaja **rūpa***). Similarly, living in suitable weather and having appropriate medicines and diet, will give support for occurrence of better Temperature and Nutriment produced materialities. 
+ Only when noble consciousness, and better Temperature, Nutriment produced materialities give their support, the Action produced Fire element or Digestive Gastric fire element will become strong. 
 
- When discerning the Character, Essence etc, etc of this Fire element; select and discern the Fire element after analysing the various Groups of materiality you want to discern among the groups of matter in (6) Doors, (42) Body parts and consciousness Temperature and Nutriment produced groups of matter included in the secondary corporeatlities. As described in the Earth element, it is better to discern completely each and every unit of matters included in each and every group of matter (= ***Rūpa** **kalāpa***). 
+ When discerning the Character, Essence etc, etc of this Fire element; select and discern the Fire element after analysing the various Groups of materiality you want to discern among the groups of matter in (6) Doors, (42) Body parts and consciousness Temperature and Nutriment produced groups of matter included in the secondary corporeatlities. 
+ As described in the Earth element, it is better to discern completely each and every unit of matters included in each and every group of matter (= ***Rūpa** **kalāpa***). 
 
 
 
