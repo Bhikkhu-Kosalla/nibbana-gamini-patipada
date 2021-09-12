@@ -978,11 +978,11 @@ Impulsion consciousness can carries the materialities arising together from here
 #### **2. *Rupesu avinchana rasam*,  3. *Cakkhu vinññāṇassa adharabhava paccupaṭṭhanam*, 4. *Datthu kamatanidana kammajabhuta padaṭṭhānam***    (***Abhi-A***-1-349. ***Vs***-2-74)** 
 ** 
 
-\1. (a) The nature which deserves impingement, (striking) to Sense object of Sight, the nature which clears up the Primary elements      Character, 
+\1. (a) The nature which deserves impingement, (striking) to Sense object of Sight, the nature which clears up the Primary elements    <r> Character, </r>
 
 (b) The nature which cleans up the Primary elements produced by Action, based on craving of Visual object (= ***Rūpa** **taṇhā***) and having desire to see Sense object of Sight  
 
-`	  	 	 	 	 	 	 	 	 	`Character, 
+<r>Character,</r> 
 
 \2. Taking the persons or Thought process to Visual objects (towards the Sense object of sight) 	 	 	 	 	 	 	 	(Function) Essence, 
 
